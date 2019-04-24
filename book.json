@@ -5,7 +5,7 @@
     "author": "韩亚军",
     "links": {
         "sidebar": {
-            "韩亚军的博客": "https://www.hanyajun.com"
+            "韩亚军的博客": "https://hanyajun.com"
         }
     },
     "plugins": [
@@ -43,12 +43,12 @@
             "caption": "图片 - _CAPTION_"
         },
         "github-buttons": {
-            "repo": "hanyajun/golang-notes",
+            "repo": "Han-Ya-Jun/golang-notes",
             "types": ["star"],
             "size": "small"
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © www.hanyajun.com",
+            "copyright": "Copyright © hanyajun.com",
             "modify_label": "Updated at ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -70,7 +70,7 @@
             ]
         },
         "sitemap-general": {
-            "prefix": "https://www.huweihuang.com/golang-notes/"
+            "prefix": "https://hanyajun.com/golang-notes/"
         },
         "ga": {
             "token": "UA-138985430-1"
@@ -79,8 +79,8 @@
             "shortName": "hanyajun"
         },
         "donate": {
-            "wechat": "http://ozilwgpje.bkt.clouddn.com/donate/wechatpay.jpg",
-            "alipay": "http://ozilwgpje.bkt.clouddn.com/donate/alipay.jpg",
+            "wechat": "http://cdn.hanyajun.com/wepay.png",
+            "alipay": "http://cdn.hanyajun.com/alipay.jpg",
             "title": "",
             "button": "赏",
             "alipayText": "支付宝打赏",
