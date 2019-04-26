@@ -16,6 +16,6 @@
 
 # 赞赏
 
-> 如果觉得文章有帮助的话，可以打赏一下，谢谢！
+> 如果觉得文章有帮助的话，可以打赏一下，非常感谢
 
 <img src="http://cdn.hanyajun.com/wepay_alipay.png" width="70%"/>
