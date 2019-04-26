@@ -1,0 +1,25 @@
+language: node_js
+node_js:
+  - "v11.14.0"
+branches:
+  only:
+  - master
+cache:
+  directories:
+  - node_modules
+  yarn: true
+before_install:
+- export TZ='Asia/Shanghai'  # 设置时区
+install:
+ - npm install -g gitbook-cli
+script:
+- gitbook build
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  local-dir: ./_book/ ## 根据情况自定义到静态文件输出目录
+  target-branch: gh-pages
+  verbose: true
+  on:
+    branch: master
