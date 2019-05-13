@@ -1,4 +1,5 @@
-# Summary
+# 重温Go语言--Golang 学习笔记
 
-* [golang学习笔记](README.md)
+* [序言](README.md)
+* [go语言简介](INTRODUCE.md)
 
