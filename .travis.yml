@@ -40,7 +40,7 @@ after_script:
    - git commit -m "Update Gitbook By TravisCI With Build $TRAVIS_BUILD_NUMBER"
    - git push --force --quiet "https://hanyajun0123:${CODING_TOKEN}@${CO_REF}" master:master
    - git tag v0.0.$TRAVIS_BUILD_NUMBER -a -m "Auto Taged By TravisCI With Build $TRAVIS_BUILD_NUMBER"
-   - git push --quiet "https://hanyajun0123:${CO_TOKEN}@${CO_REF}" master:master --tags
+   - git push --quiet "https://hanyajun0123:${CODING_TOKEN}@${CO_REF}" master:master --tags
 
 # git@git.dev.tencent.com:hanyajun0123/coding_basis_review.git
 env:
