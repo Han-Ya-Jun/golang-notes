@@ -1,6 +1,13 @@
 language: node_js
 node_js:
   - "v11.14.0"
+notifications:
+  email:
+    recipients:
+      - 1581532052@qq.com
+      - hanyajun5876@163.com
+    on_success: always # default: change
+    on_failure: always # default: alway
 branches:
   only:
   - master
@@ -23,3 +30,20 @@ deploy:
   verbose: true
   on:
     branch: master
+
+after_script:
+   - cd ./_book
+   - git init
+   - git config user.name "hanyajun0123"
+   - git config user.email "1581532052@qq.com"
+   - git add .
+   - git commit -m "Update Gitbook By TravisCI With Build $TRAVIS_BUILD_NUMBER"
+   - git push --force --quiet "https://hanyajun0123:${CODING_TOKEN}@${CO_REF}" master:master
+   - git tag v0.0.$TRAVIS_BUILD_NUMBER -a -m "Auto Taged By TravisCI With Build $TRAVIS_BUILD_NUMBER"
+   - git push --quiet "https://hanyajun0123:${CO_TOKEN}@${CO_REF}" master:master --tags
+
+# git@git.dev.tencent.com:hanyajun0123/coding_basis_review.git
+env:
+ global:
+   # Coding Pages
+   - CO_REF: git.dev.tencent.com/hanyajun0123/golang-notes.git
