@@ -1,0 +1,1689 @@
+
+<!DOCTYPE HTML>
+<html lang="zh-hans" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>GoCN_NEWS_2017 · Golang 学习笔记</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        <meta name="author" content="韩亚军">
+        
+        
+    
+    <link rel="stylesheet" href="gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-splitter/splitter.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-page-toc-button/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-image-captions/image-captions.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-back-to-top-button/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-search-plus/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-tbfed-pagefooter/footer.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-prism/prism-okaidia.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-disqus/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-donate/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="gocn_news_2018.html" />
+    
+    
+
+    
+        <link rel="shortcut icon" href='images/favicon.ico' type="image/x-icon">
+    
+    
+        <link rel="bookmark" href='images/favicon.ico' type="image/x-icon">
+    
+    
+        <link rel="apple-touch-icon" href='images/favicon.ico'>
+    
+    
+        
+        <link rel="apple-touch-icon" sizes="120x120" href="images/favicon.ico">
+        
+        <link rel="apple-touch-icon" sizes="180x180" href="images/favicon.ico">
+        
+    
+
+    <style>
+    @media only screen and (max-width: 640px) {
+        .book-header .hidden-mobile {
+            display: none;
+        }
+    }
+    </style>
+    <script>
+        window["gitbook-plugin-github-buttons"] = {"repo":"Han-Ya-Jun/golang-notes","types":["star"],"size":"small"};
+    </script>
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="输入并搜索" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+    
+        
+        <li>
+            <a href="https://hanyajun.com" target="_blank" class="custom-link">韩亚军的博客</a>
+        </li>
+    
+    
+
+    
+    <li class="divider"></li>
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="./">
+            
+                <a href="./">
+            
+                    
+                        <b>1.1.</b>
+                    
+                    序言
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="INTRODUCE.html">
+            
+                <a href="INTRODUCE.html">
+            
+                    
+                        <b>1.2.</b>
+                    
+                    go语言简介
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" >
+            
+                <span>
+            
+                    
+                        <b>1.3.</b>
+                    
+                    基础语法
+            
+                </span>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="BASICGRAMMAR.html">
+            
+                <a href="BASICGRAMMAR.html">
+            
+                    
+                        <b>1.3.1.</b>
+                    
+                    基础类型
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" >
+            
+                <span>
+            
+                    
+                        <b>1.4.</b>
+                    
+                    Go每日新闻
+            
+                </span>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter active" data-level="1.4.1" data-path="gocn_news_2017.html">
+            
+                <a href="gocn_news_2017.html">
+            
+                    
+                        <b>1.4.1.</b>
+                    
+                    GoCN_NEWS_2017
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.2" data-path="gocn_news_2018.html">
+            
+                <a href="gocn_news_2018.html">
+            
+                    
+                        <b>1.4.2.</b>
+                    
+                    GoCN_NEWS_2018
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.3" data-path="gocn_news_2019.html">
+            
+                <a href="gocn_news_2019.html">
+            
+                    
+                        <b>1.4.3.</b>
+                    
+                    GoCN_NEWS_2019
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            本书使用 GitBook 发布
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="." >GoCN_NEWS_2017</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div class="search-plus" id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="gocnnews2017">gocn_news_2017</h1>
+<hr>
+<h2 id="gocnnews2017-12-31">gocn_news_2017-12-31</h2>
+<ul>
+<li><ol>
+<li>&#x5206;&#x5E03;&#x5F0F;&#x7CFB;&#x7EDF;&#x4E0B;&#x7684;Go channels <a href="https://medium.com/@matryer/introducing-vice-go-channels-across-many-machines-bcac1147d7e2" target="_blank">https://medium.com/@matryer/introducing-vice-go-channels-across-many-machines-bcac1147d7e2</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go Socket&#x7F16;&#x7A0B;&#x4E4B;teleport&#x6846;&#x67B6;&#x662F;&#x600E;&#x6837;&#x70BC;&#x6210;&#x7684;   <a href="https://www.jianshu.com/p/7120b8378681" target="_blank">https://www.jianshu.com/p/7120b8378681</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x65F6;&#x5E8F;&#x6570;&#x636E;&#x5E93;&#x6280;&#x672F;&#x4F53;&#x7CFB;&#xFF0D;&#x65F6;&#x5E8F;&#x6570;&#x636E;&#x5B58;&#x50A8;&#x6A21;&#x578B;&#x8BBE;&#x8BA1; <a href="http://hbasefly.com/2017/11/19/timeseries-database-2/" target="_blank">http://hbasefly.com/2017/11/19/timeseries-database-2/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>RocksDB PhysicalCoreID &#x6162;&#x95EE;&#x9898;&#x6392;&#x67E5; <a href="https://www.jianshu.com/p/81a2975f9d7a" target="_blank">https://www.jianshu.com/p/81a2975f9d7a</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x8FFD;&#x6C42;&#x6781;&#x7B80;&#xFF1A;Docker&#x955C;&#x50CF;&#x6784;&#x5EFA;&#x6F14;&#x5316;&#x53F2; <a href="http://tonybai.com/2017/12/21/the-concise-history-of-docker-image-building/" target="_blank">http://tonybai.com/2017/12/21/the-concise-history-of-docker-image-building/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>GopherChina2018&#x6765;&#x4E86;&#xFF01; <a href="https://www.bagevent.com/event/1086224" target="_blank">https://www.bagevent.com/event/1086224</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-30">gocn_news_2017-12-30</h2>
+<ul>
+<li><ol>
+<li>Go&#x8BED;&#x8A00;&#x4E2D;&#x7684;&#x9519;&#x8BEF;&#x5904;&#x7406; <a href="http://ethancai.github.io/2017/12/29/Error-Handling-in-Go/" target="_blank">http://ethancai.github.io/2017/12/29/Error-Handling-in-Go/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7ED9;&#x4F60;&#x7684; Golang &#x7A0B;&#x5E8F;&#x6DFB;&#x52A0; GUI (Electron) <a href="https://studygolang.com/articles/12065" target="_blank">https://studygolang.com/articles/12065</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4E00;&#x4E2A;&#x8C03;&#x5EA6;&#x7CFB;&#x7EDF;&#x7684;&#x5F00;&#x53D1;&#x4E0E;&#x6027;&#x80FD;&#x4F18;&#x5316; <a href="https://zhuanlan.zhihu.com/p/32439765" target="_blank">https://zhuanlan.zhihu.com/p/32439765</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5E74;&#x7EC8;&#x76D8;&#x70B9;&#xFF01;2017&#x5E74;&#x8D85;&#x6709;&#x4EF7;&#x503C;&#x7684;Golang&#x6587;&#x7AE0; <a href="http://colobu.com/2017/12/28/top-golang-articles-of-2017/" target="_blank">http://colobu.com/2017/12/28/top-golang-articles-of-2017/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Golang &#x5957;&#x4EF6;&#x7BA1;&#x7406;&#x5DE5;&#x5177; Glide <a href="https://cainmaila.github.io/2017/12/27/golang-glide/" target="_blank">https://cainmaila.github.io/2017/12/27/golang-glide/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>GopherChina2018&#x6765;&#x4E86;&#xFF01; <a href="https://www.bagevent.com/event/1086224" target="_blank">https://www.bagevent.com/event/1086224</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-29">gocn_news_2017-12-29</h2>
+<ul>
+<li><ol>
+<li>&#x4F7F;&#x7528;Go&#x7684;&#x5B9E;&#x73B0;&#x5DE5;&#x4F5C;&#x961F;&#x5217; <a href="https://geeks.uniplaces.com/building-a-worker-pool-in-golang-1e6c0fdfd78c" target="_blank">https://geeks.uniplaces.com/building-a-worker-pool-in-golang-1e6c0fdfd78c</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Reddit.com&#x7F51;&#x7AD9;&#x67B6;&#x6784;&#x6F14;&#x53D8; <a href="https://www.infoq.com/presentations/reddit-architecture-evolution" target="_blank">https://www.infoq.com/presentations/reddit-architecture-evolution</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4E00;&#x6B3E;Go&#x8BED;&#x8A00;&#x5F00;&#x53D1;&#x7684;&#x9A8C;&#x8BC1;&#x7801;&#x751F;&#x6210;&#x5229;&#x5668; <a href="https://github.com/mojocn/base64Captcha" target="_blank">https://github.com/mojocn/base64Captcha</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7528;Go&#x8BED;&#x8A00;&#x5B9E;&#x73B0;&#x6570;&#x5B66;&#x516C;&#x5F0F;&#x8BA1;&#x7B97; <a href="http://bionics.it/posts/equation-centric-dataflow-programming-in-go" target="_blank">http://bionics.it/posts/equation-centric-dataflow-programming-in-go</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x6DF1;&#x5EA6;&#x5B66;&#x4E60;&#x7B97;&#x6CD5;&#x5B66;&#x4E60;&#x6307;&#x5357; <a href="https://github.com/KeKe-Li/tutorial" target="_blank">https://github.com/KeKe-Li/tutorial</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-28">gocn_news_2017-12-28</h2>
+<ul>
+<li><ol>
+<li>GoCN&#x6BCF;&#x65E5;&#x65B0;&#x95FB;(2017-12-28)</li>
+</ol>
+</li>
+<li><ol>
+<li>1.Go&#x6A21;&#x677F;&#x4F7F;&#x7528; <a href="https://blog.gopheracademy.com/advent-2017/using-go-templates/" target="_blank">https://blog.gopheracademy.com/advent-2017/using-go-templates/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>2.Golang&#x4F18;&#x79C0;&#x5F00;&#x6E90;&#x9879;&#x76EE;&#x6C47;&#x603B; <a href="https://www.ctolib.com/topics-2762.html" target="_blank">https://www.ctolib.com/topics-2762.html</a></li>
+</ol>
+</li>
+<li><ol>
+<li>3.Go&#x5F00;&#x53D1;&#x9AD8;&#x8D1F;&#x8F7D;WebSocket <a href="https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb" target="_blank">https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb</a></li>
+</ol>
+</li>
+<li><ol>
+<li>4.Golang&#x6784;&#x5EFA;&#x5DE5;&#x4F5C;&#x6C60; <a href="https://geeks.uniplaces.com/building-a-worker-pool-in-golang-1e6c0fdfd78c" target="_blank">https://geeks.uniplaces.com/building-a-worker-pool-in-golang-1e6c0fdfd78c</a></li>
+</ol>
+</li>
+<li><ol>
+<li>5.&#x673A;&#x5668;&#x5B66;&#x4E60;&#x6982;&#x8FF0; <a href="https://feisky.xyz/machine-learning/basic/" target="_blank">https://feisky.xyz/machine-learning/basic/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7F16;&#x8F91;: &#x674E;&#x68EE;&#x68EE;
+&#x8BA2;&#x9605;&#x65B0;&#x95FB;: <a href="http://tinyletter.com/gocn" target="_blank">http://tinyletter.com/gocn</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7B2C;&#x4E00;&#x6761;&#x65B0;&#x95FB;&#x6709;&#x95EE;&#x9898;&#x5427;&#xFF0C;&#x5185;&#x5BB9;&#x4E0E;&#x6807;&#x9898;&#x4E25;&#x91CD;&#x4E0D;&#x7B26;&#x5408;</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-27">gocn_news_2017-12-27</h2>
+<ul>
+<li><ol>
+<li>&#x4F7F;&#x7528;GO&#x7F16;&#x5199;&#x7684;JIT&#x7F16;&#x8BD1;&#x5668; <a href="https://medium.com/kokster/writing-a-jit-compiler-in-golang-964b61295f" target="_blank">https://medium.com/kokster/writing-a-jit-compiler-in-golang-964b61295f</a> </li>
+</ol>
+</li>
+<li><ol>
+<li>DNS&#x89E3;&#x6790;&#x5668;&#xFF0C;&#x6DF1;&#x5165;&#x6D45;&#x51FA;Go&#x8BED;&#x8A00;   <a href="http://liehu.tass.com.cn/archives/1052" target="_blank">http://liehu.tass.com.cn/archives/1052</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5546;&#x7528;&#x7EA7;Service Mesh&#x670D;&#x52A1;&#x7684;&#x8BBE;&#x8BA1;&#x4E4B;&#x9053;  <a href="https://mp.weixin.qq.com/s/2I_jXUB5RCseA9YRn0P2FA" target="_blank">https://mp.weixin.qq.com/s/2I_jXUB5RCseA9YRn0P2FA</a></li>
+</ol>
+</li>
+<li><ol>
+<li>client-go&#x7684;&#x4F7F;&#x7528;&#x53CA;&#x6E90;&#x7801;&#x5206;&#x6790;  <a href="http://www.huweihuang.com/article/source-analysis/client-go-source-analysis/" target="_blank">http://www.huweihuang.com/article/source-analysis/client-go-source-analysis/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7F13;&#x5B58;&#x7A7F;&#x900F;&#x3001;&#x7F13;&#x5B58;&#x5E76;&#x53D1;&#x3001;&#x70ED;&#x70B9;&#x7F13;&#x5B58;&#x4E4B;&#x6700;&#x4F73;&#x62DB;&#x5F0F; <a href="https://mp.weixin.qq.com/s/62KJ2mSTGoUTPsq0RjU7lg" target="_blank">https://mp.weixin.qq.com/s/62KJ2mSTGoUTPsq0RjU7lg</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-26">gocn_news_2017-12-26</h2>
+<ul>
+<li><ol>
+<li>Kuberneters &#x4E2D; Go &#x7684;&#x6CDB;&#x578B; <a href="https://medium.com/@arschles/go-experience-report-generics-in-kubernetes-25da87430301" target="_blank">https://medium.com/@arschles/go-experience-report-generics-in-kubernetes-25da87430301</a></li>
+</ol>
+</li>
+<li><ol>
+<li>math/rand  &#x5168;&#x5C40;&#x9501;&#x4E0E; goroutine <a href="https://www.myhightech.org/2017/12/22/rand-and-goroutines/" target="_blank">https://www.myhightech.org/2017/12/22/rand-and-goroutines/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x8BB0;&#x4E00;&#x6B21; latency &#x95EE;&#x9898;&#x6392;&#x67E5;&#xFF1A;&#x8C08; Go &#x7684;&#x516C;&#x5E73;&#x8C03;&#x5EA6;&#x7684;&#x7F3A;&#x9677; <a href="http://www.zenlife.tk/go-scheduler-pitfall.md" target="_blank">http://www.zenlife.tk/go-scheduler-pitfall.md</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x521D;&#x5B66; Go &#x7684;&#x51E0;&#x4E2A;&#x95EE;&#x9898; <a href="https://zhuanlan.zhihu.com/p/26005856" target="_blank">https://zhuanlan.zhihu.com/p/26005856</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go &#x5F00;&#x6E90;&#x56FE;&#x6570;&#x636E;&#x5E93; <a href="https://github.com/cayleygraph/cayley" target="_blank">https://github.com/cayleygraph/cayley</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-25">gocn_news_2017-12-25</h2>
+<ul>
+<li><ol>
+<li>Brigade: &#x57FA;&#x4E8E;&#x4E8B;&#x4EF6;&#x7684;K8s&#x811A;&#x672C;&#x5F15;&#x64CE; <a href="https://github.com/Azure/brigade" target="_blank">https://github.com/Azure/brigade</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4F7F;&#x7528;go trace&#x8DDF;&#x8E2A;&#x7A0B;&#x5E8F;&#x6267;&#x884C; <a href="https://blog.gopheracademy.com/advent-2017/go-execution-tracer/" target="_blank">https://blog.gopheracademy.com/advent-2017/go-execution-tracer/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>flagr: &#x52A8;&#x6001;&#x914D;&#x7F6E;&#x7684;A/B&#x6D4B;&#x8BD5;&#x5DE5;&#x5177; <a href="https://github.com/checkr/flagr" target="_blank">https://github.com/checkr/flagr</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go&#x8BED;&#x8A00;&#x53CD;&#x5C04;&#x5165;&#x95E8;&#xFF1A;&#x6839;&#x636E;&#x7C7B;&#x578B;&#x521B;&#x5EFA;&#x5BF9;&#x8C61; <a href="https://medium.com/kokster/go-reflection-creating-objects-from-types-part-i-primitive-types-6119e3737f5d" target="_blank">https://medium.com/kokster/go-reflection-creating-objects-from-types-part-i-primitive-types-6119e3737f5d</a></li>
+</ol>
+</li>
+<li><ol>
+<li>lgo: &#x8BA9;Jupyter Notebook&#x652F;&#x6301;Go&#x8BED;&#x8A00; <a href="https://github.com/yunabe/lgo" target="_blank">https://github.com/yunabe/lgo</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-24">gocn_news_2017-12-24</h2>
+<ul>
+<li><ol>
+<li>&#x670D;&#x52A1;&#x7AEF;I/O&#x6027;&#x80FD;&#x5927;&#x6BD4;&#x62FC;:Node&#x3001;PHP&#x3001;Java&#x3001;Go www.iteye.com/news/32826</li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7F8E;&#x56E2;DDD&#x4E1A;&#x52A1;&#x5B9E;&#x8DF5; <a href="https://mp.weixin.qq.com/s/jMWuMuIvI1cFThC-WQGbHQ" target="_blank">https://mp.weixin.qq.com/s/jMWuMuIvI1cFThC-WQGbHQ</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Google&#x5F00;&#x53D1;&#x8005;&#x5927;&#x4F1A;&#x56DE;&#x987E; <a href="http://summary.gdd.zbong.cn/universe" target="_blank">http://summary.gdd.zbong.cn/universe</a></li>
+</ol>
+</li>
+<li><ol>
+<li>fireworq:&#x9AD8;&#x6027;&#x80FD;&#x8DE8;&#x8BED;&#x8A00;&#x4EFB;&#x52A1;&#x961F;&#x5217;&#x7CFB;&#x7EDF; <a href="https://github.com/fireworq/fireworq" target="_blank">https://github.com/fireworq/fireworq</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Golang&#x914D;&#x7F6E;&#x7BA1;&#x7406;TOML <a href="http://www.cnblogs.com/CraryPrimitiveMan/p/7928647.html" target="_blank">http://www.cnblogs.com/CraryPrimitiveMan/p/7928647.html</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-23">gocn_news_2017-12-23</h2>
+<ul>
+<li><ol>
+<li>Mendelics&#x516C;&#x53F8;&#x7528;gopdf&#x5E93;&#x66FF;&#x6362;python&#x751F;&#x6210;&#x516C;&#x53F8;&#x62A5;&#x8868;  <a href="https://blog.gopheracademy.com/advent-2017/building-medical-reports-in-go/" target="_blank">https://blog.gopheracademy.com/advent-2017/building-medical-reports-in-go/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4F7F;&#x7528;osquery-sdk&#x6267;&#x884C;SQL&#x67E5;&#x8BE2;&#x670D;&#x52A1;&#x5668;&#x7CFB;&#x7EDF;&#x4FE1;&#x606F; <a href="https://blog.gopheracademy.com/advent-2017/osquery-sdk/" target="_blank">https://blog.gopheracademy.com/advent-2017/osquery-sdk/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x8FDC;&#x7A0B;&#x63A7;&#x5236;&#x5DE5;&#x5177;Merlin&#x4ECB;&#x7ECD; <a href="https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a" target="_blank">https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a</a></li>
+</ol>
+</li>
+<li><ol>
+<li>TensorFlow&#x6846;&#x67B6;&#x673A;&#x5668;&#x5B66;&#x4E60;&#x5165;&#x95E8;&#x624B;&#x518C;  <a href="https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial" target="_blank">https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial</a></li>
+</ol>
+</li>
+<li><ol>
+<li>2017&#x5E74;go&#x8BED;&#x8A00;&#x5B66;&#x4E60;&#x6700;&#x4F73;&#x5B66;&#x4E60;&#x4E66;&#x7C4D;&amp;&#x8BFE;&#x7A0B;&#x4ECB;&#x7ECD; <a href="https://reactdom.com/blog/go-books" target="_blank">https://reactdom.com/blog/go-books</a> </li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-22">gocn_news_2017-12-22</h2>
+<ul>
+<li><ol>
+<li>5&#x79CD;Go&#x6D4B;&#x8BD5;&#x4E2D;&#x7684;&#x9AD8;&#x7EA7;&#x6280;&#x5DE7; <a href="https://segment.com/blog/5-advanced-testing-techniques-in-go/" target="_blank">https://segment.com/blog/5-advanced-testing-techniques-in-go/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4ECE;&#x96F6;&#x5F00;&#x59CB;&#x6784;&#x5EFA;&#x5206;&#x5E03;&#x5F0F;&#x65E5;&#x5FD7;&#x7CFB;&#x7EDF; <a href="http://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics/" target="_blank">http://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>defer&#x4F7F;&#x7528;&#x7684;5&#x4E2A;&#x9677;&#x9631;&#xFF08;2&#xFF09; <a href="https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-ii-cc550f6ad9aa" target="_blank">https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-ii-cc550f6ad9aa</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Serverless&#x67B6;&#x6784;&#x5165;&#x95E8;&#x624B;&#x518C; <a href="https://www.simform.com/serverless-architecture-guide/" target="_blank">https://www.simform.com/serverless-architecture-guide/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4F7F;&#x7528;fasthttp&#x65F6;&#x9700;&#x8981;&#x6CE8;&#x610F;&#x7684;&#x4E24;&#x4E2A;&#x70B9; <a href="https://studygolang.com/articles/11966" target="_blank">https://studygolang.com/articles/11966</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-21">gocn_news_2017-12-21</h2>
+<ul>
+<li><ol>
+<li>ServiceMesh&#x65F6;&#x4EE3;&#x7684;&#x9009;&#x8FB9;&#x4E0E;&#x7AD9;&#x961F;&#xFF08;&#x9644;PPT&#x4E0B;&#x8F7D;&#xFF09; <a href="https://mp.weixin.qq.com/s/hHzDa1T_UKPB97ttFRaDCQ" target="_blank">https://mp.weixin.qq.com/s/hHzDa1T_UKPB97ttFRaDCQ</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Golang&#x4E00;&#x79CD;&#x5168;&#x8282;&#x70B9;&#x6BD4;&#x7279;&#x5E01;&#x5B9E;&#x73B0; <a href="https://github.com/btcsuite/btcd" target="_blank">https://github.com/btcsuite/btcd</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Golang&#x6570;&#x636E;&#x79D1;&#x5B66;&#x7B80;&#x4ECB; <a href="https://www.cheatography.com/chewxy/cheat-sheets/data-science-in-go-a/" target="_blank">https://www.cheatography.com/chewxy/cheat-sheets/data-science-in-go-a/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Golang&#x6DF1;&#x5EA6;&#x5B66;&#x4E60; <a href="http://gopherdata.io/post/deeplearning_in_go_part_1/" target="_blank">http://gopherdata.io/post/deeplearning_in_go_part_1/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Golang&#x5982;&#x4F55;&#x4E0D;&#x7528;&#x5BB9;&#x5668;&#x505A;&#x4F9D;&#x8D56;&#x6CE8;&#x5165; <a href="https://medium.com/@nvcnvn/how-difficult-for-handle-dependency-injection-in-go-without-the-help-with-container-a3f570a23d62" target="_blank">https://medium.com/@nvcnvn/how-difficult-for-handle-dependency-injection-in-go-without-the-help-with-container-a3f570a23d62</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-20">gocn_news_2017-12-20</h2>
+<ul>
+<li><ol>
+<li>&#x6211;&#x4E0E;Go&#x8BED;&#x8A00;&#x7684;&#x8FD9;&#x5341;&#x5E74; <a href="https://mp.weixin.qq.com/s/iU7gaZNgCsU3DHaHa5PZ_Q" target="_blank">https://mp.weixin.qq.com/s/iU7gaZNgCsU3DHaHa5PZ_Q</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x89E3;&#x8BFB;netpoll.go <a href="https://www.youtube.com/watch?v=xwlo3xigknI" target="_blank">https://www.youtube.com/watch?v=xwlo3xigknI</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7CFB;&#x7EDF;&#x8BBE;&#x8BA1;&#x7684;&#x4E07;&#x80FD;&#x89E3;&#x6CD5;&#xFF1A;SNAKE&#x539F;&#x5219; <a href="https://mp.weixin.qq.com/s/u8NDvKcYv4ztVVRT_HaUJw" target="_blank">https://mp.weixin.qq.com/s/u8NDvKcYv4ztVVRT_HaUJw</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x901A;&#x8FC7;go/parser&#x6765;&#x7406;&#x89E3;Go&#x7A0B;&#x5E8F; <a href="https://medium.com/%40francesc/funderstanding-go-programs-with-go-parser-c4e88a6edb87" target="_blank">https://medium.com/%40francesc/funderstanding-go-programs-with-go-parser-c4e88a6edb87</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go&#x751F;&#x6210;&#x3001;&#x6267;&#x884C;wasm <a href="https://blog.gopheracademy.com/advent-2017/go-wasm/" target="_blank">https://blog.gopheracademy.com/advent-2017/go-wasm/</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-19">gocn_news_2017-12-19</h2>
+<ul>
+<li><ol>
+<li>&#x901A;&#x8FC7;&#x89E3;&#x6790;&#x5668;&#x6765;&#x7406;&#x89E3; Go  <a href="https://medium.com/@francesc/understanding-go-programs-with-go-parser-c4e88a6edb87" target="_blank">https://medium.com/@francesc/understanding-go-programs-with-go-parser-c4e88a6edb87</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go &#x9762;&#x5411;&#x5BF9;&#x8C61;&#x7F16;&#x7A0B;  <a href="https://icyapril.com/go/programming/2017/12/17/object-orientation-in-go.html" target="_blank">https://icyapril.com/go/programming/2017/12/17/object-orientation-in-go.html</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4F7F;&#x7528; Gin &#x6846;&#x67B6;&#x521B;&#x5EFA; API &#x670D;&#x52A1;  <a href="https://ryanmccue.ca/creating-an-api-with-golang-gin-framework/" target="_blank">https://ryanmccue.ca/creating-an-api-with-golang-gin-framework/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Unsafe &#x5305;&#x4EE5;&#x53CA;&#x7CFB;&#x7EDF;&#x8C03;&#x7528;&#x7684;&#x76F8;&#x5173;&#x8BB2;&#x89E3;  <a href="https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/" target="_blank">https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x624B;&#x628A;&#x624B;&#x6559;&#x4F60;&#x5199; K8s &#x670D;&#x52A1; <a href="https://blog.gopheracademy.com/advent-2017/kubernetes-ready-service/" target="_blank">https://blog.gopheracademy.com/advent-2017/kubernetes-ready-service/</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-18">gocn_news_2017-12-18</h2>
+<ul>
+<li><ol>
+<li>&#x901A;&#x8FC7; HTTP &#x8FDC;&#x7A0B;&#x67E5;&#x627E;&#x60F3;&#x8981;&#x7684; zip &#x6587;&#x4EF6; <a href="https://blog.gopheracademy.com/advent-2017/seekable-http/" target="_blank">https://blog.gopheracademy.com/advent-2017/seekable-http/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x8D85;&#x5B9E;&#x7528;&#x52A0;&#x5BC6;&#x5165;&#x95E8;&#x6559;&#x7A0B; <a href="https://cyberspy.io/articles/crypto101/" target="_blank">https://cyberspy.io/articles/crypto101/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5229;&#x7528; csv &#x5904;&#x7406;&#x8868;&#x683C;&#x6570;&#x636E; <a href="https://appliedgo.net/spreadsheet/" target="_blank">https://appliedgo.net/spreadsheet/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5982;&#x4F55;&#x5728;&#x5355;&#x5143;&#x6D4B;&#x8BD5;&#x4E2D; mock &#x5F53;&#x524D;&#x65F6;&#x95F4; <a href="https://medium.com/@agatan/timejump-a-library-to-manipulate-the-time-for-testing-in-go-9ccfe5b1ac7d" target="_blank">https://medium.com/@agatan/timejump-a-library-to-manipulate-the-time-for-testing-in-go-9ccfe5b1ac7d</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7528; Go &#x7F16;&#x5199;&#x7684;&#x6076;&#x610F;&#x6D41;&#x91CF;&#x5206;&#x6790;&#x7A0B;&#x5E8F; <a href="https://github.com/netxfly/xsec-traffic" target="_blank">https://github.com/netxfly/xsec-traffic</a></li>
+</ol>
+</li>
+<li><ol>
+<li>[&#x4E0A;&#x6D77;]&#x79EF;&#x68A6;&#x667A;&#x80FD; <a href="https://gocn.io/article/526" target="_blank">https://gocn.io/article/526</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-17">gocn_news_2017-12-17</h2>
+<ul>
+<li><ol>
+<li>&#x8FDB;&#x7A0B;&#x7BA1;&#x7406;&#x5DE5;&#x5177;sir <a href="https://github.com/foreversmart/sir" target="_blank">https://github.com/foreversmart/sir</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x57FA;&#x7840;&#x4F18;&#x5316;-&#x6700;&#x4E0D;&#x574F;&#x7684;&#x54C8;&#x5E0C;&#x8868;: <a href="http://www.skywind.me/blog/archives/2006" target="_blank">http://www.skywind.me/blog/archives/2006</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x997F;&#x4E86;&#x4E48;&#x5F02;&#x5730;&#x591A;&#x6D3B;&#x6280;&#x672F;&#x5B9E;&#x73B0;&#xFF08;&#x4E00;&#xFF09;&#x603B;&#x4F53;&#x4ECB;&#x7ECD;: <a href="https://zhuanlan.zhihu.com/p/32009822" target="_blank">https://zhuanlan.zhihu.com/p/32009822</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x6D45;&#x8C08;&#x5206;&#x5E03;&#x5F0F;&#x5B58;&#x50A8;&#x7CFB;&#x7EDF;&#x6570;&#x636E;&#x5206;&#x5E03;&#x65B9;&#x6CD5;: <a href="http://catkang.github.io/2017/12/17/data-placement.html" target="_blank">http://catkang.github.io/2017/12/17/data-placement.html</a></li>
+</ol>
+</li>
+<li><ol>
+<li>golang&#x6C47;&#x7F16;&#x5165;&#x95E8;: <a href="https://lrita.github.io/2017/12/12/golang-asm/" target="_blank">https://lrita.github.io/2017/12/12/golang-asm/</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-16">gocn_news_2017-12-16</h2>
+<ul>
+<li><ol>
+<li>Go IGDB&#x5BA2;&#x6237;&#x7AEF; <a href="https://github.com/Henry-Sarabia/igdb" target="_blank">https://github.com/Henry-Sarabia/igdb</a></li>
+</ol>
+</li>
+<li><ol>
+<li>GopherChina 2018 &#x5373;&#x5C06;&#x5230; <a href="https://twitter.com/astaxie/status/941672327015628800" target="_blank">https://twitter.com/astaxie/status/941672327015628800</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x6DF1;&#x5165;&#x7406;&#x89E3;unsafe.Pointer&#x548C;System calls <a href="https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/" target="_blank">https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x8C08;&#x8C08;Linux&#x5E73;&#x5747;&#x8D1F;&#x8F7D; <a href="http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html" target="_blank">http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5168;&#x7403;AI&#x521B;&#x4E1A;&#x516C;&#x53F8;&#x524D;100&#x5F3A; <a href="https://mp.weixin.qq.com/s/-UpwJR54nD__Yw7v1Bb3VA" target="_blank">https://mp.weixin.qq.com/s/-UpwJR54nD__Yw7v1Bb3VA</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-15">gocn_news_2017-12-15</h2>
+<ul>
+<li><ol>
+<li>&#x5355;&#x5143;&#x6D4B;&#x8BD5;&#x7684;&#x827A;&#x672F; <a href="https://www.youtube.com/watch?v=EOpj9aZ8KfoGoCN" target="_blank">https://www.youtube.com/watch?v=EOpj9aZ8KfoGoCN</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4F7F;&#x7528;Go&#x8BED;&#x8A00;&#x89E3;&#x6790;&#x52A8;&#x6001;JSON&#x683C;&#x5F0F; <a href="http://eagain.net/articles/go-dynamic-json/" target="_blank">http://eagain.net/articles/go-dynamic-json/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5FAE;&#x670D;&#x52A1;&#x6A21;&#x578B;&#xFF1A;Service Mesh <a href="http://philcalcado.com/2017/08/03/pattern_service_mesh.html" target="_blank">http://philcalcado.com/2017/08/03/pattern_service_mesh.html</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5982;&#x4F55;&#x843D;&#x5730;TensorFlow on Kubernetes&#xFF1F;<a href="https://mp.weixin.qq.com/s/huHm09xfStIw76eN3hL8tA" target="_blank">https://mp.weixin.qq.com/s/huHm09xfStIw76eN3hL8tA</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x57FA;&#x4E8E;Go&#x6280;&#x672F;&#x6808;&#x7684;&#x5FAE;&#x670D;&#x52A1;&#x6784;&#x5EFA; <a href="http://www.uml.org.cn/wfw/201712061.asp" target="_blank">http://www.uml.org.cn/wfw/201712061.asp</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-14">gocn_news_2017-12-14</h2>
+<ul>
+<li><ol>
+<li>GOCN&#x6BCF;&#x65E5;&#x65B0;&#x95FB;(2017-12-14)</li>
+</ol>
+</li>
+<li><ol>
+<li>1.&#x5728; Kubernetes&#x4E0A;&#x8FD0;&#x884C; Spark <a href="https://jimmysong.io/spark-on-k8s/running-on-kubernetes.html" target="_blank">https://jimmysong.io/spark-on-k8s/running-on-kubernetes.html</a>
+2.Go&#x548C;&#x673A;&#x5668;&#x5B66;&#x4E60; <a href="https://www.dotconferences.com/2017/11/francesc-campoy-flores-machine-learning-and-go" target="_blank">https://www.dotconferences.com/2017/11/francesc-campoy-flores-machine-learning-and-go</a>
+3.Go&#x901A;&#x8FC7; Consul&#x5B9E;&#x73B0;&#x5206;&#x5E03;&#x5F0F;&#x9501; <a href="https://distributedbydefault.com/distributed-locks-with-consul-and-golang-c4eccc217dd5" target="_blank">https://distributedbydefault.com/distributed-locks-with-consul-and-golang-c4eccc217dd5</a>
+4.Go&#x8F6C;&#x6362;Javascript&#x7F16;&#x8BD1;&#x5668; <a href="https://mat.tm/joy/" target="_blank">https://mat.tm/joy/</a>
+5.&#x968F;&#x65F6;&#x968F;&#x5730;&#x8BBF;&#x95EE;&#x60A8;&#x7684;Kubernetes&#x96C6;&#x7FA4; <a href="https://jimmysong.io/posts/kubernetes-anytime-anywhere/" target="_blank">https://jimmysong.io/posts/kubernetes-anytime-anywhere/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7F16;&#x8F91;&#xFF1A;&#x674E;&#x68EE;&#x68EE;
+&#x8BA2;&#x9605;&#x65B0;&#x95FB;&#xFF1A;<a href="http://tinyletter.com/gocn" target="_blank">http://tinyletter.com/gocn</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x6709;&#x95EE;&#x9898;&#x53CD;&#x9988;&#x7684;&#x53EF;&#x4EE5;&#x52A0;&#x6211;&#x5FAE;&#x4FE1;Sen0676,go&#x6BCF;&#x65E5;&#x65B0;&#x95FB;&#x4F1A;&#x505A;&#x7684;&#x66F4;&#x597D;</li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7EC8;&#x4E8E;&#x770B;&#x5230;&#x6709;&#x5173;&#x673A;&#x5668;&#x5B66;&#x4E60;&#x7684;&#x8981;&#x95FB;&#x5566;&#x3002;&#x4E0D;&#x9519;&#x4E0D;&#x9519;&#x3002;</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-13">gocn_news_2017-12-13</h2>
+<ul>
+<li><ol>
+<li>&#x963F;&#x91CC;&#x7684;&#x5BB9;&#x5668;&#x6280;&#x672F; <a href="https://github.com/alibaba/pouch" target="_blank">https://github.com/alibaba/pouch</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4ECE;php&#x5230;go&#x518D;&#x56DE;&#x5230;php <a href="http://blog.breakthru.solutions/re-moving-from-php-to-go-and-back-again/" target="_blank">http://blog.breakthru.solutions/re-moving-from-php-to-go-and-back-again/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x8D70;&#x8FD1;&#x6BD4;&#x7279;&#x5E01;&#xFF1A;&#x4E00;&#x4E2A;&#x6545;&#x4E8B;&#x770B;&#x61C2;&#x533A;&#x5757;&#x94FE;&#x539F; <a href="https://mp.weixin.qq.com/s/hoRLBOGfDOe57dEzdNzMoQ" target="_blank">https://mp.weixin.qq.com/s/hoRLBOGfDOe57dEzdNzMoQ</a></li>
+</ol>
+</li>
+<li><ol>
+<li>go&#x7B26;&#x53F7;&#x56DE;&#x5F52;&#x5E93; <a href="https://github.com/MaxHalford/koza" target="_blank">https://github.com/MaxHalford/koza</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4EE3;&#x7801;&#x91CD;&#x7528;&#x5DE5;&#x5177;  <a href="https://github.com/dc0d/goreuse" target="_blank">https://github.com/dc0d/goreuse</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-12">gocn_news_2017-12-12</h2>
+<ul>
+<li><ol>
+<li>&#x57FA;&#x4E8E;&#x673A;&#x5668;&#x5B66;&#x4E60;&#x7684;&#x7D22;&#x5F15; <a href="https://arxiv.org/pdf/1712.01208.pdf" target="_blank">https://arxiv.org/pdf/1712.01208.pdf</a></li>
+</ol>
+</li>
+<li><ol>
+<li>LiteIDE X33.1 &#x53D1;&#x5E03; <a href="http://liteide.org/blog/LiteIDE-X33.1-Released/" target="_blank">http://liteide.org/blog/LiteIDE-X33.1-Released/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Goland &#x5F00;&#x53D1;&#x4F53;&#x9A8C; <a href="https://medium.com/@andrey_cheptsov/golands-take-on-go-development-7d2611b14b99" target="_blank">https://medium.com/@andrey_cheptsov/golands-take-on-go-development-7d2611b14b99</a></li>
+</ol>
+</li>
+<li><ol>
+<li>HTTP &#x94FE;&#x5F0F;&#x8DEF;&#x7531; <a href="https://medium.com/@cashalot/how-to-chain-http-handlers-in-go-33c96396b397" target="_blank">https://medium.com/@cashalot/how-to-chain-http-handlers-in-go-33c96396b397</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5206;&#x5E03;&#x5F0F;&#x65F6;&#x5E8F;&#x6D88;&#x606F;&#x961F;&#x5217; <a href="https://github.com/celrenheit/sandglass" target="_blank">https://github.com/celrenheit/sandglass</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-11">gocn_news_2017-12-11</h2>
+<ul>
+<li><ol>
+<li>&#x57FA;&#x4E8E;&#x5C5E;&#x6027;&#x7684;&#x7A0B;&#x5E8F;&#x6D4B;&#x8BD5; <a href="https://blog.gopheracademy.com/advent-2017/property-based-testing/" target="_blank">https://blog.gopheracademy.com/advent-2017/property-based-testing/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go&#x5B9E;&#x73B0;&#x7684;GraphQL&#x5BA2;&#x6237;&#x7AEF; <a href="https://blog.machinebox.io/a-graphql-client-library-for-go-5bffd0455878" target="_blank">https://blog.machinebox.io/a-graphql-client-library-for-go-5bffd0455878</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go&#x8BED;&#x8A00;&#x4E2D;&#x9762;&#x5411;&#x5BF9;&#x8C61;&#x7684;&#x4E00;&#x4E9B;&#x601D;&#x8003; <a href="https://katcipis.github.io/blog/object-orientation-go/" target="_blank">https://katcipis.github.io/blog/object-orientation-go/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5229;&#x7528;&#x4EE3;&#x7801;&#x751F;&#x6210;&#x89E3;&#x51B3;Go&#x6CA1;&#x6709;&#x8303;&#x578B;&#x95EE;&#x9898; <a href="https://www.calhoun.io/using-code-generation-to-survive-without-generics-in-go/" target="_blank">https://www.calhoun.io/using-code-generation-to-survive-without-generics-in-go/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>docker-slim&#xFF1A;&#x4F18;&#x5316;&#x548C;&#x4FDD;&#x62A4;Docker&#x5B89;&#x5168;&#x7684;&#x5DE5;&#x5177; <a href="https://github.com/docker-slim/docker-slim" target="_blank">https://github.com/docker-slim/docker-slim</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-10">gocn_news_2017-12-10</h2>
+<ul>
+<li><ol>
+<li>Golang1.10&#x524D;&#x77BB; <a href="https://zhuanlan.zhihu.com/p/31820378" target="_blank">https://zhuanlan.zhihu.com/p/31820378</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Golang&#x5783;&#x573E;&#x56DE;&#x6536; <a href="https://ninokop.github.io/2017/11/09/Go-%e5%9e%83%e5%9c%be%e5%9b%9e%e6%94%b6" target="_blank">https://ninokop.github.io/2017/11/09/Go-%e5%9e%83%e5%9c%be%e5%9b%9e%e6%94%b6</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4ECE;PHP&#x5230;Go <a href="https://medium.com/@ivanjaros/moving-from-php-to-go-6f06989b3e12" target="_blank">https://medium.com/@ivanjaros/moving-from-php-to-go-6f06989b3e12</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4ECE;C/C++/Golang&#x8C08;&#x8BA1;&#x7B97;&#x673A;&#x8BED;&#x8A00;&#x7684;&#x5DE8;&#x5927;&#x8FDB;&#x6B65; <a href="http://esr.ibiblio.org/?p=7724" target="_blank">http://esr.ibiblio.org/?p=7724</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4F7F;&#x7528;kubernetes&#x81EA;&#x52A8;&#x90E8;&#x7F72;Golang&#x7A0B;&#x5E8F; <a href="https://www.reddit.com/r/golang/comments/7iia5g/selfdeploying_go_apps_with_kubernetes/" target="_blank">https://www.reddit.com/r/golang/comments/7iia5g/selfdeploying_go_apps_with_kubernetes/</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-09">gocn_news_2017-12-09</h2>
+<ul>
+<li><ol>
+<li>&#x4F7F;&#x7528;Go &#x673A;&#x5668;&#x5B66;&#x4E60;&#x5E93;&#x6765;&#x8FDB;&#x884C;&#x6570;&#x636E;&#x5206;&#x6790; <a href="http://colobu.com/2017/12/07/One-Machine-Learning-for-Go/" target="_blank">http://colobu.com/2017/12/07/One-Machine-Learning-for-Go/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7528;make&#x6587;&#x4EF6;&#x6765;&#x5168;&#x81EA;&#x52A8;&#x5F00;&#x53D1;go&#x7A0B;&#x5E8F; <a href="https://blog.gopheracademy.com/advent-2017/make/" target="_blank">https://blog.gopheracademy.com/advent-2017/make/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5982;&#x4F55;&#x63D0;&#x9AD8;&#x7269;&#x8054;&#x7F51;&#x7A0B;&#x5E8F;&#x64CD;&#x4F5C;&#x6570;&#x636E;&#x5E93;&#x5927;&#x6279;&#x91CF;&#x6267;&#x884C;DML&#x6027;&#x80FD; <a href="https://www.cockroachlabs.com/blog/multi-row-dml/" target="_blank">https://www.cockroachlabs.com/blog/multi-row-dml/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>defer&#x4F7F;&#x7528;&#x7684;5&#x4E2A;&#x9677;&#x9631; <a href="https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01" target="_blank">https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01</a></li>
+</ol>
+</li>
+<li><ol>
+<li>upspin&#x9879;&#x76EE;error&#x5904;&#x7406;&#x5E93;&#x5C01;&#x88C5; <a href="https://commandcenter.blogspot.hk/2017/12/error-handling-in-upspin.html" target="_blank">https://commandcenter.blogspot.hk/2017/12/error-handling-in-upspin.html</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-08">gocn_news_2017-12-08</h2>
+<ul>
+<li><ol>
+<li>Go1.10 beta1 <a href="https://beta.golang.org/doc/go1.10" target="_blank">https://beta.golang.org/doc/go1.10</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4EBA;&#x5DE5;&#x667A;&#x80FD;&#x7B97;&#x6CD5;&#x548C;&#x6559;&#x7A0B;&#x6C47;&#x603B; <a href="https://github.com/KeKe-Li/tutorial" target="_blank">https://github.com/KeKe-Li/tutorial</a></li>
+</ol>
+</li>
+<li><ol>
+<li>DevOps &#x6807;&#x51C6;&#x4F53;&#x7CFB;&#x53D1;&#x5E03;&#x53CA;&#x6743;&#x5A01; <a href="http://www.uml.org.cn/devops/201712061.asp" target="_blank">http://www.uml.org.cn/devops/201712061.asp</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x817E;&#x8BAF;&#x963F;&#x91CC;&#x7684;&#x8FD0;&#x7EF4;&#x5B9E;&#x8DF5;&#xFF08;&#x9644;Devops58&#x4E2A;&#x5F00;&#x6E90;&#x5DE5;&#x5177;&#xFF09; <a href="http://www.sohu.com/a/198439910_100038984" target="_blank">http://www.sohu.com/a/198439910_100038984</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x505A;&#x597D;&#x67B6;&#x6784;&#x5E08;&#xFF0C;&#x8981;&#x61C2;&#x5FAE;&#x670D;&#x52A1;&#xFF0C;&#x6C47;&#x603B;&#x5FAE;&#x670D;&#x52A1;&#x67B6;&#x6784;&#x843D;&#x5730;&#x7684;15&#x79CD;&#x6846;&#x67B6; <a href="http://www.sohu.com/a/201844693_100038984" target="_blank">http://www.sohu.com/a/201844693_100038984</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-07">gocn_news_2017-12-07</h2>
+<ul>
+<li><ol>
+<li>go pprof &#x91C7;&#x6837;&#x4F55;&#x65F6;&#x8FDB;&#x884C;   <a href="http://michaelyou.github.io/2017/12/06/go-pprof-%E9%87%87%E6%A0%B7%E4%BD%95%E6%97%B6%E8%BF%9B%E8%A1%8C/" target="_blank">http://michaelyou.github.io/2017/12/06/go-pprof-%E9%87%87%E6%A0%B7%E4%BD%95%E6%97%B6%E8%BF%9B%E8%A1%8C/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>gkvdb v1.81 &#x53D1;&#x5E03;&#xFF0C;Go &#x8BED;&#x8A00;&#x5D4C;&#x5165;&#x5F0F; K/V &#x6570;&#x636E;&#x5E93;  <a href="https://www.oschina.net/news/91250/gkvdb-1-81-released" target="_blank">https://www.oschina.net/news/91250/gkvdb-1-81-released</a></li>
+</ol>
+</li>
+<li><ol>
+<li>go&#x8BED;&#x8A00;&#x6B7B;&#x5FAA;&#x73AF;&#x5206;&#x6790; <a href="http://michaelyou.github.io/2017/12/05/go%e8%af%ad%e8%a8%80%e6%ad%bb%e5%be%aa%e7%8e%af%e5%88%86%e6%9e%90%2f" target="_blank">http://michaelyou.github.io/2017/12/05/go%e8%af%ad%e8%a8%80%e6%ad%bb%e5%be%aa%e7%8e%af%e5%88%86%e6%9e%90%2f</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Golang &#x7F51;&#x7EDC;&#xFF1A;&#x6838;&#x5FC3; API &#x5B9E;&#x73B0;&#x5256;&#x6790;&#xFF08;&#x4E00;&#xFF09; <a href="https://zhuanlan.zhihu.com/p/31644462" target="_blank">https://zhuanlan.zhihu.com/p/31644462</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5982;&#x4F55;&#x5728;Go&#x4E2D;&#x6784;&#x5EFA;&#x5B8C;&#x6574;&#x6D4B;&#x8BD5;&#x7684;Web&#x5E94;&#x7528;&#x7A0B;&#x5E8F; <a href="https://blog.gopheracademy.com/advent-2017/a-tale-of-two-rands/" target="_blank">https://blog.gopheracademy.com/advent-2017/a-tale-of-two-rands/</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-06">gocn_news_2017-12-06</h2>
+<ul>
+<li><ol>
+<li>&#x8C03;&#x8BD5;Go&#x8FD0;&#x884C;&#x65F6;bug <a href="https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/" target="_blank">https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4EC0;&#x4E48;&#x65F6;&#x5019;&#x8BE5;&#x7528;cgo  <a href="http://relistan.com/cgo-when-and-when-not-to-use-it/" target="_blank">http://relistan.com/cgo-when-and-when-not-to-use-it/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x57FA;&#x4E8E;Redis&#x7684;&#x5E8F;&#x5217;&#x53F7;&#x670D;&#x52A1;&#x7684;&#x8BBE;&#x8BA1;  <a href="https://mp.weixin.qq.com/s/UzKmJnQupk4W_ZoCevd_OA" target="_blank">https://mp.weixin.qq.com/s/UzKmJnQupk4W_ZoCevd_OA</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x6570;&#x636E;&#x7EDF;&#x8BA1;&#x9700;&#x8981;&#x638C;&#x63E1;&#x7684;&#x5341;&#x4E2A;&#x65B9;&#x6CD5;  <a href="https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7" target="_blank">https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4E24;&#x4E2A;&#x968F;&#x673A;&#x7684;&#x6545;&#x4E8B; <a href="https://blog.gopheracademy.com/advent-2017/a-tale-of-two-rands/" target="_blank">https://blog.gopheracademy.com/advent-2017/a-tale-of-two-rands/</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-05">gocn_news_2017-12-05</h2>
+<ul>
+<li><ol>
+<li>Go &#x5FAE;&#x670D;&#x52A1;&#x7CFB;&#x5217;&#x6587;&#x7AE0;  <a href="https://medium.com/@marcus.eisele/microservices-with-mo-part-three-the-counter-microservice-5fa34af2dcdc" target="_blank">https://medium.com/@marcus.eisele/microservices-with-mo-part-three-the-counter-microservice-5fa34af2dcdc</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4E3A;&#x4F60;&#x7684; Go &#x5E94;&#x7528;&#x6DFB;&#x52A0; GUI  <a href="https://medium.com/@social_57971/how-to-add-a-gui-to-your-golang-app-in-5-easy-steps-c25c99d4d8e0" target="_blank">https://medium.com/@social_57971/how-to-add-a-gui-to-your-golang-app-in-5-easy-steps-c25c99d4d8e0</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5FAE;&#x670D;&#x52A1;&#x6D4B;&#x8BD5;  <a href="https://medium.com/@nathankpeck/microservice-testing-introduction-347d2f74095e" target="_blank">https://medium.com/@nathankpeck/microservice-testing-introduction-347d2f74095e</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x642D;&#x5EFA; Go &#x5206;&#x5E03;&#x5F0F;&#x5FAE;&#x670D;&#x52A1;&#x7CFB;&#x7EDF;  <a href="https://medium.com/@shijuvar/building-distributed-systems-and-microservices-in-go-with-nats-streaming-d8b4baa633a2" target="_blank">https://medium.com/@shijuvar/building-distributed-systems-and-microservices-in-go-with-nats-streaming-d8b4baa633a2</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Prometheus 2.0 &#x4E2D;&#x76D1;&#x63A7;&#x529F;&#x80FD;&#x7684;&#x63D0;&#x5347; <a href="https://medium.com/@opcitoindia/continuous-improvement-in-monitoring-with-prometheus-2-0-71e26658eb69" target="_blank">https://medium.com/@opcitoindia/continuous-improvement-in-monitoring-with-prometheus-2-0-71e26658eb69</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-04">gocn_news_2017-12-04</h2>
+<ul>
+<li><ol>
+<li>&#x5982;&#x4F55;&#x5C06; defer &#x4E2D;&#x7684;&#x9519;&#x8BEF;&#x4F5C;&#x4E3A;&#x51FD;&#x6570;&#x53C2;&#x6570;&#x8FD4;&#x56DE; <a href="https://www.calhoun.io/using-named-return-variables-to-capture-panics-in-go/" target="_blank">https://www.calhoun.io/using-named-return-variables-to-capture-panics-in-go/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x6700;&#x5C0F;&#x7684;&#x5B8C;&#x7F8E;&#x6563;&#x5217;&#x51FD;&#x6570; <a href="https://blog.gopheracademy.com/advent-2017/mphf/" target="_blank">https://blog.gopheracademy.com/advent-2017/mphf/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>GopherJS &#x548C; gRPC-Web &#x7ED3;&#x5408;&#x4F7F;&#x7528;&#x6559;&#x7A0B; <a href="https://blog.gopheracademy.com/advent-2017/gopherjs-grpc-web/" target="_blank">https://blog.gopheracademy.com/advent-2017/gopherjs-grpc-web/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4F7F;&#x7528; Go &#x548C; Grafana &#x642D;&#x5EFA;&#x81EA;&#x5DF1;&#x7684; Dashboard <a href="https://appliedgo.net/diydashboard/" target="_blank">https://appliedgo.net/diydashboard/</a> </li>
+</ol>
+</li>
+<li><ol>
+<li>Go &#x8BB8;&#x53EF;&#x8BC1;&#x548C;&#x5305;&#x4F9D;&#x8D56;&#x68C0;&#x67E5;&#x5668; <a href="https://github.com/ribice/glice" target="_blank">https://github.com/ribice/glice</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-12-03">gocn_news_2017-12-03</h2>
+<ul>
+<li><ol>
+<li>Go&#x9519;&#x8BEF;&#x548C;&#x5F02;&#x5E38;&#x5904;&#x7406;&#x7684;&#x6B63;&#x786E;&#x59FF;&#x52BF;  <a href="http://www.jianshu.com/p/f30da01eea97" target="_blank">http://www.jianshu.com/p/f30da01eea97</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5173;&#x4E8E;&#x4E00;&#x81F4;&#x6027;&#x534F;&#x8BAE;&#x548C;&#x5206;&#x5E03;&#x5F0F;&#x9501; <a href="http://mp.weixin.qq.com/s/XCPQGPhY3j8SaTXNS8tB0A" target="_blank">http://mp.weixin.qq.com/s/XCPQGPhY3j8SaTXNS8tB0A</a></li>
+</ol>
+</li>
+<li><ol>
+<li>motan-go:&#x9AD8;&#x6027;&#x80FD;&#x3001;&#x6613;&#x4E8E;&#x4F7F;&#x7528;&#x7684;&#x5206;&#x5E03;&#x5F0F;&#x8FDC;&#x7A0B;&#x670D;&#x52A1;&#x8C03;&#x7528;&#x6846;&#x67B6; <a href="https://github.com/weibocom/motan-go/wiki/zh_overview" target="_blank">https://github.com/weibocom/motan-go/wiki/zh_overview</a></li>
+</ol>
+</li>
+<li><ol>
+<li>AWS Lambda&#x5F00;&#x59CB;&#x652F;&#x6301;Go <a href="https://www.reddit.com/r/golang/comments/7gogdy/aws_lambda_to_fully_support_go/" target="_blank">https://www.reddit.com/r/golang/comments/7gogdy/aws_lambda_to_fully_support_go/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Funtainer: &#x5BB9;&#x5668;&#x5373;&#x51FD;&#x6570;&#x4E4B;&#x7F8E; <a href="http://dockone.io/article/2924" target="_blank">http://dockone.io/article/2924</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<hr>
+<h2 id="gocnnews2017-12-01">gocn_news_2017-12-01</h2>
+<ul>
+<li><ol>
+<li>Context&#x5305;&#x5E76;&#x975E;&#x4E3A;cancel&#x800C;&#x751F;<a href="https://dave.cheney.net/2017/0" target="_blank">https://dave.cheney.net/2017/0</a> ... ation</li>
+</ol>
+</li>
+<li><ol>
+<li>PromptUI:Go&#x4EA4;&#x4E92;&#x5F0F;&#x63A7;&#x5236;&#x53F0;&#x8BBE;&#x8BA1;&#x5DE5;&#x5177;<a href="https://github.com/manifoldco/promptui" target="_blank">https://github.com/manifoldco/promptui</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go&#x8BED;&#x8A00;&#x4E2D;&#x5B9E;&#x73B0;&#x57FA;&#x4E8E; event-loop &#x7F51;&#x7EDC;&#x5904;&#x7406;<a href="http://colobu.com/2017/11/29/e" target="_blank">http://colobu.com/2017/11/29/e</a> ... n-Go/</li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4F7F;&#x7528;Go&#x4E0E;redis&#x6784;&#x5EFA;&#x6709;&#x8DA3;&#x7684;&#x5E94;&#x7528;<a href="https://mp.weixin.qq.com/s/tIHEq8wxK_av6ezo3JECWA" target="_blank">https://mp.weixin.qq.com/s/tIHEq8wxK_av6ezo3JECWA</a></li>
+</ol>
+</li>
+<li><ol>
+<li>GoLand 2017.3&#x6B63;&#x5F0F;&#x53D1;&#x5E03;<a href="https://blog.jetbrains.com/go/" target="_blank">https://blog.jetbrains.com/go/</a> ... rket/</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-30">gocn_news_2017-11-30</h2>
+<ul>
+<li><ol>
+<li>Tenta-dns&#x5B8C;&#x6574;&#x7684;DNS&#x89E3;&#x51B3;&#x65B9;&#x6848; <a href="https://github.com/tenta-browser/tenta-dns" target="_blank">https://github.com/tenta-browser/tenta-dns</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Microservices with Go&#x7814;&#x8BA8;&#x4F1A; <a href="https://www.facebook.com/WizelineAcademy/videos/1726299830998775/" target="_blank">https://www.facebook.com/WizelineAcademy/videos/1726299830998775/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go&#x7F16;&#x5199;&#x7684;&#x94F6;&#x6CB3;&#x6218;&#x673A;&#x6E38;&#x620F; <a href="https://github.com/u2i/superstellar" target="_blank">https://github.com/u2i/superstellar</a> </li>
+</ol>
+</li>
+<li><ol>
+<li>Top15&#x7684;golang&#x5B66;&#x4E60;&#x8D44;&#x6E90;&#x7F51;&#x7AD9; <a href="https://qarea.com/articles/top-15-resources-and-sites-learn-golang" target="_blank">https://qarea.com/articles/top-15-resources-and-sites-learn-golang</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go&#x7684;&#x8C37;&#x6B4C;APi&#x5BA2;&#x6237;&#x7AEF;&#x5E93; <a href="https://github.com/google/google-api-go-client" target="_blank">https://github.com/google/google-api-go-client</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-29">gocn_news_2017-11-29</h2>
+<ul>
+<li><ol>
+<li>&#x6DF1;&#x5165;&#x7406;&#x89E3; ElasticSearch Doc Values <a href="http://www.majiang.life/blog/deep-dive-on-elasticsearch-doc-values/" target="_blank">http://www.majiang.life/blog/deep-dive-on-elasticsearch-doc-values/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Gotorch - &#x591A;&#x673A;&#x5B9A;&#x65F6;&#x4EFB;&#x52A1;&#x7BA1;&#x7406;&#x7CFB;&#x7EDF; <a href="http://www.cnblogs.com/zhenbianshu/p/7905678.html" target="_blank">http://www.cnblogs.com/zhenbianshu/p/7905678.html</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4ECE;&#x5FAE;&#x670D;&#x52A1;&#x6F14;&#x8FDB;&#x8FC7;&#x7A0B;&#x4E2D;&#x83B7;&#x5F97;&#x7684;&#x5341;&#x6761;&#x7ECF;&#x9A8C; <a href="https://thenewstack.io/airbnbs-10-takeaways-moving-microservices/" target="_blank">https://thenewstack.io/airbnbs-10-takeaways-moving-microservices/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7ED9;&#x4E86;&#x6570;&#x636E;&#x5E93;&#x548C;&#x673A;&#x5668;,&#x4E3A;&#x5565;&#x4E5F;&#x6269;&#x4E0D;&#x4E86;&#x5BB9; <a href="http://url.cn/5RWR4VZ" target="_blank">http://url.cn/5RWR4VZ</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go TCP Socket&#x7684;&#x5B9E;&#x73B0; <a href="https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b" target="_blank">https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-28">gocn_news_2017-11-28</h2>
+<ul>
+<li><ol>
+<li>Go defer &#x53EF;&#x89C6;&#x5316;&#x7B80;&#x4ECB; <a href="https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff" target="_blank">https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4ECE; Python &#x540E;&#x7AEF;&#x5230; Go  <a href="http://benhoyt.com/writings/learning-go/" target="_blank">http://benhoyt.com/writings/learning-go/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go map &#x6E90;&#x7801;&#x89E3;&#x91CA; <a href="https://blog.yiz96.com/golang-map-%E6%BA%90%E7%A0%81%E8%AF%A6%E8%A7%A3/" target="_blank">https://blog.yiz96.com/golang-map-%E6%BA%90%E7%A0%81%E8%AF%A6%E8%A7%A3/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go Glot &#x56FE;&#x8868;&#x5E93; <a href="https://medium.com/@Arafat./introducing-glot-the-plotting-library-for-golang-3133399948a1" target="_blank">https://medium.com/@Arafat./introducing-glot-the-plotting-library-for-golang-3133399948a1</a></li>
+</ol>
+</li>
+<li><ol>
+<li>60 &#x884C; Go &#x4EE3;&#x7801;&#x83B7;&#x53D6; strace <a href="https://hackernoon.com/strace-in-60-lines-of-go-b4b76e3ecd64" target="_blank">https://hackernoon.com/strace-in-60-lines-of-go-b4b76e3ecd64</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-27">gocn_news_2017-11-27</h2>
+<ul>
+<li><ol>
+<li>Python&#x8F6C;Go&#x901F;&#x67E5;&#x624B;&#x518C; <a href="https://www.353.solutions/py2go/index.html" target="_blank">https://www.353.solutions/py2go/index.html</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Rob Pike&#x7684;5&#x6761;&#x7F16;&#x7A0B;&#x539F;&#x5219;
+<a href="http://blog.codonomics.com/2017/09/rob-pikes-5-rules-of-programming.html" target="_blank">http://blog.codonomics.com/2017/09/rob-pikes-5-rules-of-programming.html</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x57FA;&#x4E8E;&#x6A21;&#x677F;&#x7684;Go&#x5305;&#x751F;&#x6210;&#x5DE5;&#x5177; <a href="https://github.com/bketelsen/ngp" target="_blank">https://github.com/bketelsen/ngp</a></li>
+</ol>
+</li>
+<li><ol>
+<li>bufio&#x5305;&#x5DE5;&#x5177;&#x4ECB;&#x7ECD; <a href="https://medium.com/golangspec/introduction-to-bufio-package-in-golang-ad7d1877f762" target="_blank">https://medium.com/golangspec/introduction-to-bufio-package-in-golang-ad7d1877f762</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x57FA;&#x4E8E;Electron&#x7684;Go&#x754C;&#x9762;&#x5E93; <a href="https://github.com/asticode/go-astilectron" target="_blank">https://github.com/asticode/go-astilectron</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-26">gocn_news_2017-11-26</h2>
+<ul>
+<li><ol>
+<li>Gost:&#x4E00;&#x4E2A;&#x6781;&#x7B80;&#x4E14;&#x6709;&#x7528;&#x7684;GOPATH&#x7BA1;&#x7406;&#x5DE5;&#x5177; <a href="http://www.jianshu.com/p/7abb47970641" target="_blank">http://www.jianshu.com/p/7abb47970641</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x738B;&#x4E1C;:&#x5FAE;&#x670D;&#x52A1;&#x4E0B;&#x7684;APM&#x5168;&#x94FE;&#x8DEF;&#x76D1;&#x63A7; <a href="http://mp.weixin.qq.com/s/guAWN1WgKOQ1_vC6nWmT5w" target="_blank">http://mp.weixin.qq.com/s/guAWN1WgKOQ1_vC6nWmT5w</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7F8E;&#x56E2;:&#x5373;&#x65F6;&#x914D;&#x9001;&#x7684;ETA&#x95EE;&#x9898;&#x4E4B;&#x4EBF;&#x7EA7;&#x6837;&#x672C;&#x7279;&#x5F81;&#x6784;&#x9020;&#x5B9E;&#x8DF5; <a href="https://tech.meituan.com/GBDT.html" target="_blank">https://tech.meituan.com/GBDT.html</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Golang&#x4ECB;&#x7ECD;&#x53CA;&#x8E29;&#x5751;&#x7CFB;&#x5217; <a href="https://zhuanlan.zhihu.com/p/31395716" target="_blank">https://zhuanlan.zhihu.com/p/31395716</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Golang&#x7CBE;&#x7F16;100&#x9898; <a href="http://www.jianshu.com/p/f690203ff168" target="_blank">http://www.jianshu.com/p/f690203ff168</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-25">gocn_news_2017-11-25</h2>
+<ul>
+<li><ol>
+<li>&#x3010;&#x8BD1;&#x3011;&#x5982;&#x4F55;&#x4F7F;&#x7528; Golang &#x4E2D;&#x7684; Go-Routines &#x5199;&#x51FA;&#x9AD8;&#x6027;&#x80FD;&#x7684;&#x4EE3;&#x7801;<a href="https://juejin.im/post/5a17c0f9f265da431a42e060" target="_blank">https://juejin.im/post/5a17c0f9f265da431a42e060</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5206;&#x5E03;&#x5F0F;&#x6570;&#x636E;&#x5E93;&#x7684;&#x6545;&#x969C;&#x548C;&#x5E38;&#x89C1;&#x5904;&#x7406;&#x673A;&#x5236; <a href="http://www.jianshu.com/p/d77ef1f3c939" target="_blank">http://www.jianshu.com/p/d77ef1f3c939</a></li>
+</ol>
+</li>
+<li><ol>
+<li>postgre&#x5206;&#x5E03;&#x5F0F;&#x4E8B;&#x52A1;&#x5904;&#x7406; <a href="https://www.citusdata.com/blog/2017/11/22/how-citus-executes-distributed-transactions" target="_blank">https://www.citusdata.com/blog/2017/11/22/how-citus-executes-distributed-transactions</a></li>
+</ol>
+</li>
+<li><ol>
+<li>HTTP/2&#x4E4B;&#x670D;&#x52A1;&#x5668;&#x63A8;&#x9001;(Server Push)&#x6700;&#x4F73;&#x5B9E;&#x8DF5; <a href="https://mp.weixin.qq.com/s/U0311_AiGkIEtyuO9Uh1Rw" target="_blank">https://mp.weixin.qq.com/s/U0311_AiGkIEtyuO9Uh1Rw</a></li>
+</ol>
+</li>
+<li><ol>
+<li>go&#x5F00;&#x53D1;&#x5B9E;&#x65F6;&#x534F;&#x4F5C;&#x753B;&#x56FE;APP <a href="https://outcrawl.com/realtime-collaborative-drawing-go" target="_blank">https://outcrawl.com/realtime-collaborative-drawing-go</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-24">gocn_news_2017-11-24</h2>
+<ul>
+<li><ol>
+<li>1.&#x4E3A;Go&#x7A0B;&#x5E8F;&#x521B;&#x5EFA;&#x6700;&#x5C0F;&#x7684;Docker Image <a href="http://www.cnblogs.com/gaorong/p/Docker.html" target="_blank">http://www.cnblogs.com/gaorong/p/Docker.html</a>
+2.Golang &#x4EFB;&#x52A1;&#x961F;&#x5217;&#x7B56;&#x7565; -- &#x8BFB;&#x300A;JOB QUEUES IN GO&#x300B;<a href="http://www.cnblogs.com/artong0416/p/7883381.html" target="_blank">http://www.cnblogs.com/artong0416/p/7883381.html</a>
+3.&#x4F7F;&#x7528;go&#x6765;&#x5199;&#x5FAE;&#x670D;&#x52A1;(part2)  <a href="https://ewanvalentine.io/microservices-in-golang-part-2/" target="_blank">https://ewanvalentine.io/microservices-in-golang-part-2/</a>
+4.Google &#x4EBA;&#x5DE5;&#x667A;&#x80FD;&#x7CFB;&#x7EDF; <a href="https://github.com/galeone/tfgo" target="_blank">https://github.com/galeone/tfgo</a>
+5.gkvdb v1.0 &#x6B63;&#x5F0F;&#x7248;&#x53D1;&#x5E03;&#xFF0C;Go &#x8BED;&#x8A00;&#x5F00;&#x53D1;&#x7684; KV &#x5D4C;&#x5165;&#x5F0F;&#x6570;&#x636E;&#x5E93;<a href="https://www.oschina.net/news/9" target="_blank">https://www.oschina.net/news/9</a> ... eased</li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7F16;&#x8F91;:&#x4F55;&#x5C0F;&#x4E91;
+&#x8BA2;&#x9605;&#x65B0;&#x95FB;: <a href="http://tinyletter.com/gocn" target="_blank">http://tinyletter.com/gocn</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-23">gocn_news_2017-11-23</h2>
+<ul>
+<li><ol>
+<li>&#x952E;&#x5165;&#x5B89;&#x5168;&#x7ED1;&#x5B9A;&#x4E0E;Chrome&#x8FDC;&#x7A0B;&#x63A5;&#x53E3;&#x8FDB;&#x884C;&#x4EA4;&#x4E92;  <a href="https://github.com/SKatiyar/cri" target="_blank">https://github.com/SKatiyar/cri</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7528;Go&#x6765;&#x64CD;&#x4F5C;OVS  <a href="https://www.youtube.com/watch?feature=youtu.be&amp;v=45PpBbqB2Z0" target="_blank">https://www.youtube.com/watch?feature=youtu.be&amp;v=45PpBbqB2Z0</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5982;&#x4F55;&#x5C06;golang&#x7684;&#x5E76;&#x53D1;&#x7F16;&#x7A0B;&#x8FD0;&#x7528;&#x5230;&#x5B9E;&#x9645;&#x5F00;&#x53D1; <a href="https://juejin.im/post/5a11a3c76fb9a04512388a50" target="_blank">https://juejin.im/post/5a11a3c76fb9a04512388a50</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go 1.10 &#x7684;pprof&#x7684;&#x5DE5;&#x5177;&#x5C06;&#x76F4;&#x63A5;&#x652F;&#x6301;&#x706B;&#x7130;&#x56FE; <a href="http://colobu.com/2017/11/22/new-pprof-UI/" target="_blank">http://colobu.com/2017/11/22/new-pprof-UI/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#xFF08;&#x8BD1;&#xFF09;Go &#x8BED;&#x8A00;&#x7684;&#x5DE5;&#x4F5C;&#x7A83;&#x53D6;&#x8C03;&#x5EA6;&#x5668; <a href="http://www.jianshu.com/p/20c49ce02175" target="_blank">http://www.jianshu.com/p/20c49ce02175</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-22">gocn_news_2017-11-22</h2>
+<ul>
+<li><ol>
+<li>GoCN&#x6BCF;&#x65E5;&#x65B0;&#x95FB;(2017-11-22)</li>
+</ol>
+</li>
+<li><ol>
+<li>1.Slice&#x548C;Map&#x7684;&#x6BD4;&#x8F83; <a href="https://boltandnuts.wordpress.com/2017/11/20/go-slice-vs-maps/" target="_blank">https://boltandnuts.wordpress.com/2017/11/20/go-slice-vs-maps/</a>
+2.Go&#x5206;&#x5E03;&#x5F0F;ID&#x751F;&#x6210;&#x670D;&#x52A1; <a href="https://yuerblog.cc/2017/11/21/golang-id-alloc" target="_blank">https://yuerblog.cc/2017/11/21/golang-id-alloc</a>
+3.&#x4F7F;&#x7528;go&#x6765;&#x5199;&#x5FAE;&#x670D;&#x52A1; <a href="https://ewanvalentine.io/microservices-in-golang-part-1" target="_blank">https://ewanvalentine.io/microservices-in-golang-part-1</a>
+4.Go&#x7F16;&#x7A0B;&#x5EFA;&#x8BAE;&#x6E05;&#x5355; <a href="https://github.com/cristaloleg/go-advices" target="_blank">https://github.com/cristaloleg/go-advices</a>
+5.&#x8BA1;&#x7B97;&#x673A;&#x89C6;&#x89C9;&#x7B80;&#x4ECB; <a href="https://mp.weixin.qq.com/s/If1GdkPuxHXLU4pr0UDaHA" target="_blank">https://mp.weixin.qq.com/s/If1GdkPuxHXLU4pr0UDaHA</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7F16;&#x8F91;:&#x5468;&#x4E91;&#x8F69;
+&#x8BA2;&#x9605;&#x65B0;&#x95FB;: <a href="http://tinyletter.com/gocn" target="_blank">http://tinyletter.com/gocn</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-21">gocn_news_2017-11-21</h2>
+<ul>
+<li><ol>
+<li>&#x7528;Go&#x5B9E;&#x73B0;&#x4F60;&#x81EA;&#x5DF1;&#x7684;2048&#x6E38;&#x620F; <a href="https://github.com/xwjdsh/2048-ai" target="_blank">https://github.com/xwjdsh/2048-ai</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4E0D;&#x9002;&#x7528;&#x5FAE;&#x670D;&#x52A1;&#x7684;&#x573A;&#x666F;  <a href="http://blog.christianposta.com/microservices/when-not-to-do-microservices/" target="_blank">http://blog.christianposta.com/microservices/when-not-to-do-microservices/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4ECE;PHP&#x5230;Go <a href="https://www.sitepoint.com/moving-php-go/" target="_blank">https://www.sitepoint.com/moving-php-go/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go&#x5F00;&#x53D1;&#x6307;&#x5357;&#xFF1A;&#x6846;&#x67B6;&#xFF0C;IDE&#x548C;&#x5DE5;&#x5177;  <a href="https://medium.com/@quintinglvr/golang-guide-a-list-of-top-golang-frameworks-ides-tools-e7c7866e96c9" target="_blank">https://medium.com/@quintinglvr/golang-guide-a-list-of-top-golang-frameworks-ides-tools-e7c7866e96c9</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go&#x5355;&#x5143;&#x6D4B;&#x8BD5;&#x7F16;&#x5199;&#x7684;&#x4E94;&#x4E2A;&#x5EFA;&#x8BAE; <a href="https://medium.com/@matryer/5-simple-tips-and-tricks-for-writing-unit-tests-in-golang-619653f90742" target="_blank">https://medium.com/@matryer/5-simple-tips-and-tricks-for-writing-unit-tests-in-golang-619653f90742</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-20">gocn_news_2017-11-20</h2>
+<ul>
+<li><ol>
+<li>Go &#x4E2D;&#x4EFB;&#x52A1;&#x961F;&#x5217;&#x7684;&#x7B80;&#x5355;&#x5B9E;&#x73B0; <a href="https://www.opsdash.com/blog/job-queues-in-go.html" target="_blank">https://www.opsdash.com/blog/job-queues-in-go.html</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x5982;&#x4F55;&#x5728; Go &#x4E2D;&#x8C03;&#x7528; C  <a href="https://dev.to/mattn/call-go-function-from-c-function-1n3" target="_blank">https://dev.to/mattn/call-go-function-from-c-function-1n3</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go &#x83B7;&#x5F97; 2017 &#x7F16;&#x7A0B;&#x8BED;&#x8A00;&#x6536;&#x5165;&#x6392;&#x884C;&#x699C; Top 1  <a href="https://www.business2community.com/tech-gadgets/15-highest-paying-programming-languages-2017-01957668#e3gPJtRzrCVStSXm.97" target="_blank">https://www.business2community.com/tech-gadgets/15-highest-paying-programming-languages-2017-01957668#e3gPJtRzrCVStSXm.97</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7ED9;&#x4F60;&#x7684;&#x4EE3;&#x7801;&#x6DFB;&#x52A0;&#x6CE8;&#x91CA; <a href="https://npf.io/2017/11/comments" target="_blank">https://npf.io/2017/11/comments</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7EAF; Go &#x7F16;&#x5199;&#x7684;&#x5BCC;&#x6587;&#x672C;&#x7F16;&#x8F91;&#x5668; <a href="https://github.com/as/a" target="_blank">https://github.com/as/a</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-19">gocn_news_2017-11-19</h2>
+<ul>
+<li><ol>
+<li>GoCN&#x6BCF;&#x65E5;&#x65B0;&#x95FB;(2017-11-19)</li>
+</ol>
+</li>
+<li><ol>
+<li>1.&#x7528;Go&#x8FDB;&#x884C;&#x53EF;&#x6269;&#x5C55;&#x7684;&#x64CD;&#x4F5C;&#x7CFB;&#x7EDF;&#x5206;&#x6790;   <a href="https://blog.kolide.com/using-go-for-scalable-operating-system-analytics-cb170d85b1c5" target="_blank">https://blog.kolide.com/using-go-for-scalable-operating-system-analytics-cb170d85b1c5</a></li>
+</ol>
+</li>
+<li><ol>
+<li>2.Golang&#x4F7F;&#x7528;redis protocol&#x5B9E;&#x73B0;pubsub&#x901A;&#x4FE1; <a href="https://goo.gl/vCuyHH" target="_blank">https://goo.gl/vCuyHH</a></li>
+</ol>
+</li>
+<li><ol>
+<li>3.Go&#x7684;&#x5EFA;&#x8BAE;&#x6E05;&#x5355; <a href="https://github.com/cristaloleg/go-advices" target="_blank">https://github.com/cristaloleg/go-advices</a></li>
+</ol>
+</li>
+<li><ol>
+<li>4.&#x4E3A;&#x4EC0;&#x4E48;&#x6211;&#x9009;&#x62E9;Go&#x6765;&#x6784;&#x5EFA;&#x533A;&#x5757;&#x94FE; <a href="https://medium.com/karachain/why-i-am-building-a-blockchain-in-go-6395a60b24dd" target="_blank">https://medium.com/karachain/why-i-am-building-a-blockchain-in-go-6395a60b24dd</a></li>
+</ol>
+</li>
+<li><ol>
+<li>5.Go HTTP Client &#x6301;&#x4E45;&#x8FDE;&#x63A5; <a href="https://serholiu.com/go-http-client-keepalive" target="_blank">https://serholiu.com/go-http-client-keepalive</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7F16;&#x8F91;: lwhile
+&#x8BA2;&#x9605;&#x65B0;&#x95FB;: <a href="http://tinyletter.com/gocn" target="_blank">http://tinyletter.com/gocn</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x8001;&#x5927;,&#x94FE;&#x63A5;&#x6709;&#x4E00;&#x4E9B;&#x662F;&#x6253;&#x4E0D;&#x5F00;&#x7684;...</li>
+</ol>
+</li>
+<li><ol>
+<li>go advice &#x91CC;&#x9762;&#x7684;&#x8FD9;&#x4E2A;&#x94FE;&#x63A5;
+<a href="https://play.golang.org/p/MGbeDwtXN3" target="_blank">https://play.golang.org/p/MGbeDwtXN3</a>
+&#x6211;&#x6253;&#x5F00;&#x63D0;&#x793A;</li>
+</ol>
+</li>
+<li><ol>
+<li>&#x6211;&#x7528;&#x7684;&#x9999;&#x6E2F;&#x81EA;&#x5DF1;&#x5EFA;&#x7684;ss&#x8FDE;&#x7684;...
+&#x54EA;&#x4F4D;&#x5927;&#x4F6C;&#x80FD;&#x62C9;&#x4E0B;&#x8FD9;&#x4E2A;&#x94FE;&#x63A5;&#x7684;&#x793A;&#x4F8B;&#x4EE3;&#x7801;?</li>
+</ol>
+</li>
+<li><ol>
+<li>&#x539F;&#x6587;&#x662F;&#x8BF4;:</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-18">gocn_news_2017-11-18</h2>
+<ul>
+<li><ol>
+<li>Golang &#x5982;&#x4F55;&#x4F18;&#x96C5;&#x5173;&#x95ED; channel <a href="https://blog.tanteng.me/2017/11/golang-close-channel/" target="_blank">https://blog.tanteng.me/2017/11/golang-close-channel/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>GoLang EAP19 &#x53D1;&#x5E03; <a href="https://blog.jetbrains.com/go/2017/11/16/goland-eap-19-docs-in-param-info-coverage-for-multiple-packages-build-tags-and-more/" target="_blank">https://blog.jetbrains.com/go/2017/11/16/goland-eap-19-docs-in-param-info-coverage-for-multiple-packages-build-tags-and-more/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Google&#x51FA;&#x54C1;&#x7684;&#x89E3;&#x6790;&#x4E0D;&#x53EF;&#x4FE1;&#x6587;&#x4EF6;&#x683C;&#x5F0F; <a href="https://github.com/google/puffs" target="_blank">https://github.com/google/puffs</a></li>
+</ol>
+</li>
+<li><ol>
+<li>istio&#x5982;&#x4F55;&#x7BA1;&#x7406;&#x5FAE;&#x670D;&#x52A1; <a href="https://developer.ibm.com/dwblog/2017/how-istio-manages-microservice-applications/" target="_blank">https://developer.ibm.com/dwblog/2017/how-istio-manages-microservice-applications/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go&#x751F;&#x4EA7;PDF&#x5E93; <a href="https://github.com/jung-kurt/gofpdf" target="_blank">https://github.com/jung-kurt/gofpdf</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-17">gocn_news_2017-11-17</h2>
+<ul>
+<li><ol>
+<li>GoCN&#x6BCF;&#x65E5;&#x65B0;&#x95FB;(2017-11-17)</li>
+</ol>
+</li>
+<li><ol>
+<li>1.Go 1.10 &#x5148;&#x7779;&#x4E3A;&#x5FEB;<a href="https://tip.golang.org/doc/go1.10" target="_blank">https://tip.golang.org/doc/go1.10</a></li>
+</ol>
+</li>
+<li><ol>
+<li>2.&#x4F7F;&#x7528;Go&#x548C;C++&#x5B9E;&#x73B0;&#x65E5;&#x5747;&#x4E00;&#x4EBF;&#x4E94;&#x5343;&#x4E07;&#x5F20;&#x7684;&#x56FE;&#x7247;&#x7684;&#x5904;&#x7406; <a href="https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d" target="_blank">https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d</a></li>
+</ol>
+</li>
+<li><ol>
+<li>3.2017&#x5E74;&#x6392;&#x540D;&#x524D;&#x516D;&#x7684;Go Web&#x6846;&#x67B6;<a href="https://dev.to/speedwheel/top-" target="_blank">https://dev.to/speedwheel/top-</a> ... 7-34i</li>
+</ol>
+</li>
+<li><ol>
+<li>4.DevOps&#x53D1;&#x5C55;&#x8D8B;&#x52BF;<a href="https://techbeacon.com/7-devops-trends-watch-2017" target="_blank">https://techbeacon.com/7-devops-trends-watch-2017</a></li>
+</ol>
+</li>
+<li><ol>
+<li>5.Go Profiler&#x5185;&#x90E8;&#x6784;&#x9020; <a href="https://stackimpact.com/blog/go-profiler-internals/" target="_blank">https://stackimpact.com/blog/go-profiler-internals/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7F16;&#x8F91;&#xFF1A;Razil
+&#x8BA2;&#x9605;&#x65B0;&#x95FB;&#xFF1A;<a href="http://tinyletter.com/gocn" target="_blank">http://tinyletter.com/gocn</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-16">gocn_news_2017-11-16</h2>
+<ul>
+<li><ol>
+<li>1.&#x8C37;&#x6B4C;&#x53D1;&#x5E03;&#x79FB;&#x52A8;&#x7AEF;&#x6DF1;&#x5EA6;&#x5B66;&#x4E60;&#x6846;&#x67B6;TensorFlow Lite
+<a href="https://www.leiphone.com/news/201711/suQv6jGR9zzFHXve.html" target="_blank">https://www.leiphone.com/news/201711/suQv6jGR9zzFHXve.html</a></li>
+</ol>
+</li>
+<li><ol>
+<li>2.&#x7F16;&#x5199;&#x9AD8;&#x6027;&#x80FD;Go&#x5E94;&#x7528;&#x7A0B;&#x5E8F;
+<a href="http://talks.godoc.org/github.com/davecheney/qconsf-2017/high-performance-go.slide" target="_blank">http://talks.godoc.org/github.com/davecheney/qconsf-2017/high-performance-go.slide</a></li>
+</ol>
+</li>
+<li><ol>
+<li>3.&#x4ECE;&#x6E90;&#x4EE3;&#x7801;&#x6784;&#x5EFA;Caddy&#x670D;&#x52A1;&#x5668;
+<a href="https://www.calhoun.io/building-caddy-server-from-source/" target="_blank">https://www.calhoun.io/building-caddy-server-from-source/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>4.TensorFlow &#x505A;&#x6587;&#x672C;&#x60C5;&#x611F;&#x5206;&#x6790;
+<a href="https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow" target="_blank">https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow</a></li>
+</ol>
+</li>
+<li><ol>
+<li>5.Golang &#x673A;&#x5668;&#x5B66;&#x4E60;&#x5E93;
+<a href="https://github.com/KeKe-Li/golearn/blob/master/doc/zh_CN/Home.md" target="_blank">https://github.com/KeKe-Li/golearn/blob/master/doc/zh_CN/Home.md</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7F16;&#x8F91;&#xFF1A;&#x674E;&#x68EE;&#x68EE;
+&#x8BA2;&#x9605;&#x65B0;&#x95FB;&#xFF1A;<a href="http://tinyletter.com/gocn" target="_blank">http://tinyletter.com/gocn</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-15">gocn_news_2017-11-15</h2>
+<ul>
+<li><ol>
+<li>&#x975E;&#x5E38;&#x5B9E;&#x7528;&#x7684;HTTP&#x8BF7;&#x6C42;&#x5E93; <a href="https://github.com/imroc/req" target="_blank">https://github.com/imroc/req</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7A76;&#x7ADF;&#x5565;&#x624D;&#x662F;&#x4E92;&#x8054;&#x7F51;&#x67B6;&#x6784;&#x201C;&#x9AD8;&#x5E76;&#x53D1;&#x201D; <a href="http://url.cn/5OBO2ha" target="_blank">http://url.cn/5OBO2ha</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x4E3A;Go&#x5E94;&#x7528;&#x5B9A;&#x5236;dockerfile  <a href="https://ops.tips/blog/dockerfile-golang/" target="_blank">https://ops.tips/blog/dockerfile-golang/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x9AD8;&#x6548;&#x7684;&#x591A;&#x7EF4;&#x7A7A;&#x95F4;&#x70B9;&#x7D22;&#x5F15;&#x7B97;&#x6CD5; <a href="http://www.jianshu.com/p/7332dcb978b2" target="_blank">http://www.jianshu.com/p/7332dcb978b2</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Golang &#x6807;&#x51C6;&#x5305;&#x5E03;&#x5C40;[&#x8BD1;] <a href="http://www.jianshu.com/p/022ba2dd9239" target="_blank">http://www.jianshu.com/p/022ba2dd9239</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-14">gocn_news_2017-11-14</h2>
+<ul>
+<li><ol>
+<li>Go &#x8C03;&#x6574; GC &#x53C2;&#x6570; <a href="https://blog.cloudflare.com/go-dont-collect-my-garbage/" target="_blank">https://blog.cloudflare.com/go-dont-collect-my-garbage/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x7406;&#x89E3; SOLID &#x63A5;&#x53E3;&#x9694;&#x79BB;&#x539F;&#x5219; <a href="https://codeburst.io/understanding-solid-principles-interface-segregation-principle-b2d57026cf6c" target="_blank">https://codeburst.io/understanding-solid-principles-interface-segregation-principle-b2d57026cf6c</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go &#x7684;&#x5305;&#x8BBE;&#x8BA1;&#x54F2;&#x5B66; <a href="https://www.goinggo.net/2017/02/design-philosophy-on-packaging.html" target="_blank">https://www.goinggo.net/2017/02/design-philosophy-on-packaging.html</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go &#x8BED;&#x8A00;&#x4E2D;&#x9519;&#x8BEF;&#x5904;&#x7406; <a href="https://scene-si.org/2017/11/13/error-handling-in-go/" target="_blank">https://scene-si.org/2017/11/13/error-handling-in-go/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go &#x8BED;&#x8A00;&#x7684;&#x96F6;&#x503C;&#x5E8F;&#x5217;&#x5316;  <a href="https://daenney.github.io/2017/08/27/go-zero-values-serialising-deserialising.html" target="_blank">https://daenney.github.io/2017/08/27/go-zero-values-serialising-deserialising.html</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-13">gocn_news_2017-11-13</h2>
+<ul>
+<li><ol>
+<li>pprof&#x65B0;&#x7684;UI <a href="https://rakyll.org/pprof-ui/" target="_blank">https://rakyll.org/pprof-ui/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Google&#x7684;&#x53EF;&#x89C2;&#x6D4B;&#x6027;&#x65B9;&#x6CD5; <a href="https://medium.com/@rakyll/googles-approach-to-observability-frameworks-c89fc1f0e058" target="_blank">https://medium.com/@rakyll/googles-approach-to-observability-frameworks-c89fc1f0e058</a></li>
+</ol>
+</li>
+<li><ol>
+<li>golang interface&#x6DF1;&#x5EA6;&#x89E3;&#x6790; <a href="http://blog.csdn.net/D_Guco/article/details/78507999" target="_blank">http://blog.csdn.net/D_Guco/article/details/78507999</a></li>
+</ol>
+</li>
+<li><ol>
+<li>&#x8F6F;&#x4EF6;2.0 <a href="https://medium.com/@karpathy/software-2-0-a64152b37c35" target="_blank">https://medium.com/@karpathy/software-2-0-a64152b37c35</a></li>
+</ol>
+</li>
+<li><ol>
+<li>GothamGo 2017&#x89C6;&#x9891;&#x96C6; <a href="https://www.youtube.com/watch?v=egSvw7xYw9s&amp;list=PLeGxIOPLk9ELp7dx6A0gtvjbc99dU2kq-" target="_blank">https://www.youtube.com/watch?v=egSvw7xYw9s&amp;list=PLeGxIOPLk9ELp7dx6A0gtvjbc99dU2kq-</a></li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="gocnnews2017-11-12">gocn_news_2017-11-12</h2>
+<ul>
+<li><ol>
+<li>&#x7406;&#x89E3;Docker&#x7684;&#x591A;&#x9636;&#x6BB5;&#x955C;&#x50CF;&#x6784;&#x5EFA; <a href="http://tonybai.com/2017/11/11/multi-stage-image-build-in-docker/" target="_blank">http://tonybai.com/2017/11/11/multi-stage-image-build-in-docker/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go&#x9879;&#x76EE;&#x7684;Makefile <a href="https://ops.tips/blog/minimal-golang-makefile/" target="_blank">https://ops.tips/blog/minimal-golang-makefile/</a></li>
+</ol>
+</li>
+<li><ol>
+<li>Go&#x5728;&#x7EBF;&#x7EC3;&#x4E60; </li>
+</ol>
+</li>
+</ul>
+<footer class="page-footer"><span class="copyright">Copyright &#xA9; hanyajun.com all right reserved&#xFF0C;powered by Gitbook</span><span class="footer-modification">Updated at 
+2019-11-19 23:16:52
+</span></footer>
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                
+                <a href="gocn_news_2018.html" class="navigation navigation-next navigation-unique" aria-label="Next page: GoCN_NEWS_2018">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"GoCN_NEWS_2017","level":"1.4.1","depth":2,"next":{"title":"GoCN_NEWS_2018","level":"1.4.2","depth":2,"path":"gocn_news_2018.md","ref":"gocn_news_2018.md","articles":[]},"previous":{"title":"Go每日新闻","level":"1.4","depth":1,"ref":"","articles":[{"title":"GoCN_NEWS_2017","level":"1.4.1","depth":2,"path":"gocn_news_2017.md","ref":"gocn_news_2017.md","articles":[]},{"title":"GoCN_NEWS_2018","level":"1.4.2","depth":2,"path":"gocn_news_2018.md","ref":"gocn_news_2018.md","articles":[]},{"title":"GoCN_NEWS_2019","level":"1.4.3","depth":2,"path":"gocn_news_2019.md","ref":"gocn_news_2019.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["github","codesnippet","splitter","page-toc-button","image-captions","editlink","back-to-top-button","-lunr","-search","search-plus","github-buttons@2.1.0","favicon@^0.0.2","tbfed-pagefooter@^0.0.1","3-ba","theme-default","-highlight","prism","prism-themes","sitemap-general","ga","disqus","donate","livereload"],"styles":{"ebook":"styles/ebook.css","epub":"styles/epub.css","mobi":"styles/mobi.css","pdf":"styles/pdf.css","print":"styles/print.css","website":"styles/website.css"},"pluginsConfig":{"tbfed-pagefooter":{"copyright":"Copyright © hanyajun.com","modify_label":"Updated at ","modify_format":"YYYY-MM-DD HH:mm:ss"},"prism":{"css":["prismjs/themes/prism-okaidia.css"]},"disqus":{"useIdentifier":false,"shortName":"hanyajun"},"github":{"url":"https://github.com/Han-Ya-Jun"},"editlink":{"label":"编辑本页","multilingual":false,"base":"https://github.com/Han-Ya-Jun/golang-notes/blob/master/"},"livereload":{},"splitter":{},"donate":{"alipay":"http://cdn.hanyajun.com/alipay.jpg","alipayText":"支付宝打赏","button":"赏","title":"","wechat":"http://cdn.hanyajun.com/wepay.png","wechatText":"微信打赏"},"codesnippet":{},"sitemap-general":{"prefix":"https://hanyajun.com/golang-notes/"},"fontsettings":{"theme":"white","family":"sans","size":2},"favicon":{"shortcut":"images/favicon.ico","bookmark":"images/favicon.ico","appleTouch":"images/favicon.ico","appleTouchMore":{"120x120":"images/favicon.ico","180x180":"images/favicon.ico"}},"page-toc-button":{},"back-to-top-button":{},"prism-themes":{},"github-buttons":{"repo":"Han-Ya-Jun/golang-notes","types":["star"],"size":"small"},"3-ba":{"configuration":"auto","token":"a79d548adc1c9b6a3d8b8ba1e8d0620c"},"ga":{"configuration":"auto","token":"UA-138985430-1"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"showLevel":true,"styles":{"ebook":"styles/ebook.css","epub":"styles/epub.css","mobi":"styles/mobi.css","pdf":"styles/pdf.css","print":"styles/print.css","website":"styles/website.css"}},"search-plus":{},"image-captions":{"caption":"图片 - _CAPTION_","variable_name":"_pictures"}},"theme":"default","author":"韩亚军","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"_pictures":[]},"title":"Golang 学习笔记","language":"zh-hans","links":{"sidebar":{"韩亚军的博客":"https://hanyajun.com"}},"gitbook":"*","description":"Golang 学习笔记"},"file":{"path":"gocn_news_2017.md","mtime":"2019-11-19T15:16:52.266Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-11-19T15:40:55.303Z"},"basePath":".","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="gitbook/gitbook.js"></script>
+    <script src="gitbook/theme.js"></script>
+    
+        
+        <script src="gitbook/gitbook-plugin-github/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-splitter/splitter.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-page-toc-button/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-editlink/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-back-to-top-button/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-search-plus/jquery.mark.min.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-search-plus/search.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-github-buttons/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-3-ba/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-ga/plugin.js"></script>
+        
+    
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/URI.js/1.16.1/URI.min.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-disqus/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-donate/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-livereload/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
