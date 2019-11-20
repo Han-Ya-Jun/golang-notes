@@ -1,4 +1,29 @@
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-11-20
+### 一、Golang来啦
+
+1.[Go面试每天一篇（第79天）](https://mp.weixin.qq.com/s/oBF-rwE3UkvZ8mRjgV_rIg)
+
+### 二、Go语言中文网
+
+1.[从Go开源项目BigCache学习加速并发访问和避免高额的GC开销](https://mp.weixin.qq.com/s/SLWj9Qph22cweHtnmh5QhQ)
+
+2.[Gin框架系列 - 自定义错误处理](https://mp.weixin.qq.com/s/vUM2Ei_WzXs4M94pNU3bcw)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 61 天）](https://mp.weixin.qq.com/s/g3k9UD3l24OxKMdYCAVqGg)
+
+4.[Go语言中不一样的Interface](https://mp.weixin.qq.com/s/bgTcbLZbW0qkerRBimK03g)
+
+5.[详解 Kubernetes Pod 的实现原理](https://mp.weixin.qq.com/s/tQfLRxTVuftgS_yHPm6flw)
+
+### 三、容器时代
+
+1.[一文看懂 K8s 日志系统设计和实践](https://mp.weixin.qq.com/s/YbInTI0vNryEbsCjK5wJYw)
+
+### 四、我的小碗汤
+
+1.[备战CKA每日一题——第3天](https://mp.weixin.qq.com/s/C618HkPfsXwSRnYVdVdXNw)
+
 ## go语言中文网(每日资讯)_2019-11-19
 ### 一、Golang来啦
 1.[Go面试每天一篇（第78天）](https://mp.weixin.qq.com/s/hIavH1k_wvE6LZ7X37dfGA)
