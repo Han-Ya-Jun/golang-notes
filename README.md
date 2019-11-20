@@ -12,7 +12,7 @@
 # 目录
 
 * [序言](README.md)
-* [Golang介绍](INTRODUCE.md)
+* [go语言简介](INTRODUCE.md)
 * [基础语法](BASICGRAMMAR.md) 
   * [基础类型](BASICGRAMMAR.md)
 * [Go每日新闻]()

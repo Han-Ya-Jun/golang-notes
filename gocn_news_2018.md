@@ -1,5 +1,4 @@
 # gocn_news_2018
-
 ## gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
