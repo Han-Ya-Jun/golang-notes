@@ -1,6 +1,7 @@
 # gocn_news_set_2019
 ## go语言中文网(每日资讯)_2019-11-19
-### 一、Golang来啦1.[Go面试每天一篇（第78天）](https://mp.weixin.qq.com/s/hIavH1k_wvE6LZ7X37dfGA)### 二、Go语言中文网1.[Go开发过程中总是要停下来编译：用它解决你的烦恼，快乐编程](https://mp.weixin.qq.com/s/4xwswOB17A-wup3Gqdlndw)2.[Gin框架系列 - 数据绑定和验证](https://mp.weixin.qq.com/s/h8wGEyCkmjeUZUGJfQnx-Q)3.[一起攻克面试难关：Go 面试每天一篇（第 60 天）](https://mp.weixin.qq.com/s/vTYEh4N7wcKasrsmyeeUIQ)4.[从 Kubernetes 中的对象谈起](https://mp.weixin.qq.com/s/AWgdHxpSlXO4Ro5jf6Hxdw)
+### 一、Golang来啦1.[Go面试每天一篇（第78天）](https://mp.weixin.qq.com/s/hIavH1k_wvE6LZ7X37dfGA)
+### 二、Go语言中文网1.[Go开发过程中总是要停下来编译：用它解决你的烦恼，快乐编程](https://mp.weixin.qq.com/s/4xwswOB17A-wup3Gqdlndw)2.[Gin框架系列 - 数据绑定和验证](https://mp.weixin.qq.com/s/h8wGEyCkmjeUZUGJfQnx-Q)3.[一起攻克面试难关：Go 面试每天一篇（第 60 天）](https://mp.weixin.qq.com/s/vTYEh4N7wcKasrsmyeeUIQ)4.[从 Kubernetes 中的对象谈起](https://mp.weixin.qq.com/s/AWgdHxpSlXO4Ro5jf6Hxdw)
 5.[If-None-Match 在刷票软件中的应用](https://mp.weixin.qq.com/s/BtLON43pQ-djHQKsCW4LVA)
 
 ### 三、学院君的后花园
