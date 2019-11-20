@@ -1,4 +1,14 @@
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-11-19
+### 一、Golang来啦1.[Go面试每天一篇（第78天）](https://mp.weixin.qq.com/s/hIavH1k_wvE6LZ7X37dfGA)### 二、Go语言中文网1.[Go开发过程中总是要停下来编译：用它解决你的烦恼，快乐编程](https://mp.weixin.qq.com/s/4xwswOB17A-wup3Gqdlndw)2.[Gin框架系列 - 数据绑定和验证](https://mp.weixin.qq.com/s/h8wGEyCkmjeUZUGJfQnx-Q)3.[一起攻克面试难关：Go 面试每天一篇（第 60 天）](https://mp.weixin.qq.com/s/vTYEh4N7wcKasrsmyeeUIQ)4.[从 Kubernetes 中的对象谈起](https://mp.weixin.qq.com/s/AWgdHxpSlXO4Ro5jf6Hxdw)
+5.[If-None-Match 在刷票软件中的应用](https://mp.weixin.qq.com/s/BtLON43pQ-djHQKsCW4LVA)
+
+### 三、学院君的后花园
+
+1.[Go 语言网络编程系列（八）—— RPC 编程篇：使用 JSON 对传输数据进行编解码](https://mp.weixin.qq.com/s/MyUx_6Xlsx5KQSpqPMyI7g)
+### 四、Go夜读
+
+1.[《Go 夜读》第 68 期预告](https://mp.weixin.qq.com/s/9bIES9W4W_hmYsT6SZBZ9Q)
 ## gocn_news_2019-11-19
 - 1.Golang容器部署:https://segmentfault.com/a/1190000021051021
 - 2.走进Golang之编译器原理:https://mp.weixin.qq.com/s/VtRIEpUHn1vavT_FYkL86w
@@ -7,6 +17,43 @@
 - 5.为什么HTTPS比HTTP安全：https://juejin.im/post/5dd23e556fb9a020350a88f6-
 
 
+
+## go语言中文网(每日资讯)_2019-11-18
+### 一、Golang来啦
+
+1.[Go面试每天一篇（第77天）](https://mp.weixin.qq.com/s/sd2485PPSRxcc_1CHFzBhw)
+
+2.[Go 面试每天一篇（第 76 天）](https://mp.weixin.qq.com/s/Sf1AG0WUoG7o3HnyHUraQw)
+
+### 二、Go语言中文网
+
+1.[Gin框架系列 - 日志记录：Logrus 如何用？](https://mp.weixin.qq.com/s/BNRleKHfyWx7DfUenaZCLA)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 59 天）](https://mp.weixin.qq.com/s/TamxbRiGP66CbO9bDsDWHw)
+
+3.[Go最重要的数据类型之一：切片使用绕坑指南](https://mp.weixin.qq.com/s/NGdaH5syqgAjdJ4yIaJQbQ)
+
+4.[值得收藏调度器系列：生生世世 — schedule 的轮回（七）](https://mp.weixin.qq.com/s/pJ14z5HQhDNubIxjLYAH9Q)
+
+5.[Go语言爱好者周刊：第 17 期 | 文末招聘](https://mp.weixin.qq.com/s/ARCKpGfqB7j-oRkSy53N_g)
+
+6.[一起攻克面试难关：Go 面试每天一篇（第 58 天）](https://mp.weixin.qq.com/s/c-UcujkdfqbsvioPIQx-8g)
+
+### 三、无闻是个码痴
+
+1.[在国外远程办公是一种怎样的体验？](https://mp.weixin.qq.com/s/iiteMLkXzQGbz8dFhuU9Tg)
+
+2.[GitHub Universe 2019 Keynote 回顾](https://mp.weixin.qq.com/s/7Y5M4xQ0MGWOJZlBCfujYQ)
+
+### 四、容器时代
+
+1.[Kubernetes Adds-ons——提供更高效的计算](https://mp.weixin.qq.com/s/PRZVm0TvyVeVT4KO_umdFQ)
+
+### 五、Moelove
+
+1.[K8S 生态周报| Helm v3.0.0 正式发布](https://mp.weixin.qq.com/s/Dr_Hl5kTnMT-DiMnbzVWVA)
+
+2.[2019 容器使用量报告](https://mp.weixin.qq.com/s/bU1vbhVII2fd12_7Dcp5aQ)
 ## gocn_news_2019-11-18
 - 1.借助OpenFaaS和Golang实现Serverlesshttps://towardsdatascience.com/going-serverless-with-openfaas-and-golang-the-ultimate-setup-and-workflow-52a4a85a7951 
 - 2.我在C#中实现了Goroutines和Channelshttps://medium.com/@nolanmudge/i-implemented-goroutines-and-channels-in-c-why-dbd4a269bfbe
@@ -15,6 +62,21 @@
 - 5.用Go编写的UNIXed(lineeditor)克隆版本https://github.com/prologic/ed
 
 
+
+## go语言中文网(每日资讯)_2019-11-17
+1. [viper](https://github.com/spf13/viper)
+
+2. [Viper--方便好用的Golang 配置库](https://www.cnblogs.com/cnblogs-wangzhipeng/p/9484460.html)
+
+3. [golang库——Viper源码分析](https://kongpingfan.me/2019/04/20/Viper源码分析/)
+
+4. [go viper包翻译介绍](https://blog.csdn.net/cs380637384/article/details/81217767)
+
+5. [etcd配置中心——confd/viper](https://chunlife.top/2019/02/28/学习使用confd/)
+
+6. [konfig](https://github.com/lalamove/konfig) 、[config](https://github.com/micro/go-micro/tree/master/config)[[Go Config配置库](https://micro.mu/docs/cn/go-config.html)] [和viper的benchmark](https://github.com/lalamove/konfig#benchmark)
+
+   
 ## gocn_news_2019-11-17
 - 1.解决增量并发的问题https://medium.com/@claudiojm92/solving-increment-concurrency-problems-a788f75ae68d
 - 2.如何有选择得导出包内的标识符https://engineering.kablamo.com.au/posts/2019/export-test
@@ -23,6 +85,33 @@
 - 5.流事件处理框架firebolthttps://github.com/digitalocean/firebolt
 
 
+
+## go语言中文网(每日资讯)_2019-11-16
+### 一、Golang来啦
+
+1.[Go面试每天一篇（第75天）](https://mp.weixin.qq.com/s/2loneGhQAE3s7YDc2hrPqQ)
+
+### 二、Go语言中文网
+
+1.[Leader 这样说对吗？还是自己动手验证 Go 逃逸分析](https://mp.weixin.qq.com/s/JxWlI2LRXQX2kHxMQzJRPw)
+
+2.[线上问题排查实战：容器中某Go服务GC停顿经常超过100ms](https://mp.weixin.qq.com/s/5SDDSYFlEYyi6yNtPRgmTw)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 57 天）](https://mp.weixin.qq.com/s/tqmca23L1JhWMYXhpp4Z0A)
+
+4.[Gin 框架系列 - 安装和路由配置](https://mp.weixin.qq.com/s/753ZVif7ZRq5L777vqrUrw)
+
+5.[值得收藏调度器系列：千难万险 — goroutine 从生到死（六）](https://mp.weixin.qq.com/s/yhFJLHqchYkcZ1kkTg-eag)
+
+### 三、无闻是个码痴
+
+1.[GitHub Mobile 抢先体验篇（多图预警）](https://mp.weixin.qq.com/s/uSH48yDzIV6oKUwBqeJxFA)
+
+### 四、容器时代
+
+1.[从心理学的角度思考职业发展和个人成长](https://mp.weixin.qq.com/s/Bzg56X_tt6gB591nRZUgtw)
+
+2.[云原生存储和云存储有什么区别？](https://mp.weixin.qq.com/s/EVWeQEM7HlPnig0vQ3GKyQ)
 ## gocn_news_2019-11-16
 - 1.Go的text/template源码解析 https://bigpigeon.org/post/go-text-template
 - 2.Go中的数据结构字典-map https://www.cnblogs.com/33debug/p/11851585.html
@@ -31,12 +120,54 @@
 - 5.fastzip：快速创建和读取zip的库 https://github.com/saracen/fastzip
 
 
+
+## go语言中文网(每日资讯)_2019-11-15
+### 一、Golang来啦
+
+1. [Go面试每天一篇（第74天）](https://mp.weixin.qq.com/s/-cPNDtSdjMvsMvQy0-Qnfw)
+
+### 二、我要煎鱼说
+
+1. [关于 goproxy.cn 近期出现错误的说明](https://mp.weixin.qq.com/s/VksbLXT4-7eFiuLDUL79nQ)
+
+### 三、Go语言中文网
+
+1. [大家用Go都做什么？Go官方新发布的 Go.Dev 告诉你](https://mp.weixin.qq.com/s/vwBlrJvHXdWhqWmVFhv7-A)
+2. [一起攻克面试难关：Go 面试每天一篇（第 56 天）](https://mp.weixin.qq.com/s/C2ZhB-r7SZYqfXLC6yj-VQ)
+3. [谈 Kubernetes 的架构设计与实现原理](https://mp.weixin.qq.com/s/YaxaI95g6mUyYx7hI-Zr2A)
+4. [二进制文件加入 Git 版本的坑？Golang -ldflags 的一个技巧](https://mp.weixin.qq.com/s/VZXQeEeNNTLJPfS8tJVJZg)
+5. [值得收藏调度器系列：偷天换日 — g0 栈和用户栈如何完成切换？（四）](https://mp.weixin.qq.com/s/8xTtSoLvAcE1u_jWw9I-Eg)
+
+编辑：polaris
 ## gocn_news_2019-11-15
 - 1.go.dev新的Go开发门户网站上线啦https://www.i-programmer.info/news/98-languages/13250-go-dev-portal-now-online.html
 - 2.kubeedge源码分析系列之edgecore（一)https://juejin.im/post/5dcd374ee51d45080d2bdd36 
 - 3.用Go语言实现pdf的合成https://xdg.me/blog/go-as-glue-json-xml-png-pdf/  
 - 4.musig:像shazam那样实现音乐识别https://github.com/sfluor/musig  
 - 5.Dcron:基于redis与一致性哈希算法的分布式定时任务库https://github.com/LibiChai/dcron  *【活动】北京meetup https://www.bagevent.com/event/6150831*【活动】杭州meetup https://www.bagevent.com/event/6129212
+
+
+
+## go语言中文网(每日资讯)_2019-11-14
+### 一、Golang来啦
+
+1.[Go面试每天一篇（第73天）](https://mp.weixin.qq.com/s/Jy7bTTUem5f5_Vd8vatRhA)
+
+### 二、 我的小碗汤
+
+1.[避坑指南 | 我非要把这个bug优雅的解决掉](https://mp.weixin.qq.com/s/V5iODjXrRl9fjfk-uM9skw)
+
+### 三、Go语言中文网
+
+1.[Go项目实战：用 Go 语言构建 SQL 解析器](https://mp.weixin.qq.com/s/ROo168oOSkZon_EE0kEbAw)
+
+2.[Go netpoll I/O 多路复用构建原生网络模型之源码深度解析](https://mp.weixin.qq.com/s/-5Un8uvS4281qB-M4xmJXg)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 55 天）](https://mp.weixin.qq.com/s/KW9tnXgt5Sjz1Oa1R7puHg)
+
+4.[花椒前端基于 GitLab CI/CD 的自动化构建、发布实践](https://mp.weixin.qq.com/s/oosnb8Ym063iBD9uuSQ-rA)
+
+5.[浏览器运行数据库是如何实现的？TiDB-Wasm 原理与实现](https://mp.weixin.qq.com/s/zLYiulqO00q9AA3DQCslLw)
 
 
 ## gocn_news_2019-11-14
@@ -47,6 +178,27 @@
 - 5.扩展Go页面分配器提案https://go.googlesource.com/proposal/+/refs/changes/57/202857/2/design/35112-scaling-the-page-allocator.md*【活动】北京meetuphttps://www.bagevent.com/event/6150831*【活动】杭州meetuphttps://www.bagevent.com/event/6129212
 
 
+
+## go语言中文网(每日资讯)_2019-11-13
+### 一、Go语言中文网
+
+1.[两位Go大佬的对话引发的对 Race 的思考总结](https://mp.weixin.qq.com/s/6cbDcyuhQpM-UBH_GMV2GA)
+
+2.[漫画：什么是区块链？很难的问题普通人都能看懂](https://mp.weixin.qq.com/s/LvkQnJPy1vl4WWMH_JU8EA)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 54 天）](https://mp.weixin.qq.com/s/plQWcTkMbZ5Z8-WMtXNnwQ)
+
+4.[为Java程序员准备的Go教程：快速入门](https://mp.weixin.qq.com/s/qZoy3FzJIwoctlxvHVqeQQ)
+
+5.[值得收藏调度器系列：新官上任 — Go sheduler 开始调度循环（五）](https://mp.weixin.qq.com/s/1FXMH4JW63gCn4sH0HU3mw)
+
+### 二、Golang来啦
+
+1.[Go 面试每天一篇（第 72 天）](https://mp.weixin.qq.com/s/nfDOlM6Kqfr496eDW0WEwg)
+
+### 三、[圈内精选--区块链文章](http://100000p.com/)
+
+1.[斗鱼基于 Golang 在高并发场景下的日志系统实践](http://100000p.com/article/2c9f60ef6e5884e0016e58875e4e0000)
 ## gocn_news_2019-11-13
 - 1.SystemDesign分享https://www.youtube.com/watch?v=mhUQe4BKZXs&list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV
 - 2.Go实现简单TCP扫描器https://mp.weixin.qq.com/s/OhS_RQZojJbkenOSS_tEng
@@ -55,6 +207,28 @@
 - 5.我的Promtheus到底啥时候报警？https://aleiwu.com/post/prometheus-alert-why/?from=singlemessage&isappinstalled=0
 
 
+
+## go语言中文网(每日资讯)_2019-11-12
+### 一、Go语言中文网
+
+1.[一起攻克面试难关：Go 面试每天一篇（第 53 天）](https://mp.weixin.qq.com/s/Bx3ioFKwIlMQqaF1cOCIpw)
+
+2.[Go为什么能成功，Rob Pike认为做了这5件事](https://mp.weixin.qq.com/s/vq7Jf7NZ612ItlN-u3fDew)
+
+3.[Go有标准库 net，还需要其他网络库吗？看看 gnet 再说](https://mp.weixin.qq.com/s/Oi0_30qSxz1WdmeXnlIM8Q)
+
+4.[安全很重要：Go项目的安全评估技术](https://mp.weixin.qq.com/s/uj-hHEjW61XJ6zeIV3o7eA)
+
+### 二、Golang来啦
+
+1.[Go 面试每天一篇（第 71 天）](https://mp.weixin.qq.com/s/Jl8FT_0OK-k5198MBDaAkA)
+
+### 三、我的小碗汤
+
+1.[（图文并茂，权威最详细）Wireshark抓包分析 TCP三次握手/四次挥手详解](https://mp.weixin.qq.com/s/o0iv_rj8AuXN0diYgzBTIA)
+
+### 四、云原声技术发展趋势及应用探讨
+1.[📎云原生技术发展趋势及应用探讨.pptx](https://www.yuque.com/attachments/yuque/0/2019/pptx/470492/1573555860604-1e2100be-d2e4-4c35-a249-bccf27718628.pptx)
 ## gocn_news_2019-11-12
 - 1.JEB反编译Go二进制文件https://www.pnfsoftware.com/blog/analyzing-golang-executables/
 - 2.k8s边缘计算平台kubeedge源码分析系列之整体架构https://juejin.im/post/5dc92c66f265da4d513359ab
@@ -63,12 +237,60 @@
 - 5.你不知道的Gounsafe.Pointeruintptr原理和玩法https://www.cnblogs.com/sunsky303/p/11820500.html
 
 
+
+## go语言中文网(每日资讯)_2019-11-11
+
+### 一、Golang来啦
+
+1. [Go 面试每天一篇（第 70 天）](https://mp.weixin.qq.com/s/OVUI0ExYndqG2ZxNIu9sJQ)
+
+### 二、Go语言中文网
+
+1. [Go语言爱好者周刊：第 16 期](https://mp.weixin.qq.com/s/MSSZjiTPQymNLlnSXOd16Q)
+2. [超详细的讲解Go中如何实现一个协程池](https://mp.weixin.qq.com/s/RDeNxMc6B8NQ6FFYNgdLBA)
+3. [深入golang之---goroutine并发控制与通信](https://mp.weixin.qq.com/s/ZlyQHfmoY1lzOoRgFSCOBw)
+4. [图解中文字符编码-Go语言例解](https://mp.weixin.qq.com/s/xZ7i8k2NIJGlG7tRWgWvhQ)
+5. [go语言的开源区块链代码都有哪些？欢迎留言补充](https://mp.weixin.qq.com/s/WaTpl_EdJOF96BqoZWsOUw)
+6. [让数据库运行在 Markdown 文档中：这是真的吗？](https://mp.weixin.qq.com/s/0Vo4apK4VdBfOs0-KyWXZA)
+
+### 三、容器时代
+
+1. [Jaeger在Kubernetes上的分布式追踪基础设施](http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzI0NjI4MDg5MQ==#wechat_webview_type=1&wechat_redirect)
+
+### 四、我的小碗汤
+
+1. [大规模场景下 k8s 集群的性能优化](https://mp.weixin.qq.com/s/lGYhUJ06K6I7_YmvFvmuCQ)
+
+### 五、无闻是个码痴
+
+1. [Go 语言 Web 应用开发 第 03 课：进阶模板用法](https://mp.weixin.qq.com/s/zG3J4nFKuLE83800r8y0sg)
+
+### 六、码农桃花源 
+
+1. [深度解密Go语言之pprof](https://mp.weixin.qq.com/s/QiqoZeew3348OzU0tJ8XxA)
+
+### 七、MoeLove
+
+1. [K8S 生态周报| Vitess 正式从 CNCF 毕业](https://mp.weixin.qq.com/s/LL7Pj3tz7hT3eFjNnduSJQ)
 ## gocn_news_2019-11-11
 - 1.Go的内存管理与回收 https://medium.com/a-journey-with-go/go-memory-management-and-memory-sweep-cc71b484de05
 - 2.protoc-gen-struct-transformer：帮助将gRPC生成模型与编写的数据模型进行关联的工具 https://speakerdeck.com/ekhabarov/protoc-gen-struct-transformer
 - 3.构建可持续微服务，我们的看法和建议 https://building.echo.co.uk/microservices-opinions-and-advice/
 - 4.Staticcheck工具实战 https://superhighway.dev/staticcheck-in-action
 - 5.lungo：兼容MongoDB协议的嵌入式数据库 https://github.com/256dpi/lungo【活动】北京meetup https://www.bagevent.com/event/6150831【活动】杭州meetup https://www.bagevent.com/event/6129212
+
+
+
+## go语言中文网(每日资讯)_2019-11-10
+### Go Race 专题
+
+1. [Race源码](https://github.com/golang/go/tree/master/src/runtime/race)
+2. [Go race的难逃之路](https://www.yuque.com/wegoer/set/go-race-talk) 
+3. [Go 译文之竞态检测器 race](https://segmentfault.com/a/1190000020107431)[官方blog]
+4. [Data Race Detector](https://golang.org/doc/articles/race_detector.html)[官方blog]
+5. [Golang race detection](https://krakensystems.co/blog/2019/golang-race-detection)
+6. [Data races in Go(Golang) and how to fix them](https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/)
+7. [go run -race的底层实现](https://speakerdeck.com/kavya719/go-run-race-under-the-hood) [[📎Strangeloop_final.pdf](https://www.yuque.com/attachments/yuque/0/2019/pdf/203993/1573389823278-c8452c49-30ed-4152-a5ed-2e3e9641554b.pdf)]
 
 
 ## gocn_news_2019-11-10
@@ -79,6 +301,43 @@
 - 5.Golang单元测试入门实践总结https://www.jianshu.com/p/331c432dc036-
 
 
+
+## go语言中文网(每日资讯)_2019-11-09
+### 一、学院君的后花园
+
+1.[Go 语言网络编程系列（七）—— RPC 编程篇：默认编解码工具 Gob](https://mp.weixin.qq.com/s/0ZkU_8zu13Lqo681eD4i1A)  
+
+### 二、Go语言中文网
+
+1.[一起攻克面试难关：Go 面试每天一篇（第 50 天）](https://mp.weixin.qq.com/s/Ywkn2qwxNhLWgYZORJXuaQ)
+
+2.[800 字彻底理解 Go 指针](https://mp.weixin.qq.com/s/2ysqos7dJTS3DO_srLsdVw)
+
+3.[详细介绍 Go 中如何实现 bitset](https://mp.weixin.qq.com/s/DJtUjKEOrxyEEJtIj7NMBA)
+
+4.[为什么这篇微服务的文章好评如潮？只因它把微服务架构讲透了](https://mp.weixin.qq.com/s/K6a1UBaVuaA56lPgBpjwKA)
+
+### 三、Golang来啦
+
+1.[Go 面试每天一篇（第 68 天）](https://mp.weixin.qq.com/s/1rgFCNs9KpRCT_R7sZLEZg)
+
+### 四、我的小碗汤
+
+1.[必学必会 ● 1小时入门 Docker，让部署应用更快更简单](https://mp.weixin.qq.com/s/sEY60uCitrc88I3CTff0CQ)
+
+### 五、无闻是个码痴
+
+1.[Go 语言 Web 应用开发 第 02 课：基础模板用法](https://mp.weixin.qq.com/s/XaSe5qYDN3--jPNn7MMYNQ)
+
+### 六、我的网课
+
+1.[istio是怎样强行代理Pod的进出请求的？](https://mp.weixin.qq.com/s/NXH7N6QipCtxb7wcsl4AEg)
+
+### 七、 容器时代
+
+1.[深入介绍Kubernetes admission webhooks](https://mp.weixin.qq.com/s/d1uwBvk6v_eTLkLvvEcrQw)
+
+编辑者：ironbox
 ## gocn_news_2019-11-09
 - 1.Go语言发行10周年庆祝https://blog.golang.org/10years
 - 2.容器中某Go服务GC停顿经常超过100ms排查https://mp.weixin.qq.com/s/Lk1EbiT7WprVOyX_dXYMyg
@@ -87,6 +346,29 @@
 - 5.几种部署GokuAPIGateway的方式https://segmentfault.com/a/1190000020948193【活动】北京meetuphttps://www.bagevent.com/event/6150831【活动】杭州meetuphttps://www.bagevent.com/event/6129212
 
 
+
+## go语言中文网(每日资讯)_2019-11-08
+### 一、Golang来啦
+
+1. [Go面试每天一篇（第67天）](https://mp.weixin.qq.com/s/HT7UwQHLuf2YJrnG_X0UZw)
+
+### 二、无闻是个码痴
+
+1. [Go 语言 Web 应用开发 开课啦！](https://mp.weixin.qq.com/s/L5Eo3kBh2J3zl0OsghzrIQ)
+2. [第 01 课：初窥 HTTP 服务器](https://mp.weixin.qq.com/s/341LO-M3_Qj4Kym_Q5O_Zg)
+
+### 三、Go夜读分享预告
+
+1. [Go 夜读第 65 期 Go 原生网络模型 vs 异步 Reactor 模型](https://mp.weixin.qq.com/s/SyQR9lbhFXxdhc_6B56LgQ)
+
+### 四、Go语言中文网
+
+1. [Go语言中文网和币威合作，共同打造Go语言区块链社区](https://mp.weixin.qq.com/s/fkB8jDYbikHiOJpiwTmkdg)
+2. [好消息，无闻大神又出课程了：Go 语言 Web 应用开发](https://mp.weixin.qq.com/s/TZuHdxvo0rI-X5gxe8FHvQ)
+3. [一起攻克面试难关：Go 面试每天一篇（第 49 天）](https://mp.weixin.qq.com/s/ojCB-jj4YeKbnSqafZJOkw)
+4. [在系统中用etcd实现服务注册和发现](https://mp.weixin.qq.com/s/llOt-Ql0sQHHX7BptJ454w)
+
+编辑：polaris
 ## gocn_news_2019-11-08
 - 1. Go Modules: v2及更高版本使用 https://blog.golang.org/v2-go-modules
 - 2. 根据拓扑图理解golang的sync.Map工作原理 https://segmentfault.com/a/1190000020946989
@@ -94,6 +376,44 @@
 - 4. Go 语言 time 包常用用法笔记 https://cloud.tencent.com/developer/article/1456484
 - 5. 蚂蚁金服 Service Mesh 深度实践 https://mp.weixin.qq.com/s/XjbmCxdJLKVcFlEUiM7Pig【活动】北京meetup https://www.bagevent.com/event/6150831【活动】杭州meetup https://www.bagevent.com/event/6129212
 
+
+
+## go语言中文网(每日资讯)_2019-11-07
+### 一、建立可持续的微服务，我们的意见和建议。
+
+1.[Building sustainable microservices, our opinions and advice.](https://building.echo.co.uk/microservices-opinions-and-advice/)
+
+### 二、Go语言：内存管理和分配
+
+1.[Go: Memory Management and Allocation](https://medium.com/a-journey-with-go/go-memory-management-and-allocation-a7396d430f44)
+
+### 三、Golang来啦
+
+1.[Go面试每天一篇（第66天）](https://mp.weixin.qq.com/s/L4o1RrNFgKTKEcUCXb-OAg)
+
+### 四、我的小碗汤
+
+1.[详解docker镜像&容器](https://mp.weixin.qq.com/s/M0Yxevd2UyG3NucSgLPgJg)
+
+### 五、容器时代
+
+1.[用Telepresence在本地调试Kubernetes服务](https://mp.weixin.qq.com/s/MYonH0NREdZNfOh5CVprjA)
+
+### 六、Go语言中文网
+
+1.[开源社区福利，微软不断拥抱开源：Go 实现的微服务构建软件 Dapr 入门](https://mp.weixin.qq.com/s/hVhpet_RCwcgMMwZJnadrg)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 48 天）](https://mp.weixin.qq.com/s/QgV0ZBgbTlnXFZNYmA4z1A)
+
+3.[让数据库运行在浏览器里？TiDB + WebAssembly 告诉你答案](https://mp.weixin.qq.com/s/n3NAhohDqB-O5NHACEolKQ)
+
+4.[值得收藏调度器系列：粉墨登场 — main goroutine 的诞生（三）](https://mp.weixin.qq.com/s/gLfvxIhFtB40xvhhOOOwFg)
+
+### 七、Go夜读分享预告
+
+1.[理解顺序进程间通信（CSP）](https://github.com/developer-learning/night-reading-go/issues/490)
+
+编辑：张云峰
 
 ## gocn_news_2019-11-07
 - 1. [译] 排序运行时间能否做到 O(n)？让 Go 语言来告诉你 https://mp.weixin.qq.com/s/dHp-OJ0v9yNTazdYSsEKGw  
@@ -109,6 +429,29 @@
 【活动】杭州meetup https://www.bagevent.com/event/6129212
 
 
+
+## go语言中文网(每日资讯)_2019-11-06
+### Golang来啦
+
+- [Go面试每天一篇（第65天）](https://mp.weixin.qq.com/s/dJOqqdQ-et4aZ_ddwkQ7xg)
+
+### 我的小碗汤
+
+- [必须掌握的|chrome开发者工具骚技巧](https://mp.weixin.qq.com/s/l9u7ronP10S3E8q1yPrTbA) 
+
+### 光谷码农
+
+- [让数据库运行在浏览器里？TiDB+WebAssembly 告诉你答案](https://mp.weixin.qq.com/s/ry3aII6xy5u_xvNSYBgmzw)
+
+### Go语言中文网
+
+- [持续集成和部署如何做？一步步教你在k8s上安装Jenkins](https://mp.weixin.qq.com/s/QcV1ASYiztQ7Jj-VSqy_mQ)
+- [Hugo作者演讲总结：Go语言的遗产](https://mp.weixin.qq.com/s/wiSuP9_UUOKXUeS-sOUycQ)
+- [Go面试每天一篇（第47天）](https://mp.weixin.qq.com/s/dbnbDMWrz5KbySZ25_9o-g)
+- [通过测试学习Go：Select](https://mp.weixin.qq.com/s/P900NSqJz6NCVJdpmMGRVg)
+- [值得收藏调度器系列：开天辟地—Go scheduler初始化（二）](https://mp.weixin.qq.com/s/_zLdRUndgXhguFOe-ssjYQ)
+
+编辑：张云峰
 ## gocn_news_2019-11-06
 - 1.使用构建标签分离你的测试文件https://mickey.dev/posts/go-build-tags-testing/
 - 2.使用Go添加Nginx代理https://juejin.im/post/5dc0c3905188255faf60b3c5
@@ -117,6 +460,41 @@
 - 5.让数据库运行在浏览器里？TiDB+WebAssembly告诉你答案https://mp.weixin.qq.com/s/EhKw2mEMZ69sU4Zn4_JhZw【活动】北京meetuphttps://www.bagevent.com/event/6150831【活动】杭州meetuphttps://www.bagevent.com/event/6129212
 
 
+
+## go语言中文网(每日资讯)_2019-11-05
+### 一、 [TonyBai](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIyNzM0MDk0Mg==&scene=124#wechat_redirect)
+
+1. [Go语言的遗产](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIyNzM0MDk0Mg==&scene=124#wechat_redirect) [可参考[Go语言起源](https://www.yuque.com/wereading/set/preface)]
+
+### 二、[Golang来啦](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI2MDA1MTcxMg==&scene=123#wechat_redirect)
+
+1. [Go 面试每天一篇（第 64 天）](https://mp.weixin.qq.com/s/1Dj-R5Sa50iQks2wrGE9Qw)
+
+### 三、 [光谷码农](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg2NzAwMTYzOQ==&scene=124#wechat_redirect)
+
+1. [狗头语(Go Template Language)](https://mp.weixin.qq.com/s/zpSCAJvigP_WXjWTogPzBA)
+
+### 四、 [我的小碗汤](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5MzU5NDYwNA==&scene=124#wechat_redirect)
+
+1. [干货 | 这20个堪称神器的网站，个个都能解你的燃眉之急](https://mp.weixin.qq.com/s/CoJbWbyQW79iGxedhZFXGg)
+
+### 五、 [Go语言中文网](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAxMTA4Njc0OQ==&scene=124#wechat_redirect)
+
+1. [排序运行时间能否做到 O(n)？让Go语言来告诉你](https://mp.weixin.qq.com/s/dHp-OJ0v9yNTazdYSsEKGw)
+
+2. [Go 面试每天一篇（第 46 天）](https://mp.weixin.qq.com/s/GYcr1PkVXwJUC4A7_pzd1Q)
+
+3. [从词法分析角度聊 Go 代码组成](https://mp.weixin.qq.com/s/ZowV20mlC3CE_wrfjDeAdg)
+
+4. [职业初期应该选择什么样的工作](https://mp.weixin.qq.com/s/7lk4bW3xXiJaqr0SSR2Umg)
+
+5. [已拿头条和阿里 offer，特别感谢这几个公众号的资料](https://mp.weixin.qq.com/s/0Jfm3m0RJ9Wv9u_evA5gcw)
+
+### 归档：
+
+1. [语雀](https://www.yuque.com/wegoer/set/article-20191104)
+
+2. [Go语言中文网](https://studygolang.com/topics/10370)
 ## gocn_news_2019-11-05
 - 1.Protobuf终极教程https://colobu.com/2019/10/03/protobuf-ultimate-tutorial-in-go/
 - 2.何处安放我们的Go代码https://liujiacai.net/blog/2019/10/24/go-modules/
@@ -125,6 +503,43 @@
 - 5.UNIX50年：KENTHOMPSON的密码https://coolshell.cn/articles/19996.html-
 
 
+
+## go语言中文网(每日资讯)_2019-11-04
+### 一、[码途漫漫](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI0MzE2NTY2MA==&scene=124#wechat_redirect)
+
+1.[从词法分析角度聊 Go 代码组成](https://mp.weixin.qq.com/s/s19mV1RxlbfpnT5HP063-Q)
+
+### 二、[MoeLove]()
+
+1.[K8S 生态周报| Helm v2 爆出全版本漏洞](https://mp.weixin.qq.com/s/vBRcOLd4eUPD7KI9acrxcA)
+
+### 三、[Golang来啦](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI2MDA1MTcxMg==&scene=123#wechat_redirect)
+
+1.[Go 面试每天一篇（第 63 天）](https://mp.weixin.qq.com/s/d-GVayYB1bxZxef_of6cVw)
+
+### 四、[容器时代](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI0NjI4MDg5MQ==&scene=124&uin=&key=&devicetype=Windows+10&version=6206014b&lang=zh_CN&a8scene=7&winzoom=1)
+
+1.[从零开始入门 K8s | Kubernetes 网络概念及策略控制](https://mp.weixin.qq.com/s/Z_atGNcfSOQatWB6rdw8sQ)
+
+### 五、 [我的小碗汤](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5MzU5NDYwNA==&scene=124#wechat_redirect)
+
+1.[四大网络抓包神器，你用过哪款？](https://mp.weixin.qq.com/s/lPbJZepudavuVk3ItzAdFg)
+
+### 六、[Go语言中文网](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAxMTA4Njc0OQ==&scene=124#wechat_redirect)
+
+1.[漫画：Go 语言的并发](https://mp.weixin.qq.com/s/9xwFapohMkutVRczSmrNfQ)
+
+2.[Go 面试每天一篇（第 45 天）](https://mp.weixin.qq.com/s/YwH3Ahtt97Ge-5z_gxovkg)
+
+3.[如果 map 不是引用变量，那是什么？](https://mp.weixin.qq.com/s/4Qq1X5IuRak6Rv2luV4nqQ)
+
+4.[通过测试学习Go：并发](https://mp.weixin.qq.com/s/jvilH3y0E0LfbL8RfXmStg)
+
+5.[做对这三道题，表明你基本已经如火纯青般地掌握了for-range的用法](https://mp.weixin.qq.com/s/zEibw47pNvuJ1kQyejIh5w)
+
+### 归档：
+1.[语雀](https://www.yuque.com/wegoer/set/article-20191104)
+2.[Go语言中文网](https://studygolang.com/topics/10365)
 ## gocn_news_2019-11-04
 - 1. Go中垃圾收集器是如何标记内存的 https://medium.com/a-journey-with-go/go-how-does-the-garbage-collector-mark-the-memory-72cfc12c6976
 - 2. 自动删除未使用的中间层 docker 镜像 https://medium.com/@cikupin/removing-unused-intermediate-docker-images-automatically-25e453c514ea
