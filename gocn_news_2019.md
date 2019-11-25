@@ -1,4 +1,118 @@
 # gocn_news_set_2019
+
+## go语言中文网(每日资讯)_2019-11-24
+### 一、Gin官方
+
+1.[gin-github ](https://github.com/gin-gonic/gin)
+
+2.[gin-o](https://github.com/gin-gonic)[rganization](https://github.com/gin-gonic) 
+
+3.[gin中间件organization](https://github.com/gin-contrib)
+
+
+
+### 二、Gin系列教程
+
+1.[跟煎鱼学Go之Gin系列](https://eddycjy.gitbook.io/golang/di-3-ke-gin)
+
+2.[Haoxiang's Tech Blog [Gin教程\]](https://marcoma.xyz/tags/gin/)
+
+3.[xinliangnote之Gin系列](https://github.com/xinliangnote/Go)
+
+
+
+### 三、Gin源码分析
+
+1.[轩脉刃de刀光剑影](https://www.cnblogs.com/yjf512/)[Gin框架源码解析](https://www.cnblogs.com/yjf512/p/9670990.html)
+
+2.[hhstore/blog的gin 源码剖析](https://www.yuque.com/wegoer/set/hhstore/blog的gin 源码剖析)
+
+2.[源码解析之:gin](https://www.kancloud.cn/liuqing_will/the_source_code_analysis_of_gin/616920)
+
+3.[httprouter框架 (Gin使用的路由框架)](http://www.okyes.me/2016/05/08/httprouter.html)
+
+
+## gocn_news_2019-11-24
+- 1. DigitalOcean的How to code in go系列 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go
+- 2. uber-go漏桶限流器使用与原理分析 https://www.cyhone.com/articles/analysis-of-uber-go-ratelimit/
+- 3. WebSocket实现Web端即时通信 https://mp.weixin.qq.com/s/sbIWO7-2ELdHsekw7qxKjw
+- 4. nebula: 一个可扩展的overlay网络工具 https://github.com/slackhq/nebula
+- 5. 微博：大规模离线视频处理系统的架构设计 https://mp.weixin.qq.com/s/siqG3ePZ5jDsuYeC-_hAGg
+
+
+## go语言中文网(每日资讯)_2019-11-23
+### 一、Go语言中文网
+
+1.[一起攻克面试难关：Go 面试每天一篇（第 64 天）](https://mp.weixin.qq.com/s/PJaT6p_fyBPe_YbkNei6Lg)
+
+2.[为什么golang没有volatile？](https://mp.weixin.qq.com/s/FUI-Eoc6V2e5RhDSFxy6Dw)
+
+3.[Gin 框架系列 - 使用 go modules 包管理工具](https://mp.weixin.qq.com/s/8NGwJ4YUmFBQwjg3NOOQlQ)
+
+4.[函数传参slice传递方式：我对变量产生了这些想法](https://mp.weixin.qq.com/s/dADRPS8_uWbVA-6YJIoFRA)
+
+5.[详解 Kubernetes Service 的实现原理](https://mp.weixin.qq.com/s/GtAeIEkUHDn8kLfGbK06JQ)
+
+### 二、Golang来啦
+
+1.[Go 面试每天一篇（第 82 天）](https://mp.weixin.qq.com/s/b3UJw5X34GaZDnWQTdqKqQ)
+
+### 三、码途漫漫
+
+1.[Go 命令行解析 flag 包之快速上手](https://mp.weixin.qq.com/s/rzgYifoMzWOO_PD0-2UIpw)
+
+2.[Go官方发布的go.dev给gopher们带来了什么](https://mp.weixin.qq.com/s/eGUdL6Cko1de9Boy6csr4A)Go相关公众号文章每日推荐 【2019-11-21】
+## gocn_news_2019-11-23
+- 1. 70行Go代码打败C https://ajeetdsouza.github.io/blog/posts/beating-c-with-70-lines-of-go/
+- 2. Go中Goroutine、OS Thread和CPU管理 https://medium.com/a-journey-with-go/go-goroutine-os-thread-and-cpu-management-2f5a5eaf518a
+- 3. Go后台定时任务执行 https://medium.com/@mkfeuhrer/running-periodic-background-tasks-in-golang-8baa1af9a1f6
+- 4. 撮合引擎开发:对接黑箱 https://keeganlee.me/post/matching/20191121/
+- 5. 2019 Go Developer官方调查 https://blog.golang.org/survey2019
+
+
+## go语言中文网(每日资讯)_2019-11-22
+### 一、学院君的后花园
+
+1.[Go 语言网络编程系列（九）—— JSON 处理篇：JSON 编解码基本使用入门](https://mp.weixin.qq.com/s/tQyaAPcWtJYz1k9HyFPhHA)  
+
+### 二、Go语言中文网
+
+1.[一起攻克面试难关：Go 面试每天一篇（第 63 天）](https://mp.weixin.qq.com/s/qFMp7F4dQ-U_SMCvUA0dXA)
+
+2.[天冷了，Go语言中文网温馨提示：一定要常喝热水](https://mp.weixin.qq.com/s/0nYFqRCxfMnqDSaeiUXtWg)
+
+3.[golang 避坑指南(1)interface 之坑多多 | 文末深圳 Meetup](https://mp.weixin.qq.com/s/bWsg-ZDBTp3Fp_3Lik83oA)
+
+4.[一个程序员对架构的认识](https://mp.weixin.qq.com/s/UbUV1HFpJqoYCgUj0oxhiw)
+
+5.[值得收藏调度器系列：锲而不舍 — M 是怎样找工作的？（八）](https://mp.weixin.qq.com/s/zIclqsNHz4xQmrnCvxE2Vw)
+
+### 三、Golang来啦
+
+1.[Go 面试每天一篇（第 81 天）](https://mp.weixin.qq.com/s/2iz65lFmrYaJqViB1SMmiQ)
+
+### 四、我的小碗汤
+
+1.[备战CKA每日一题——第5天](https://mp.weixin.qq.com/s/UcpP4koV1tTRxfM7Vmi0Ug)
+
+### 五、 容器时代
+
+1.[Kubernetes中的gRPC服务健康检查](https://mp.weixin.qq.com/s/VDDFCkk7jWFH4zBXWNjEbQ)
+
+### 六、学而思网校技术团队
+
+1.[【Golang源码系列】一：Map实现原理分析](https://mp.weixin.qq.com/s/c_7omM1SocMlPnm8heyj4Q)
+## gocn_news_2019-11-22
+- 1. Go语言内存管理与分配[译]  https://pengrl.com/p/38720/
+
+- 2. Go开源项目BigCache如何加速并发访问以及避免高额的GC开销 [译] https://pengrl.com/p/35302/
+
+- 3. 详解Kubernetes Pod的实现原理 https://mp.weixin.qq.com/s/tQfLRxTVuftgS_yHPm6flw
+
+- 4. 要优雅退出吗？dubbogo给你 https://www.jianshu.com/p/7d83153b9ee5
+
+- 5. k3s正式GA！Rancher打造从云端到边缘的“K8S即服务” https://mp.weixin.qq.com/s/uB9fKOQ_Cu67LQsBqpGfBA
+
 ## go语言中文网(每日资讯)_2019-11-21
 ### 一、Go语言中文网
 
@@ -2412,3 +2526,767 @@
 - 1. 理解Go sync.Pool设计 https://medium.com/@blanchon.vincent/go-understand-the-design-of-sync-pool-2dde3024e277
 
 - 2. Go语言之美 https://telescope.ac/battlefield/the-beauty-of-go-
+射https://medium.com/better-programming/understand-reflect-in-go-24a68fcf1011
+- 4.给Go程序加入编译版本时间等信息https://pengrl.com/p/37397/
+- 5.BigCache如何避免GC周期并加速Go中的并发访问https://dev.to/douglasmakey/how-bigcache-avoids-expensive-gc-cycles-and-speeds-up-concurrent-access-in-go-12bb
+
+
+## gocn_news_2019-10-30
+- 1.AstaXie:玩转Go语言，从beego开始https://mp.weixin.qq.com/s/Iof1hA1JUJg9S_gfI6kGQQ
+- 2.[译]UberGo语言代码风格指南http://fivezh.github.io/2019/10/17/uber-go-style-guide
+- 3.何处安放我们的Go代码https://liujiacai.net/blog/2019/10/24/go-modules
+- 4.[译]Go使用封装返回模式回收被goroutines占用的内存https://juejin.im/post/5db7c1a4e51d452a1340f36f
+- 5.Sqreen:Go语言应用程序安全管理组件https://github.com/sqreen/go-agent
+
+
+## gocn_news_2019-10-29
+- 1.Go的发展传奇https://spf1
+- 3.com/presentation/the-legacy-of-go/
+- 2.Go操作Linux网络层https://tomdnetto.net/post/linux_networking_from_go_nftables3.GolangAST语法树使用教程及示例https://juejin.im/post/5db7195df265da4d104b7fb7
+- 4.使用Makefile管理Go项目https://segmentfault.com/a/1190000020842140
+- 5.Go是新的Rubyhttps://00f.net/2019/10/28/go-is-the-new-ruby/
+
+
+## gocn_news_2019-10-28
+- 1.理解和攻击GoDSA验证漏洞https://paul.querna.org/articles/2019/10/24/dsa-verify-poc/
+- 2.Go中进行Fuzz测试https://medium.com/a-journey-with-go/go-fuzz-testing-in-go-deb36abc971f
+- 3.用Go克隆Memcachedhttps://healeycodes.com/go/tutorial/beginners/showdev/2019/10/21/cloning-memcached-with-go.html
+- 4.Go实现的scrapyd替代品https://github.com/alash3al/scrapyd-go
+- 5.TamaGo：为ARMSoC提供的Gohttps://github.com/inversepath/tamago
+
+
+## gocn_news_2019-10-27
+- 1.Golab(意大利GopherCon)2019见闻http://fedepaol.github.io/blog/2019/10/23/golab-2019/
+- 2.pkg/errors迁移到go1.13error处理https://mycodesmells.com/post/migrating-pkg-errors-to-go-113-errors
+- 3.Golang慎用Update函数https://www.jianshu.com/p/1380b004e789
+- 4.effective-go之map、fmt、appendhttps://jingwei.link/2019/10/26/effectivego-map-fmt-append.html
+- 5.gin-api路由中间件-签名验证https://www.cnblogs.com/xinliangcoder/p/11743815.html-
+
+
+## gocn_news_2019-10-26
+- 1.GateKeeper：滴滴开源的使用Go编写的不依赖分布式数据库的API网关https://mp.weixin.qq.com/s/gpQSPJ-uRpI-k1j97K1waw
+- 2.Gopanic处理https://www.digitalocean.com/community/tutorials/handling-panics-in-go
+- 3.Go实现TCP扫描器https://developer20.com/tcp-scanner-in-go/
+- 4.两分钟让你明白Go中如何继承https://segmentfault.com/a/1190000020800285
+- 5.花椒服务端Kubernetes技术实践https://mp.weixin.qq.com/s/zviiMElp54HyxI8GsKfBjg
+
+
+## gocn_news_2019-10-25
+- 1. [译]Golang应付百万级请求/分钟 https://juejin.im/post/5db1464b6fb9a0202a261ca9
+- 2. [译][Part1]使用Go gRPC微服务构建HTTP/REST服务，中间件，Kubernetes部署等等 https://juejin.im/post/5daffe9ae51d4524c118083b
+- 3. Go gRPC 客户端服务保障如何做？负载均衡、重试、健康检查 http://yangxikun.com/golang/2019/10/19/golang-grpc-client-side-lb.html
+- 4. 微服务如何保证不会出现连锁反应？Go实现的断路器了解下 https://mp.weixin.qq.com/s/Q1a0TVpjG4EyNzi0EKJn0A
+- 5. 一文让你了解Kubernetes架构 https://mp.weixin.qq.com/s/hgN1xmwb0yOWep71CHdBtQ第二季go hack黑客马拉松来啦！ http://gohack2019.sxl.cn/
+
+
+## gocn_news_2019-10-24
+- 1.学习Golang之服务器框架编写–CS网络通信http://1t.click/aJag
+- 2.如何实现GoModule依赖关系的可视化https://juejin.im/post/5dafe742e51d45249465cd9a
+- 3.GogRPC系列七：让服务同时提供HTTP接口https://juejin.im/post/5dafedd8f265da5b86014357
+- 4.如何写出优雅的Golang代码https://juejin.im/entry/5db018c3f265da4d4a30569e
+- 5.[译]用Golang编写一个简易聊天室https://juejin.im/post/5dafb4435188256290692f05第二季gohack黑客马拉松来啦！http://gohack2019.sxl.cn/
+
+
+## gocn_news_2019-10-23
+- 1.从0开始，用Go实现Lexer和Parserhttps://mp.weixin.qq.com/s/cFGJX2IeGZOifqaLh5YYYA
+- 2.在grpc中使用pprofhttps://medium.com/@gurasis/profiling-a-golang-grpc-server-using-pprof-b6de1371fdd
+- 3.Go依赖关系https://medium.com/@2hamed/dependency-isolation-in-go-afab00b5e4c9
+- 4.Go使用信号来处理Unix命令https://medium.com/better-programming/using-signals-to-handle-unix-commands-in-golang-f09e9efb7769
+- 5.Go使用httpshttps://juejin.im/post/5daeb504f265da5b7e2406a4第二季gohack黑客马拉松来啦！http://gohack2019.sxl.cn/
+
+
+## gocn_news_2019-10-22
+- 1. Go 集成测试：https://www.ardanlabs.com/blog/2019/10/integration-testing-in-go-set-up-and-writing-tests.html
+- 2. Go 错误处理：https://blog.logrocket.com/error-handling-in-golang/
+- 3. 使用'internal'包减少 API 的暴露范围：https://dave.cheney.net/2019/10/06/use-internal-packages-to-reduce-your-public-api-surface
+- 4. HTTP的前世今生: https://coolshell.cn/articles/19840.html
+- 5. Ubuntu 18.04 Server上部署Kubernetes集群: https://tonybai.com/2019/10/21/how-to-deploy-a-kubernetes-cluster-with-ubuntu-server-18-04/
+
+## gocn_news_2019-10-21
+- 1. 使用 Golang, RabbitMQ和 Protobuf 构建高效的微服务 https://medium.com/rahasak/reactive-microservices-with-golang-rabbitmq-and-protobuf-af025f4ec27
+- 2. Golang 中的比较函数对比 — 最好自己实现  https://medium.com/@ktrilaksono/comparing-simple-comparison-functions-in-golang-it-is-better-to-implement-it-yourself-73a3a31b9bc
+- 3. go modules 的一些细节https://juejin.im/post/5dac45ae6fb9a04e1043a837
+- 4. 给 Go 库作者的建议 https://juejin.im/post/5dac18895188256ab73dd4a9
+- 5. 用 Go 编写的 git 简易托管方案 https://github.com/belak/go-git-dir* 第二季go hack黑客马拉松来啦！ http://gohack2019.sxl.cn/
+
+
+## gocn_news_2019-10-20
+- 1. slakc是如何构建共享频道的 https://slack.engineering/how-slack-built-shared-channels-8d42c895b19f
+
+- 2. 关于缓存的一切 https://www.youtube.com/watch?v=pjV0Nfcle9A
+
+- 3. Netflix如何处理数据集的发布订阅 https://medium.com/netflix-techblog/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a
+
+- 4. csv比较工具csvdiff https://github.com/aswinkarthik/csvdiff
+
+- 5. 如何构建自定义的k8s ingress控制器 http://www.doxsey.net/blog/how-to-build-a-custom-kubernetes-ingress-controller-in-go
+## gocn_news_2019-10-19
+- 1. Go 1.13中的错误处理 https://tonybai.com/2019/10/18/errors-handling-in-go-1-13
+- 2. golang核心原理-协程栈 https://juejin.im/post/5da7385ae51d45782a478d2d
+- 3. 使用 Go 处理中间件 https://segmentfault.com/a/1190000020729659
+- 4. Gocache:一个强大可扩展的Go缓存库 https://github.com/eko/gocache
+- 5. Vearch:用于深度学习向量的高效相似性搜索的分布式系统 https://github.com/vearch/vearch
+## gocn_news_2019-10-18
+- 1. 在Go1.13使用Errors https://blog.golang.org/go1.13-errors  
+- 2. Go的扁平化应用结构 https://www.calhoun.io/flat-application-structure/   
+- 3. Go新特性抢先看:动态unsafe pointer检查 https://groups.google.com/forum/#!topic/golang-dev/SzwDoqoRVJA/discussion  
+- 4. 使用Go编写nushell的插件 https://vsoch.github.io//2019/nushell-plugin-golang/  
+- 5. onnx-go:ONNX库链接包 https://github.com/owulveryck/onnx-go 
+## gocn_news_2019-10-17
+- 1. 通过go module管理go tool https://marcofranssen.nl/manage-go-tools-via-go-modules/
+- 2. 使用go的并发性进行图形计算 https://blog.owulveryck.info/2019/10/14/think-like-a-vertex-using-gos-concurrency-for-graph-computation.html
+- 3. 使用HTTP2 Server Push创建快速且惯用的客户端驱动的REST API https://github.com/dunglas/vulcain
+- 4. 用Go实现狄克斯特拉算法 https://deployeveryday.com/2019/10/16/dijkstra-algorithm-golang.html
+- 5. go中使用嵌入式结构的装饰器 https://fabianlindfors.se/blog/decorators-in-go-using-embedded-structs/
+
+- - - - - - - - - - - - - - 
+
+## gocn_news_2019-10-16
+- 1. GoCN每日新闻(2019-10-16)
+
+- 2. 1. 持续的性能分析与优化 https://medium.com/@tvii/continuous-profiling-and-go-6c0ab4d2504b
+
+- 3. 2. 理解Go 中的 defer https://www.digitalocean.com/community/tutorials/understanding-defer-in-go
+
+- 4. 3. Go 语言反射的实现原理 https://draveness.me/golang/basic/golang-reflect.html
+
+- 5. 4. 如何构建一个云原生框架 https://medium.com/@yannick.b/how-should-be-built-the-ideal-cloud-native-framework-part-2-2fcfa38c9de7
+
+- 6. 5. pigo - 人脸识别库 https://www.reddit.com/r/golang/comments/di3n1k/the_pigo_face_detection_library_now_is_capable/
+
+- - - - - - - 
+
+## gocn_news_2019-10-15
+- 1. GoCN每日新闻(2019-10-15)
+
+- 2. 1. Go Module 存在的意义与解决的问题 https://www.ardanlabs.com/blog/2019/10/modules-01-why-and-what.html
+
+- 3. 2. 理解 Go 指针 https://www.digitalocean.com/community/conceptual_articles/understanding-pointers-in-go
+
+- 4. 3. Dave Cheney 的 Go 实践总结图示 https://skarlso.github.io/2019/10/10/practical-go-summary/
+
+- 5. 4. Go有GC就不需要掌握内存堆栈知识了吗？Go 堆栈的理解 https://mp.weixin.qq.com/s/SGbiWLW6pLfd32TKIil10A
+
+- 6. 5. 高性能 Go 网络库 gnet 发布 v1 版 https://segmentfault.com/a/1190000020689928
+
+- - - - - - 
+
+## gocn_news_2019-10-14
+- 1. 1. 基于 Go 开源项目 MIMIO 的对象存储方案在探探的实践 https://mp.weixin.qq.com/s/YIKB_qAqqy6ydtFT_a_Ieg
+
+- 2. 2. [译]Uber Go 语言代码风格指南 https://mp.weixin.qq.com/s/cu6IZl_BhWokJxMXYmSytg
+
+- 3. 3. 实现Go语言解释器 http://notes.eatonphil.com/interpreting-go.html
+
+- 4. 4. dt：Go缺失的日期时间包 https://medium.com/@ribice/dt-gos-missing-datetime-package-b9c5041398d0
+
+- 5. 5. 学术论文： 大规模Go语言单元测试 https://www.academia.edu/40301628/Large_Scale_Unit_Testing_for_Go_Programming_Language_Packages
+
+- 6. * 活动推荐：GoHack 2019 火热招募中！ http://gohack2019.sxl.cn/
+
+
+- - - - - 
+
+## gocn_news_2019-10-13
+- 1. 1. 通过测试学习Go语言 https://mp.weixin.qq.com/s/MGT_yoP_NdWVGpwlAJFK4A
+- 2. go panic recover源码解析 https://segmentfault.com/a/1190000020667326
+- 3. go map底层实现 http://yangxikun.com/2019/10/07/golang-map.html
+- 4. 基于Apache Flink和规则引擎的实时风控解决方案 https://mp.weixin.qq.com/s/RnUnMtlm4M6nPvjvmo8HWw
+- 5. Kafka重平衡机制 https://mp.weixin.qq.com/s/4DFup_NziFJ1xdc4bZnVcg
+
+- - - - - - - - - - - - - - 
+
+## gocn_news_2019-10-12
+- 1. 1. Go 1.13中sync.Pool是如何优化的 https://colobu.com/2019/10/08/how-is-sync-Pool-improved-in-Go-1-13/
+- 2. Uber Go编程规范 https://github.com/uber-go/guide/blob/master/style.md
+- 3. Go高级编程：指针和内存分配详解 https://mp.weixin.qq.com/s/46T6hO9Ht4fN5jD8kXuCSQ
+- 4. 如何用GVM管理Go项目 https://juejin.im/post/5da0900d5188254c4e6a94b7
+- 5. etcd性能测试与调优 https://mp.weixin.qq.com/s/tEaRGXGCeCJxwU_SU7ZBOQ
+
+- - - - - - - - - - - - - - 
+
+## gocn_news_2019-10-11
+- 1. golang 将数据库转换为gorm结构 https://studygolang.com/articles/23878
+- 2. 关于Go的10个你可能不知道的事情 https://talks.golang.org/2012/10things.slide#1
+- 3. Go gRPC 系列五：基于 CA 的 TLS 证书校验 https://juejin.im/post/5d9ffc24f265da5b8a516112
+- 4. Go和Android集成实战 http://www.songjiayang.com/posts/go-he-andji-shi-li
+- 5. 超大规模商用 K8s 场景下，阿里巴巴如何动态解决容器资源的按需分配问题？
+- - - - - - - - - - - - - - - 
+
+## gocn_news_2019-10-10
+- 1. GoCN每日新闻(2019-10-10)
+
+- 2. 1. Go语言源码阅读之bytes.Buffer http://www.pengrl.com/p/60618/
+
+- 3. 2. Go gRPC 系列一：相关介绍 https://juejin.im/post/5d99af86f265da5b555f59dc
+
+- 4. 3. 干货满满的 Go Modules 和 goproxy.cn https://juejin.im/post/5d8ee2db6fb9a04e0b0d9c8b
+
+- 5. 4. 原来这才是 Golang Interface https://juejin.im/post/5d8877f1f265da03986c311c
+
+- 6. 5. 云原生可观察性之日志管理 https://mp.weixin.qq.com/s/E7bFp58OL6gjvBxLTKpbJQ
+
+- 7. 编辑: 崔广章
+
+- 8. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - 
+
+## gocn_news_2019-10-09
+- 1. 我们如何将服务延迟减少了98% https://blog.gojekengineering.com/the-need-for-speed-how-we-reduced-service-latency-by-98-5c45d1acdc81
+- 2. Go RPC实践 https://mp.weixin.qq.com/s/ScsB0VH8tvlaNK_d6a6AMQ
+- 3. Go中使用Seed得到重复随机数的问题 https://juejin.im/post/5d9c7c736fb9a04df57de074
+- 4. 高效生成JSON串 https://juejin.im/post/5d9c96ff518825095c3c5f79
+- 5. Istio熔断器解析 https://mp.weixin.qq.com/s/95DVrg6oeaGFZi64r7LSLQ
+
+- - - - - - - - - - - - - - 
+
+## gocn_news_2019-10-08
+- 1. Go 构建高性能数据库中间件: https://mp.weixin.qq.com/s/gzjFt9zi4trMzFi92WqF-A
+- 2. Go 编写的代码计数器： https://github.com/boyter/scc/ 
+- 3. Go 闭包理解：https://mp.weixin.qq.com/s/GJnvPgW7IONK9LVw-i34hQ
+- 4. AWS Lambda 使用简介：https://www.rosie.dev/post/hello-lambda/
+- 5. 单例设计模式：https://segmentfault.com/a/1190000020608216
+
+- - - - - - - - - - - - - - 
+
+## gocn_news_2019-10-07
+- 1. Go 不好的点：JSON 解析的探究 https://medium.com/@philpearl/bad-go-adventures-with-json-marshalling-1f7a73b80a59
+- 2. Hyperledger Fabric v1.4 中的私有和公有数据 https://medium.com/@taseen.junaid/private-public-data-at-hyperledger-fabric-v1-4-ff9f303f4bc1
+- 3. 以太坊 golang-event 简单使用 https://www.jianshu.com/p/ab5451b9f4e6
+- 4. 使用 Go 读写请求 https://juejin.im/post/5d99d606518825582078374d
+- 5. 多个 pprof 文件合并到一个文件的小工具 https://github.com/rakyll/pprof-merge
+
+- - - - - - - - - - - - - - - 
+
+## gocn_news_2019-10-06
+- 1. 国庆专辑：GopherChina祝大家国庆节快乐
+
+- 2. GoCN每日新闻(2019-10-06)
+
+- 3. 1. Go 1.14 有什么新变化 http://docs.google.com/presentation/d/1HfIwlVTmVWQk94OLKfTGvXpQxyp0U4ywG1u5j2tjiuE
+
+- 4. 2. 优雅地关闭 goroutine  https://callistaenterprise.se/blogg/teknik/2019/10/05/go-worker-cancellation/
+
+- 5. 3. 实现并发版本的 Each,Map,Select 方法 https://www.beenverified.com/engineering/writing-concurrent-methods-in-go/
+
+- 6. 4. 使用 Go 和 Kafka 实现有状态的流处理 https://mux.com/blog/stateful-stream-processing-with-kafka-and-go/
+
+- 7. 5. 提供无逃逸 Read 和 Write 的库 noescape https://github.com/lukechampine/noescape
+
+- - - - - - 
+
+## gocn_news_2019-10-05
+- 1. 国庆专辑：GopherChina祝大家国庆节快乐GoCN每日新闻(2019-10-05)
+- 1. Gophercon UK 2019 https://www.bilibili.com/video/av70127356
+- 2. Golang 接口与反射知识要点 https://www.cnblogs.com/guangze/p/11621277.html
+- 3. Gophers的安全性 https://changelog.com/gotime/101
+- 4. 龙芯 & Golang https://mzh.io/loongson-go
+- 5. 通过实例快速掌握k8s（Kubernetes）核心概念 https://segmentfault.com/a/1190000020595811
+
+- - - - - - - - - - - - - - 
+
+## gocn_news_2019-10-04
+- 1. 国庆专辑：GopherChina祝大家国庆节快乐
+
+- 2. GoCN每日新闻(2019-10-04)
+
+- 3. 1. Go提议流程:代表 https://research.swtch.com/proposals-representation  
+
+- 4. 2. 使用内存池解决性能热点问题 https://dzone.com/articles/memory-pooling-in-go-where-why-and-how  
+
+- 5. 3. 解决Google Cloud Run单任务运行时间限制的一种方法 https://blog.doit-intl.com/hacking-google-cloud-run-to-run-long-background-tasks-6eb410259a81  
+
+- 6. 4. ent:一个基于schema的ORM框架 https://github.com/facebookincubator/ent  
+
+- 7. 5. BigSlice: 一个Go语言编写的集群化数据计算系统 https://github.com/grailbio/bigslice  
+
+- 8. 编辑: Razil  
+
+- 9. 订阅新闻: http://tinyletter.com/gocn  
+
+- - - - - - 
+
+## gocn_news_2019-10-03
+- 1. 国庆专辑：GopherChina祝大家国庆节快乐
+
+- 2. GoCN每日新闻(2019-10-03)
+
+- 3. 1. 垃圾回收器如何监控你的应用程序 https://medium.com/a-journey-with-go/go-how-does-the-garbage-collector-watch-your-application-dbef99be2c35
+
+- 4. 2. go ctx超时导致资源释放失败 https://segmentfault.com/a/1190000020549820
+
+- 5. 3. Go channel 实现原理分析 https://www.jianshu.com/p/d841f251d3bc
+
+- 6. 4. 通过内存逃逸分析讨论GC的压力 https://www.jianshu.com/p/10e83dc6cd64
+
+- 7. 5. 关于 Liveness/Readiness Probe 的实践与思考 https://srcco.de/posts/kubernetes-liveness-probes-are-dangerous.html
+
+
+- - - - - 
+
+## gocn_news_2019-10-02
+- 1. GoCN每日新闻(2019-10-02)1. Golang中基于Gin和Casbin的web使用方式 https://dev.to/maxwellhertz/tutorial-integrate-gin-with-cabsin-56m0
+- 2. Go语言中的TCP/IP网络编程 https://segmentfault.com/a/1190000014733620
+- 3. Go实现的PDF生成器 https://github.com/jung-kurt/gofpdf
+- 4. Go编写的高性能，轻量级，无阻塞和事件循环网络库  https://github.com/panjf2000/gnet
+- 5. 学习使用Minikube部署Kubernetes https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd
+- - - - - - - - - - - - - - 
+
+## gocn_news_2019-10-01
+- 1. GoCN每日新闻(2019-10-01)
+
+- 2. 1. 我依然爱着 GOPATH https://divan.dev/posts/gopath/
+
+- 3. 2. Go 代码注释的用法 https://blog.jbowen.dev/2019/09/the-magic-of-go-comments/
+
+- 4. 3. Go 学习导航 https://www.calhoun.io/guide-to-go/
+
+- 5. 4. Go 的 BT 客户端 https://github.com/cenkalti/rain
+
+- 6. 5. Go对接ElasticSearch的单元测试 https://mp.weixin.qq.com/s/ze7Ws567SgaFQ7OVDyyWEg
+
+
+- - - - - - 
+
+## gocn_news_2019-09-30
+- 1. 1. 使用Sqlmock测试数据库 https://medium.com/ralali-engineering/testing-database-using-sqlmock-for-big-agent-b1d4fc486802
+
+- 2. 2. Golang逃逸分析：重现GC压力 https://medium.com/@sakthishanmugam02/golang-escape-analysis-reduce-pressure-on-gc-6bde1891d625
+
+- 3. 3. 如何处理返回错误 https://www.efekarakus.com/golang/2019/09/26/when-to-wrap-errors.html
+
+- 4. 4. Go中实现顺序并发的归并排序 https://medium.com/@giopap/sequential-and-parallel-merge-sort-in-go-74881e92a609
+
+- 5. 5. 如何编写Event feed库 https://rauljordan.com/2019/09/23/how-to-write-an-event-feed-library.html
+
+- 6. * 据说混迹在广深的 Go 开发团队，水都很深（文末专属福利）https://mp.weixin.qq.com/s/64aQgrkJfuyupJAclkTLOQ
+
+- 7. 编辑: 李俱顺Kevin
+
+- 8. 订阅新闻: http://tinyletter.com/gocn
+
+- 9. GoCN归档：https://gocn.vip/question/6053
+
+- - - - - - 
+
+## gocn_news_2019-09-29
+- 1. 1. 干货满满的Go Modules和goproxy.cn https://juejin.im/post/5d8ee2db6fb9a04e0b0d9c8b
+
+- 2. 2. gnet: 一个轻量级且高性能的 Golang 网络库  https://taohuawu.club/go-event-loop-networking-library-gnet
+
+- 3. 3. go-gin-api 路由中间件 - Jaeger 链路追踪 https://www.cnblogs.com/xinliangcoder/p/11604880.html
+
+- 4. 4. golang-middleware设计模式 https://yuerblog.cc/2019/09/29/golang-middleware%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/
+
+- 5. 5. YouTube召回模型设计 http://www.broadview.com.cn/article/419572
+
+
+
+- - - - - 
+
+## gocn_news_2019-09-28
+- 1. 1. 可视化Go程序的调用图 https://truefurby.github.io/go-callvis/
+- 2. Go modules编写和发布官方教程 https://blog.golang.org/publishing-go-modules
+- 3. 使用Go代替bash编写脚本 https://presstige.io/p/Using-Go-instead-of-bash-for-scripts-6b51885c1f6940aeb40476000d0eb0fc
+- 4. 理解Golang中slice的底层设计 https://segmentfault.com/a/1190000020518237
+- 5. Go学习笔记之学习函数式编程前不要忘了函数基础 https://my.oschina.net/snowdreams1006/blog/3106370
+
+- - - - - - - - - - - - - - 
+
+## gocn_news_2019-09-27
+- - - - - - - - - - - - - - - 
+- 1. Golang新版本发布:Go 1.13.1和Go 1.12.10 https://golang.org/dl/
+- 2. 如何在Golang中使用Websockets：最佳工具和步骤指南 https://yalantis.com/blog/how-to-build-websockets-in-go/
+- 3. 详解varint编码原理 https://segmentfault.com/a/1190000020500985
+- 4. Rabin-Karp算法在go的实现 https://sjatsh.com/golang/2019/09/26/rabin-karp/
+- 5. Go微服务容错与韧性(Service Resilience) https://segmentfault.com/a/1190000020503704
+
+## gocn_news_2019-09-26
+- 1. go-gin-api 路由中间件：Jaeger 链路追踪（六）https://mp.weixin.qq.com/s/Ea28475_UTNaM9RNfgPqJA
+- 2. golang interface 要怎么用？http://www.leyafo.com/post/2019-09-24-how-to-use-golang-interface/
+- 3. Go 程序占用大量内存问题分析 http://team.jiunile.com/blog/2019/09/go-debug-memory.html
+- 4. Go 业务基础库之 Error https://mp.weixin.qq.com/s/PLzA22yfSV_byckTTezl5Q
+- 5. Prometheus架构与实践分享 https://mp.weixin.qq.com/s/beusaP2f3mOMIlEETBhtjg
+- - - - - - - - - - - - - - 
+
+## gocn_news_2019-09-25
+- 1. Go module 再回顾 https://colobu.com/2019/09/23/review-go-module-again/
+- 2. 如何灵活地进行Go版本管理 https://juejin.im/post/5d848b66f265da03a7160e89
+- 3. Go RESTful 服务挂了怎么能第一时间知晓？分享一个超实用的健康检查方法 https://mp.weixin.qq.com/s/tpWAYN18cSW9lRXGumsEbw
+- 4. 原来这才是 Go Interface https://juejin.im/post/5d8877f1f265da03986c311c
+- 5. Go中处理可选参数 https://medium.com/@petomalina/dealing-with-optional-parameters-in-go-9780f9bfbd1d*
+- - - - - - - - - - - - - - 
+
+## gocn_news_2019-09-24
+- 1. Go 搭建的高效网页爬虫：https://creekorful.me/building-fast-modern-web-crawler/ 
+- 2. Go 时区处理：https://medium.com/@kamal.g.namdeo/handling-timezone-in-go-723b1e38639c 
+- 3. Go io.Reader/io.Writer 处理流数据：https://dasio.hashnode.dev/using-of-ioreaderiowriter-in-go-to-stream-data-ck0v22mvg0005xes1gp13f5pg  
+- 4.Docker 安全入门：风险及最佳实践 https://www.stackrox.com/post/2019/09/docker-security-101/ 
+- 5. 使用 Jenkins，Nexus，k8s 构建 CI/CD 流：https://kublr.com/blog/cicd-pipeline-with-jenkins-nexus-kubernetes/* 
+- - - - - - - - - - - - - 
+
+## gocn_news_2019-09-23
+- 1. 查看 Go 的代码优化过程 http://xargin.com/go-compiler-opt
+- 2. go 学习笔记之仅仅需要一个示例就能讲清楚什么闭包 https://segmentfault.com/a/1190000020461487
+- 3. 使用 pprof和go-torch排查golang 的性能问题 https://www.felix021.com/blog/read.php?2210
+- 4. 为什么 Go 模块在下游服务抖动恢复后，CPU 占用无法恢复 http://xargin.com/cpu-idle-cannot-recover-after-peak-load
+- 5. 一个分析算法大O时间复杂度的库 https://github.com/Oppodelldog/bigo
+
+- - - - - - - - - - - - - - - 
+
+## gocn_news_2019-09-22
+- 1. Go 中的测试  https://ieftimov.com/post/testing-in-go-fixtures/
+
+- 2. 纯 Go 编写的高性能网络库 gnet  https://github.com/panjf2000/gnet
+
+- 3. Go 包管理 https://deepsource.io/blog/go-modules/
+
+- 4. 如何使用 Go 中的可变参数函数 https://www.digitalocean.com/community/tutorials/how-to-use-variadic-functions-in-go
+
+- 5. 捕获闭包中的循环变量 https://eli.thegreenplace.net/2019/go-internals-capturing-loop-variables-in-closures/
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-21
+- 1. 为什么是Go而不是Rust https://kristoff.it/blog/why-go-and-not-rust
+
+- 2. Go语言包管理简史 https://tonybai.com/2019/09/21/brief-history-of-go-package-management
+
+- 3. Go Modules 和 Go Proxy https://segmentfault.com/a/1190000020450159
+
+- 4. 如何用Go语言打造一个高性能MySQL Proxy https://segmentfault.com/a/1190000003101056
+
+- 5. Go微服务全链路跟踪详解 https://segmentfault.com/a/1190000020450845
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-20
+- 1. 一文悟透备受争议的 Go 语言错误处理 http://developer.51cto.com/art/201909/603177.htm   
+
+- 2. 把我的Go项目从travis迁移到github actions https://www.markphelps.me/2019/09/migrating-from-travis-to-github-actions/    
+
+- 3. Serverless微服务实践 https://ewanvalentine.io/how-im-writing-serverless-services-in-golang-these-days/    
+
+- 4. Go Vet 命令：超出预期的强大 https://studygolang.com/articles/23498  
+
+- 5. gojtp: 动态json校验库 https://github.com/ankur-anand/gojtp  
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-19
+- 1. 踏出使用Go的第一步 https://dev.to/heroku/first-steps-with-go-4ggl
+
+- 2. golang优雅的错误处理 https://segmentfault.com/a/1190000020420692
+
+- 3. go基于ip地址的速率限制http请求 https://dev.to/plutov/rate-limiting-http-requests-in-go-based-on-ip-address-542g
+
+- 4. 基于中间件的轻量级golang web框架 https://goa-go.github.io/zh/
+
+- 5. 构建Go mod项目的Docker镜像只需三步 https://dev.to/ivan/go-build-a-minimal-docker-image-in-just-three-steps-514i
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-18
+- 1. 看看这篇拯救发际线的干货吧--警惕 Go 编程陷阱 https://mp.weixin.qq.com/s/0bJOzNxoQhdVjFOunhmVKQ
+
+- 2. Google -- 如何去做code review https://juejin.im/post/5d80c27cf265da03e61b45c7
+
+- 3. Go 内存管理 https://povilasv.me/go-memory-management-part-3/
+
+- 4. Goroutine 原理 https://draveness.me/golang/concurrency/golang-goroutine.html
+
+- 5. gnet: 轻量级且高性能的 Golang 网络库 https://segmentfault.com/a/1190000020399873
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-17
+- 1. 【图示】控制 Goroutine 的并发数量的方式 https://jingwei.link/2019/09/13/conotrol-goroutines-count.html
+
+- 2. 聊一聊Go的那些处理命令行参数和配置文件的库 https://segmentfault.com/a/1190000020377098
+
+- 3. go 学习笔记之学习函数式编程前不要忘了函数基础 https://mp.weixin.qq.com/s/dprkCOvPZHr6fi_qC91dVw
+
+- 4. Go 设计模式思想 https://github.com/sevenelevenlee/go-patterns
+
+- 5. Go 连接 NATS https://mp.weixin.qq.com/s/oE7Q-9wPrngHfr02gbBlLw
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-16
+- 1. 响应式规划与Go中的妥协 https://gianarb.it/blog/reactive-planning-and-reconciliation-in-go  
+
+- 2. 在 Go 中使用服务对象 https://mp.weixin.qq.com/s/i0onQKFOkO7XBLpjMgVqqA   
+
+- 3. 在Go中构建不可变变量 https://levelup.gitconnected.com/building-immutable-data-structures-in-go-56a1068c76b2   
+
+- 4. NATS多种连接Golang实践 https://mp.weixin.qq.com/s/oE7Q-9wPrngHfr02gbBlLw  
+
+- 5. TurboCookedRabbit: 一款用户友好的RabbitMQ库 https://github.com/houseofcat/turbocookedrabbit  
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-15
+- 1. Go语言测试进阶版建议与技巧 https://pengrl.com/p/32101/
+
+- 2. 图数据库爱好者的聚会在谈论什么？ https://zhuanlan.zhihu.com/p/82300640
+
+- 3. Go中slice的In功能实现探索 https://juejin.im/post/5d7cc0aae51d4557ca7fddd4
+
+- 4. 美团集群调度系统HULK技术演进 https://mp.weixin.qq.com/s/AuCQn3jdJURUi9tZLt0dlw
+
+- 5. 你需要的是一款合适且强大的OLAP数据库 https://segmentfault.com/a/1190000020385432
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-14
+- 1. 构建更好的Go链接器 https://docs.google.com/document/d/1D13QhciikbdLtaI67U6Ble5d_1nsI4befEd6_k1z91U/view
+
+- 2. 在Go中创建自定义错误 https://www.digitalocean.com/community/tutorials/creating-custom-errors-in-go
+
+- 3. Go Serverless Fn介绍 https://fnproject.io/tutorials/Introduction/
+
+- 4. Go是如何实现protobuf的编解码的(2)：源码 https://segmentfault.com/a/1190000020338411
+
+- 5. 我们如何在Go中构建一个Lucene启发的解析器 https://www.mailgun.com/blog/how-we-built-a-lucene-inspired-parser-in-go
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-13
+- 1. 弄懂goroutine调度原理 https://bingjian-zhu.github.io/2019/09/12/弄懂goroutine调度原理/
+
+- 2. 聊一聊Go的那些处理命令行参数和配置文件的库 https://segmentfault.com/a/1190000020377098
+
+- 3. Kong 开源的的服务网格Kuma爬过了K8S这座大山 https://mp.weixin.qq.com/s/7FlaDCsmOTOgSm-2IWZWiQ
+
+- 4. 理解 Golang 中 slice 的底层设计 https://juejin.im/post/5d79eddbe51d4561e53539df
+
+- 5. Cadence一个分布式，可扩展，持久且高度可用的编排引擎 https://github.com/uber/cadence
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-12
+- 1. Go Web 应用的优势和劣势   https://www.brsoftech.com/blog/advantages-and-disadvantages-of-golang-web-application/
+
+- 2. 深入Go的错误处理机制使用 http://www.cnblogs.com/sy270321/p/11508797.html
+
+- 3. go-gin-api 路由中间件 - 捕获异常（四） https://segmentfault.com/a/1190000020358030
+
+- 4. Go http request 引起的 goroutine 泄漏 http://sanyuesha.com/2019/09/10/go-http-request-goroutine-leak/
+
+- 5. 微服务架构在Kubernetes上的实现 https://mp.weixin.qq.com/s/YjInujvKHJSU6az9TEOmpw
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-11
+- 1. Go Modules 不完全教程  https://mp.weixin.qq.com/s/v-NdYEJBgKbiKsdoQaRsQg
+
+- 2. 调试Go的代码生成 https://mp.weixin.qq.com/s/mlkpqz5TRCiGrRs35WUNRQ
+
+- 3. 用Go高效检测有效的IPv4 https://medium.com/@sergio.anguita/detecting-a-valid-ipv4-in-go-like-a-boss-32eda9bf422f
+
+- 4. 优雅的处理errors https://juejin.im/post/5d772620e51d4561c83e7cd2
+
+- 5. 写在Go1.13中的错误常量 https://medium.com/@smyrman/writing-constant-errors-with-go-1-13-10c4191617
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-10
+- 1. 使用 Go 和 React Native 为窗口应用或游戏创建一个 OTP 锁 https://medium.com/@abhinavdabral/making-games-application-lock-using-go-and-react-native-71090d0af65c
+
+- 2. 使用 Go 构建 GitHub Actions https://medium.com/@yanzay/building-github-actions-using-go-80a0add54104
+
+- 3. thrift golang 解析 https://juejin.im/post/5d71e684f265da03dd3d9533
+
+- 4. 躲避 Go 1.13 defer 性能提升的姿势 https://zhuanlan.zhihu.com/p/81857521
+
+- 5. goroutine的分时调度解析 https://juejin.im/post/5d65d84751882550f321d22c
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-09
+- 1. 只需三步构建最小的 Go Docker 镜像 https://medium.com/@dlugos.ivan/go-build-a-minimal-docker-image-in-just-three-steps-237a7ab0a105
+
+- 2. Golang 的 WebAssembly 已经准备好了吗 https://medium.com/@KevinHoffman/golang-are-we-webassembly-yet-e0a2e180fc98
+
+- 3. 深入理解 Go-runtime.SetFinalizer 原理剖析 https://segmentfault.com/a/1190000020323654
+
+- 4. golang 基于 mysql 到内存 map 的缓存库 https://studygolang.com/articles/23355
+
+- 5. Google Cloud Spanner 的 Schema 管理工具 https://github.com/mercari/wrench
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-08
+- 1. Go 语言回顾: 从 Go 1.0 到 Go 1.13 https://tonybai.com/2019/09/07/go-retrospective/
+
+- 2. Go 1.13 defer 的性能是如何提高的？  https://mp.weixin.qq.com/s/lwBLVjdZCkwTEZzXhpwKJg
+
+- 3. 两个 Go 程序，三种不同的 pprof 技术 https://www.youtube.com/watch?v=nok0aYiGiYA
+
+- 4. Go:编译器概述 https://medium.com/a-journey-with-go/go-overview-of-the-compiler-4e5a153ca889
+
+- 5. 软件工程的多重意义 https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-07
+- 1. Go 1.13虽迟但到，goproxy.cn 为中国开发者量身提供模块代理 https://mp.weixin.qq.com/s/45DTGk90CQzvqN1-y4WvVw
+
+- 2. Go语言(golang)新发布的1.13中的Error Wrapping深度分析 https://www.flysnow.org/2019/09/06/go1.13-error-wrapping.html
+
+- 3. Go 语言的并发性 http://minaandrawos.com/2015/12/06/concurrency-in-golang
+
+- 4. Go并发之channel篇 https://mp.weixin.qq.com/s/PIb-gGBootc6581pHhi5ew
+
+- 5. 锲而不舍 —— M 是怎样找工作的？https://qcrao.com/2019/09/06/go-scheduler-m-finds-work/
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-06
+- 1. 不要为你的API调用者进行强制分配 https://dave.cheney.net/2019/09/05/dont-force-allocations-on-the-callers-of-your-api  
+
+- 2. Go context包的语义 https://www.ardanlabs.com/blog/2019/09/context-package-semantics-in-go.html 
+
+- 3. 让Go程序打印HTTP请求详情 https://onepage.nopub.io/p/Logging-HTTP-requests-in-Go-233de7fe59a747078b35b82a1b035d36  
+
+- 4. Go schedule的轮回 https://mp.weixin.qq.com/s/QFmh0wq50H9-4ZrtEknpCQ  
+
+- 5. Go scheduler开始调度循环 https://mp.weixin.qq.com/s/pRCWOKlI48soY0deOWoSEw  
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-05
+- 1. 千难万险-goroutine 从生到死（六） https://mp.weixin.qq.com/s/kwKqrT4BoeheM9MvSh-rLw
+
+- 2. Go 1.13虽迟但到，goproxy.cn 为中国开发者量身提供模块代理 https://mp.weixin.qq.com/s/45DTGk90CQzvqN1-y4WvVw
+
+- 3. 如何在Golang项目中使用Github Actions https://github.com/mvdan/github-actions-golang
+
+- 4. Go语言回顾：从1.0到1.13 https://medium.com/@blanchon.vincent/go-retrospective-b9723352e9b0
+
+- 5. v8go: 在Go中使用v8引擎 https://github.com/rogchap/v8go
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-04
+- 1. Go 1.13 Released https://golang.org/doc/go1.13
+
+- 2. Bad Go:轻浮的Sprintf https://philpearl.github.io/post/bad_go_sprintf/
+
+- 3. 用 GODEBUG 看 GC https://segmentfault.com/a/1190000020255157
+
+- 4. Go语言之指针 https://mp.weixin.qq.com/s/qXi-_e_nuVDnaiPfm2HIHQ
+
+- 5. 优雅关闭的 Go Web 服务器 https://mp.weixin.qq.com/s/rA_oh472ZhfcAsAkWyyXFA
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-03
+- 1. Go 实现交互式终端资源管理器 https://github.com/keylo99/pkgtop
+
+- 2. 在线 Go 小测试 https://golangme.com/quiz/
+
+- 3. 深度解密Go语言之scheduler https://mp.weixin.qq.com/s/rpCf5vm9xYFXjmR98vanfQ
+
+- 4. 如何测试你的 Go 代码 https://juejin.im/post/5d6d462ef265da03e5234f57
+
+- 5. Go调用浏览访问url链接 https://segmentfault.com/a/1190000020271815
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-02
+- 1. GopherCon 2019：Dave Cheney - 两个Go程序，三种不同的分析技术 https://golangnews.com/stories/4093
+
+- 2. 计算机主题的自传：出生，死亡和重生 https://medium.com/@onlyliuxin/im-a-thread-c6fb4788babb
+
+- 3. Go1.13 带来的新特性: https://docs.google.com/presentation/d/1RiZmupILuIQQ1Y-psDb1SzXNjCWh-I_-wagthdcwlq8/edit#slide=id.p
+
+- 4. Go JSON中带有的注释框架jsonc https://github.com/muhammadmuzzammil1998/jsonc
+
+- 5. 我如何使用Go在30分钟内建立微服务 https://www.youtube.com/watch?v=bM6N-vgPlyQ
+
+- - - - - - - - - - 
+
+## gocn_news_2019-09-01
+- 1. Go结构体中属性顺序影响结构体的大小 https://www.pengrl.com/p/16608
+
+- 2. 从Flutter Go到Flutter Go Web https://juejin.im/post/5d6a9456e51d4561cc25f080
+
+- 3. Go：Context和传播取消 https://studygolang.com/articles/23240
+
+- 4. Go 笔记之如何防止goroutine泄露 https://mp.weixin.qq.com/s/O3JXr0Zm_c2tkmCtnsaQ6Q
+
+- 5. YourNovel-Golang的开源小说搜索引擎&免费小说阅读网站 http://www.yournovel.cn
+
+- - - - - - - - - - 
+
+## gocn_news_2019-08-31
+- 1. Go 1.13 Module Mirror和Checksum Database Launched功能上线 https://blog.golang.org/module-mirror-launch
+
+- 2. 使用GitHub Actions对Go项目持续集成 https://onepage.nopub.io/p/Using-GitHub-Actions-with-Go-2ca9744b531f4f21bdae9976d1ccbb58
+
+- 3. 使用Radare2和Python对Go执行文件逆向工程 https://carvesystems.com/news/reverse-engineering-go-binaries-using-radare-2-and-python/
+
+- 4. Go学习笔记之面向接口编程 https://mp.weixin.qq.com/s/Y2ZfdFUO2QMgWQY5jP0VaA
+
+- 5. 嵌入式系统中Go开发 https://dev.to/jimutt/how-to-write-go-code-and-make-it-run-on-adafruit-feather-or-arduino-m3c
+
+- - - - - - - - - - 
+
+## gocn_news_2019-08-30
+- 1. golang goroutine and thread https://www.jianshu.com/p/588c6dceb5cf
+
+- 2. golang微服务框架go-micro 入门笔记2.3 micro工具之消息订阅和发布 https://www.jianshu.com/p/cd2e80de45e7
+
+- 3. Knative Serving 进阶: Knative Serving SDK 开发实践 https://www.cnblogs.com/bigdataZJ/p/go-filter.html
+
+- 4. Go进阶：如何开发多彩动感的终端UI应用 https://mp.weixin.qq.com/s/DQzlfQXt4dV9PYwoVdomaw
+
+- 5. Go语言学习——如何实现一个过滤器 https://www.cnblogs.com/bigdataZJ/p/go-filter.html 
+
+- - - - - - - - - - 
+
+## gocn_news_2019-08-29
+- 1. go语言中关于字符串使用的总结 https://www.yangyanxing.com/article/string_use_in_go.html
+2.Go内存泄漏？不是那么简单!  https://colobu.com/2019/08/28/go-memory-leak-i-dont-think-so/
+
+- 2. GCTT 出品 | Go 的调度器追踪   http://mp.weixin.qq.com/s?__biz=MzI3MjU4Njk3Ng==&mid=2247484253&idx=2&sn=3b640a7a4b3b9f10ed7400be740fcf5a
+
+- 3. Golang实现单机百万长连接服务 - 美图的三年优化经验 https://mp.weixin.qq.com/s/xavjsa4NzRiVRxyMhifCDg
+5.大规模微服务场景下的性能问题定位与优化 https://mp.weixin.qq.com/s/RmK3E_qDzHPWSPkHD5y6YA
+
+- - - - - - - - - - - - 
+
+## gocn_news_2019-08-28
+- 1. GopherCon 2019演讲视频 http://www.bilibili.com/video/av65679861 
+
+- 2. 看看Go 1.13中的Errors https://medium.com/onefootball-locker-room/a-look-at-go-1-13-errors-9f6c9f6accb6
+
+- 3. Go build中使用-w -s 参数 https://blog.spiralscout.com/using-w-and-s-flags-in-golang-97ae59b50e26
+
+- 4. Go中的测试驱动开发 https://juejin.im/post/5d653d90f265da039d32dda9
+
+- 5. Go组件学习——database/sql数据库连接池你用对了吗 https://juejin.im/post/5d624abde51d45621655352c
+
+- - - - - - - - - - 
+
+## gocn_news_2019-08-27
+- 1. POPPER 的设计和优化：https://mp.weixin.qq.com/s/XUb8Gu1jjOvlXOju6g9erw
+
+- 2. Go 编写的终端提示工具 go-prompt：https://github.com/c-bata/go-prompt 
+
+- 3. Go 迷你编译器 TinyGo：https://github.com/tinygo-org/drivers 
+
+- 4. Pinterest Kubernetes 平台搭建：https://medium.com/pinterest-engineering/building-a-kubernetes-platform-at-pinterest-fb3d9571c948
+
+- 5. k8s 让我们都成了分布式系统开发者：https://devclass.com/2019/08/16/pivotal-cto-kubernetes-means-were-all-distributed-systems-programmers-now/
+
+- - - - - - - - - - 
+
+## gocn_news_2019-08-26
+- 1. Go 编写的 Lisp 环境：https://www.ale-lang.org
+
+- 2. Go 静态位向量结构体：https://github.com/teivah/bitvector
+
+- 3. Go 类型转换与检查：https://www.golangprograms.com/go-language/inte
