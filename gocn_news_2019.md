@@ -1,4 +1,20 @@
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-18
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 107 天）](https://mp.weixin.qq.com/s/oHiJtyo9M4o9gRpad1Cwnw)
+
+### 二、Go语言中文网
+
+1.[Go 质量保证：集成测试（1） - 用 Docker 执行测试](https://mp.weixin.qq.com/s/UYCXp7TrIm4d2cUwi7Un-Q)
+
+2.[Go 在马蜂窝即时通讯服务建设中的实践](https://mp.weixin.qq.com/s/xs6WePLXtIu43bYynsxMWA)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 88 天）](https://mp.weixin.qq.com/s/ItfBvTnVI_PCUmC6oUnHug)
+
+4.[编辑器 VS Code 如何快速查看 Go 接口？](https://mp.weixin.qq.com/s/_PsdncG6HxQ6SR095fZHyA)
+
+5.[Go 刷 LeetCode 回溯法（1）：全排列](https://mp.weixin.qq.com/s/Lr030YxSf2ZjVr_RYgeeWg)
 ## gocn_news_2019-12-18
 - 1. Go1.14beta1发布 https://groups.google.com/forum/#!msg/golang-announce/ocSS1fQHBCk/oIsy2EJXBgAJ
 - 2. 基于Go语言开发 Serverless 云原生应用 https://mp.weixin.qq.com/s/MmjaP94p-O8LhNCyOqDS8A
