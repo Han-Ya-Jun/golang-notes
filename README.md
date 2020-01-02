@@ -19,6 +19,8 @@
   * [GoCn_News_2017](gocn_news_2017.md)
   * [GoCn_News_2018](gocn_news_2018.md)
   * [GoCn_News_2019](gocn_news_2019.md)
+  * [GoCn_News_2020](gocn_news_2020.md)
+  
 
 # 赞赏
 
