@@ -9,4 +9,5 @@
   * [GoCN_NEWS_2017](gocn_news_2017.md)
   * [GoCN_NEWS_2018](gocn_news_2018.md)
   * [GoCN_NEWS_2019](gocn_news_2019.md)
+  * [GoCN_NEWS_2020](gocn_news_2020.md)
 
