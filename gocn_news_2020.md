@@ -1,4 +1,19 @@
 # gocn_news_set_2020
+## gocn_news_2020-02-29
+- 1.Go Modules 终极入门 https://mp.weixin.qq.com/s/zo7zmEVXvxgr80n6H_49Mg
+
+- 2.Golang 连接池的几种实现案例 https://juejin.im/post/5e58e3b7f265da57537eb7ed
+
+- 3.Go 开发的安全漏洞扫描工具 vuls https://github.com/future-architect/vuls
+
+- 4.MIT 6.824 分布式系统课程第一课：介绍笔记https://gocn.vip/topics/9910
+
+- 5.如何设计一个可扩展的限流算法 https://mp.weixin.qq.com/s/Knx1dQ8L6cBx4HRUJ-EAUQ
+
+- 6.
+- 7.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-02-28
 一、Go语言中文网
 
