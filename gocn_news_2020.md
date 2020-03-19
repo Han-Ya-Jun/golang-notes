@@ -17,6 +17,38 @@
 - 8.
 - 9.加微信实战群请加微信(注明:实战群)：gocnio
 
+## go语言中文网(每日资讯)_2020-03-18
+一、Go语言中文网
+
+1. [用 Go 编写能存数百万条记录仍非常快的缓存服务 ](https://mp.weixin.qq.com/s/5OlvWwp6EXPntwayd5xtTQ)
+2. [曹春晖：谈一谈 Go 和 Syscall](https://mp.weixin.qq.com/s/YPiYNPa3xVD9Il1HeB5pTw)
+3. [Micro In Action(四)：Pub/Sub](https://mp.weixin.qq.com/s/r7XfwNSfGkhd0e4G8nxvWw)
+4. [2020重学Go系列：11. Go语言流程控制：switch-case 选择语句](https://mp.weixin.qq.com/s/vBQIBxEwtpVjLS0vL6hb7Q)
+5. [这个系列我还是想发：Go 1.14中值得关注的几个变化](https://mp.weixin.qq.com/s/KlWOzlCsSm8GnKwCzo3Cbg)
+
+二、Go夜读
+
+1. [【马上开始】第 80 期带你提前玩 Go 2 新特性：泛型](https://mp.weixin.qq.com/s/rQ3suV7QO6XpHTRFuUdixA)
+2. [预习材料](https://github.com/developer-learning/night-reading-go/issues/573)
+
+三、容器时代
+
+1. [使用GUI工具Portainer.io管控Docker容器](https://mp.weixin.qq.com/s/ru4P8KaTtfTByjBQCjd4ng)
+
+四、分布式实验室
+
+1. [RabbitMQ和Kafka的比较](https://mp.weixin.qq.com/s/_FBTtOSxUA_ghli46g0Z7w)
+
+## gocn_news_2020-03-18
+- 1.CPU 性能、内存分析调试方法汇总 https://gocn.vip/topics/10054
+
+- 2.深入理解 Go 语言的垃圾回收 https://draveness.me/golang/docs/part3-runtime/ch07-memory/golang-garbage-collector/
+
+- 3.Go 调用原生 epoll 引起 event loop 阻塞问题 http://xiaorui.cc/archives/6758
+
+- 4.[译] Serverless 可观察性的最佳实践 https://mp.weixin.qq.com/s/rDuE1Q8BfG-fayEy7fd33A
+
+- 5.K8s 安全之访问控制 https://gocn.vip/topics/10051
 
 ## go语言中文网(每日资讯)_2020-03-17
 一、Go语言中文网
@@ -42,6 +74,17 @@
 五、分布式实验室
 
 1. [微服务时代的DDD：实现领域模型](https://mp.weixin.qq.com/s/mXSiDqWhYkYDM-c8x1LYsg)
+
+## gocn_news_2020-03-17
+- 1.用 Golang 实现基于 Redis 的安全高效 RPC 通信 https://juejin.im/post/5e6eece16fb9a07cd614edcf
+
+- 2.使用 Go 语言创建 WebSocket 服务 https://juejin.im/post/5e6f42f8e51d4526ca15e89b
+
+- 3.Go 内存分配器原理 https://draveness.me/golang/docs/part3-runtime/ch07-memory/golang-memory-allocator/
+
+- 4.理解 Golang 的 unsafe https://www.pixelstech.net/article/1584241521-Understand-unsafe-in-GoLang
+
+- 5.GolangCI.com 即将关闭 https://medium.com/golangci/golangci-com-is-closing-d1fc1bd30e0e
 
 ## go语言中文网(每日资讯)_2020-03-16
 一、Go语言中文网
