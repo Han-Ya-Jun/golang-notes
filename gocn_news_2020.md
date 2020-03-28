@@ -1,4 +1,19 @@
 # gocn_news_set_2020
+## gocn_news_2020-03-28
+- 1.冠状病毒下 GO 语言和社区的计划 https://blog.golang.org/pandemic
+
+- 2.自定义 Go Json 的序列化方法 https://colobu.com/2020/03/19/Custom-JSON-Marshalling-in-Go/
+
+- 3.Go 语言如何实现 stop the world？ https://mp.weixin.qq.com/s/gNAani93Xrb02oDsgDc1fQ
+
+- 4.深入解析 Go 的信号处理---gsignal(译文) https://gocn.vip/topics/10028
+
+- 5.Go Web 编程--给自己写的服务器添加错误和访问日志 https://segmentfault.com/a/1190000022178732
+
+- 6.
+- 7.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-27
 一、Go语言中文网
 
