@@ -1,106 +1,19 @@
 # gocn_news_set_2020
-## gopherDaily_2020-03-29
-- 1.编写Go logging middleware指南 - https://blog.questionable.services/article/guide-logging-middleware-go/
-- 2.5天构建Go mock框架 - https://kinbiko.com/go/mokku/
-- 3.理解unsafe包 - https://www.pixelstech.net/article/1584241521-Understand-unsafe-in-GoLang
-- 4.Hakrawler: hacker专用命令行爬虫 - https://hakin9.org/hakrawler-a-fast-cli-web-crawler-for-hackers/
-- 5.gnark: 零知识证明协议的Go实现 - https://github.com/ConsenSys/gnark
+## go语言中文网(每日资讯)_2020-03-28
+一、Go语言中文网
 
+1. [首发特性：goproxy.cn 现已推出首个 Go 模块代理统计数据 API](https://mp.weixin.qq.com/s/ZtQJE-Vv_Ke8SjhrzBoGcw)
+2. [gorm 作者出品：Go 每日一库之 copier](https://mp.weixin.qq.com/s/TBH9SPSsewTnk_EdgDMJnQ)
+3. [Golang限流器time/rate实现剖析](https://mp.weixin.qq.com/s/8tMlb9TqqnYBGFbYiJ0zNQ)
+4. [2020重学Go系列：21. 学习 Go 协程：WaitGroup](https://mp.weixin.qq.com/s/L0lQ-CCEle5Y4dt1kOZ08A)
+5. [编写 Dockerfile 的最佳实践](https://mp.weixin.qq.com/s/smwErhlAT3heD8X1W72IKQ)
 
-## gocn_news_2020-03-29
-- 1.Go 编译器指南 https://www.caffeinatedwonders.com/2019/12/26/tour-of-go-compilers/
+二、容器时代
 
-- 2.从 gRPC 的重试策略说起 https://gocn.vip/topics/10135
+1. [谁说docker-compose不能水平扩展容器、服务多实例？](https://mp.weixin.qq.com/s/Z71t3b14hnO7P1GZH0943w)
 
-- 3.Go 实现 LeetCode 全集 https://github.com/austingebauer/go-leetcode
-
-- 4.分布式从 ACID、CAP、BASE 的理论推进 https://gocn.vip/topics/10121
-
-- 5.dubbogo 1.4 最新特性 https://gocn.vip/topics/10119
-
-
-
-## gopherDaily_2020-03-29
-- 1.编写Go logging middleware指南 - https://blog.questionable.services/article/guide-logging-middleware-go/
-- 2.5天构建Go mock框架 - https://kinbiko.com/go/mokku/
-- 3.理解unsafe包 - https://www.pixelstech.net/article/1584241521-Understand-unsafe-in-GoLang
-- 4.Hakrawler: hacker专用命令行爬虫 - https://hakin9.org/hakrawler-a-fast-cli-web-crawler-for-hackers/
-- 5.gnark: 零知识证明协议的Go实现 - https://github.com/ConsenSys/gnark
-
-
-## gocn_news_2020-03-29
-- 1.Go 编译器指南 https://www.caffeinatedwonders.com/2019/12/26/tour-of-go-compilers/
-
-- 2.从 gRPC 的重试策略说起 https://gocn.vip/topics/10135
-
-- 3.Go 实现 LeetCode 全集 https://github.com/austingebauer/go-leetcode
-
-- 4.分布式从 ACID、CAP、BASE 的理论推进 https://gocn.vip/topics/10121
-
-- 5.dubbogo 1.4 最新特性 https://gocn.vip/topics/10119
-
-
-
-## gopherDaily_2020-03-29
-- 1.编写Go logging middleware指南 - https://blog.questionable.services/article/guide-logging-middleware-go/
-</br>- 2.5天构建Go mock框架 - https://kinbiko.com/go/mokku/
-</br>- 3.理解unsafe包 - https://www.pixelstech.net/article/1584241521-Understand-unsafe-in-GoLang
-</br>- 4.Hakrawler: hacker专用命令行爬虫 - https://hakin9.org/hakrawler-a-fast-cli-web-crawler-for-hackers/
-</br>- 5.gnark: 零知识证明协议的Go实现 - https://github.com/ConsenSys/gnark
-</br>
-
-## gocn_news_2020-03-29
-- 1.Go 编译器指南 https://www.caffeinatedwonders.com/2019/12/26/tour-of-go-compilers/
-
-- 2.从 gRPC 的重试策略说起 https://gocn.vip/topics/10135
-
-- 3.Go 实现 LeetCode 全集 https://github.com/austingebauer/go-leetcode
-
-- 4.分布式从 ACID、CAP、BASE 的理论推进 https://gocn.vip/topics/10121
-
-- 5.dubbogo 1.4 最新特性 https://gocn.vip/topics/10119
-
-
-
-## gopherDaily_2020-03-29
-1.编写Go logging middleware指南 - https://blog.questionable.services/article/guide-logging-middleware-go/
-</br>2.5天构建Go mock框架 - https://kinbiko.com/go/mokku/
-</br>3.理解unsafe包 - https://www.pixelstech.net/article/1584241521-Understand-unsafe-in-GoLang
-</br>4.Hakrawler: hacker专用命令行爬虫 - https://hakin9.org/hakrawler-a-fast-cli-web-crawler-for-hackers/
-</br>5.gnark: 零知识证明协议的Go实现 - https://github.com/ConsenSys/gnark
-</br>
-
-## gocn_news_2020-03-29
-- 1.Go 编译器指南 https://www.caffeinatedwonders.com/2019/12/26/tour-of-go-compilers/
-
-- 2.从 gRPC 的重试策略说起 https://gocn.vip/topics/10135
-
-- 3.Go 实现 LeetCode 全集 https://github.com/austingebauer/go-leetcode
-
-- 4.分布式从 ACID、CAP、BASE 的理论推进 https://gocn.vip/topics/10121
-
-- 5.dubbogo 1.4 最新特性 https://gocn.vip/topics/10119
-
-
-
-## gocn_news_2020-03-29
-- 1.Go 编译器指南 https://www.caffeinatedwonders.com/2019/12/26/tour-of-go-compilers/
-
-- 2.从 gRPC 的重试策略说起 https://gocn.vip/topics/10135
-
-- 3.Go 实现 LeetCode 全集 https://github.com/austingebauer/go-leetcode
-
-- 4.分布式从 ACID、CAP、BASE 的理论推进 https://gocn.vip/topics/10121
-
-- 5.dubbogo 1.4 最新特性 https://gocn.vip/topics/10119
-
-- 6.编辑: astaxie
-- 7.订阅新闻: http://tinyletter.com/gocn
-
-- 8.
-- 9.加微信实战群请加微信(注明:实战群)：gocnio
-
-
+三、分布式实验室
+1. [滴滴开源夜莺Nightingale：企业级监控解决方案](https://mp.weixin.qq.com/s/kOksiQsQfKjuZHf-qvLsmA)
 ## gocn_news_2020-03-28
 - 1.冠状病毒下 GO 语言和社区的计划 https://blog.golang.org/pandemic
 
@@ -163,7 +76,29 @@
 - 9.
 - 10.加微信实战群请加微信(注明:实战群)：gocnio
 
+## go语言中文网(每日资讯)_2020-03-26
+一、Go语言中文网
 
+1. [用Go构建不可变的数据结构](https://mp.weixin.qq.com/s/bCzAmt8LnOJgd46LNHZtTg)
+2. [在 Gin 框架中使用 JWT 认证](https://mp.weixin.qq.com/s/9hNAQsa8_nvVku72ofpZCg)
+3. [Go 每日一库之 mergo：方便结构体和 map 赋值](https://mp.weixin.qq.com/s/5h4i3hXsPLWJpHBd8TOtUg)
+4. [2020重学Go系列：19. 学习 Go 协程：详解信道/通道](https://mp.weixin.qq.com/s/WtdUrfZvAMr5fiwQ-Bw0JQ)
+
+二、码农桃花源
+
+1. [defer 的前世今生](https://mp.weixin.qq.com/s/jYVbA3kIp85J06BB1vT_iA)
+
+三、MoeLove
+
+1. [Kubernetes v1.18 正式发布！抢先一览](https://mp.weixin.qq.com/s/ILL-eZ1SQOrVdSSBoc785A)
+
+四、分布式实验室
+
+1. [Kubernetes 1.18：代表精确度与完成度的版本](https://mp.weixin.qq.com/s/lXYu17ApbpcJPCjuGHUNCA)
+
+五、GoUpUp
+
+1. [Go 每日一库之 sjson](https://mp.weixin.qq.com/s/p5rMWAyqoBxzCD3HcHHV9g)
 ## gocn_news_2020-03-26
 - 1. 结构体转 map https://www.liwenzhou.com/posts/Go/struct2map/
 
