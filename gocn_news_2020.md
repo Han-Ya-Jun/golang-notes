@@ -1,4 +1,21 @@
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-12
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 38 期](https://mp.weixin.qq.com/s/_Wlpd3ii1GOD2w8Yv1pDPw)
+2. [Go新手容易犯的三个致命错误，你中招了吗？](https://mp.weixin.qq.com/s/RmcokVdwOC_9NaBEGgzgeA)
+3. [深挖Go系列之string那些事](https://mp.weixin.qq.com/s/XkNtxS10zY4Qd9I7EXc0CA)
+4. [基于 Go 语言开发在线论坛（五）：创建群组和主题](https://mp.weixin.qq.com/s/gm-AJGT6BIzr-WWvT4cxHQ)
+5. [Go Web编程--SecureCookie实现客户端Session管理](https://mp.weixin.qq.com/s/SgGhlAr1MYmXu8yqiRy8Iw)
+
+二、容器时代
+
+1. [使用Docker-Compose搭建高可用redis哨兵集群](https://mp.weixin.qq.com/s/lD7Sy-syw2ufve5yZCbcoA)
+
+三、图解源码
+
+1. [Pod创建流程代码版本[kubelet篇]](https://mp.weixin.qq.com/s/ScZG2MUOY_zS-pXdadgJvg)
+
 ## gocn_news_2020-04-12
 - 1.Go 实现的类似 tmux 的终端控制 https://github.com/aaronjanse/3mux
 
