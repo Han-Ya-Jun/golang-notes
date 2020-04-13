@@ -1,4 +1,12 @@
 # gocn_news_set_2020
+## gopherDaily_2020-04-13
+- 1.Go使用2年后的思考 - https://wgyn.github.io/2020/04/12/reflections-on-2-years-of-golang.html
+- 2.在Fx实现的Go微服务中管理共享组件 - https://pmihaylov.com/shared-components-go-microservices/
+- 3.对下一个项目是否使用Go的争论 - https://hackernoon.com/an-argument-for-using-golang-to-code-your-next-projects-ybcz32n2
+- 4.gosql: 一个PostgreSQL的早期实现版本 - https://github.com/eatonphil/gosql
+- 5.what.Happens: 仅给go开发人员使用调试级别log包 - https://appliedgo.net/what/
+
+
 ## go语言中文网(每日资讯)_2020-04-12
 一、Go语言中文网
 
