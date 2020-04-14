@@ -1,4 +1,25 @@
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-14
+一、Go语言中文网
+
+1. [Go的Channel很强大，理解其内在概念会让它更强大](https://mp.weixin.qq.com/s/QYY4Z6umM5wn7U5Idwb8PA)
+2. [基于 Go 语言开发在线论坛（七）：通过单例模式获取全局配置](https://mp.weixin.qq.com/s/tNWHtomARQZRoUMdi5XMMA)
+3. [什么是WebSocket，它与HTTP有何不同？](https://mp.weixin.qq.com/s/CNELmXySBp0kKRtiakTEug)
+4. [Go刷Leetcode系列：二叉树（1）验证二叉搜索树](https://mp.weixin.qq.com/s/QSqooGj8RVZS82Z2ZGvDCQ)
+
+二、 容器时代
+
+1. [3个减小Docker镜像的简单技巧](https://mp.weixin.qq.com/s/UCm27by8Ro7NzFflsPISCQ)
+
+三、真没什么逻辑
+
+1. [为什么 Linux 需要虚拟内存](https://mp.weixin.qq.com/s/gPX-xvWqrUgRi5VwHok1pA)
+
+四、Go夜读
+
+1. [第 85 期斗鱼 Minerva 配置中心分享](https://mp.weixin.qq.com/s/e6n0DSEHZoCHBMLXUJp-fQ)
+2. [预习材料](https://github.com/talk-go/night/issues/602)
+
 ## gopherDaily_2020-04-14
 - 1.go module系列：vendoring - https://www.ardanlabs.com/blog/2020/04/modules-06-vendoring.html
 - 2.unik: 以unikernel形式运行go程序，无需底层操作系统 - https://git.sr.ht/~eliasnaur/unik
