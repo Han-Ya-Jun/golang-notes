@@ -1,4 +1,29 @@
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-24
+一、Go语言中文网
+
+1. [迷你指南——结合 MySQL 构建一个基于 Go 的 REST API 微服务](https://mp.weixin.qq.com/s/IgggbnEKh5z9fGsWbRFZSg)
+2. [Go框架解析-Gin](https://mp.weixin.qq.com/s/9lVWy2LuQi8rYr9NrcJnsw)
+3. [学会用Go解析复杂JSON的思路](https://mp.weixin.qq.com/s/j_q0Hkz1WjRgB8XeBOw_tQ)
+4. [Golang Web入门（1）：自顶向下理解Http服务器](https://mp.weixin.qq.com/s/4wizsgzNcpJC8geuytfJ0A)
+5. [基于 Go 语言开发在线论坛（九）：部署 Go Web 应用](https://mp.weixin.qq.com/s/4bj6FdHzQy-8rYwDUMZRtA)
+
+二、xueyuanjun
+
+1. [基于 Go 语言开发在线论坛增补篇：通过 Viper 读取配置文件并实现热加载](https://mp.weixin.qq.com/s/eIcQohOpaPoRgiVt5Cg8QA)
+
+三、GoUpUp
+
+1. [Go 每日一库之 go-app](https://mp.weixin.qq.com/s/_OTZ3-o6F_QnRCHaoFdAGQ)
+
+四、No Headback
+
+1. [go mod 的智障版本选择](https://xargin.com/go-mod-is-rubbish/)
+
+五、图解源码
+
+1. [图解Knative核心组件Serving基础设计](https://mp.weixin.qq.com/s/TBMMHlFyiRRKXxUeQ4ZLJg)
+
 ## gocn_news_2020-04-24
 - 1.dubbo-go 中如何实现路由策略功能 https://gocn.vip/topics/10297
 
