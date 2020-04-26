@@ -1,4 +1,17 @@
 # gocn_news_set_2020
+## gocn_news_2020-04-26
+- 1.基于 Go 语言 Gin 框架和 Vue 搭建的开源后台管理系统  https://github.com/flipped-aurora/gin-vue-admin
+
+- 2. Go 的内联优化  https://dave.cheney.net/2020/04/25/inlining-optimisations-in-g
+
+- 3.使用 Go 语言实现一个异步任务框架  https://jiajunhuang.com/articles/2020_04_24-gotasks.md.html
+
+- 4.使用 apitest 在 Golang 中测试 API  https://dev.to/codenation/testing-apis-in-golang-using-apitest-1860
+
+- 5.  如何在 Go 中管理数据库取消和超时 https://www.alexedwards.net/blog/how-to-manage-database-timeouts-and-cancellations-in-go
+
+
+
 ## go语言中文网(每日资讯)_2020-04-25
 一、Go语言中文网
 
