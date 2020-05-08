@@ -1,4 +1,14 @@
 # gocn_news_set_2020
+## gocn_news_2020-05-08
+- 1.Etcd 使用 go module 的灾难: https://colobu.com/2020/04/09/accidents-of-etcd-and-go-module/ 
+- 2.Go context 包详解：https://medium.com/rungo/understanding-the-context-package-b2e407a9cdae 
+- 3.调试 Docker 容器中的 Go 应用程序 https://blog.jetbrains.com/go/2020/05/06/debugging-a-go-application-inside-a-docker-container
+
+- 4.用 GitHub Action 构建一套 CI/CD 系统: https://gocn.vip/topics/10359 
+- 5.详解 Pod 及容器设计模式 https://gocn.vip/topics/10358
+
+
+
 ## gocn_news_2020-05-07
 - 1.使用 Go 构建命令行接口 https://medium.com/@bijeshos/building-command-line-interfaces-using-go-ce6a75d60bf5
 
