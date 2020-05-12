@@ -1,4 +1,44 @@
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-12
+一、Go语言中文网
+
+1. [硬核文章：图解 Go 编译器的高级操作](https://mp.weixin.qq.com/s/HiVDE2FxnX4CpqVceBJByw)
+
+2. [我的代码没有 else 系列教程之代码模板](https://mp.weixin.qq.com/s/1DIPhwkqtFfXvm-xIIDbSA)
+
+3. [Go语言进阶之路（三）：函数和接口](https://mp.weixin.qq.com/s/ubyY_UdJFLwQxi05bkaRFg)
+
+4. [Go刷LeetCode系列：二叉树（8）路径总和](https://mp.weixin.qq.com/s/rHakl_9QCQJr23qu5J49nA)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-11）](https://studygolang.com/topics/11453)
+
+三、一剑破万法
+
+1. [Go netpoll I/O 多路复用构建原生网络模型之源码深度解析](https://taohuawu.club/go-netpoll-io-multiplexing-reactor)
+
+四、GoUpUp
+
+1. [Go 每日一库之 jsonrpc](https://mp.weixin.qq.com/s/ivYYVdd1u5lZZGfAY-e1yQ)
+
+五、Go 101
+
+1. [一道小测试题](https://mp.weixin.qq.com/s/F7HNsWFwYWmqtnyyzYVSKA)
+
+六、CNCF
+
+1. [陌陌的 Service Mesh 探索与实践（视频+PDF）](https://mp.weixin.qq.com/s/U9FVNRhXRqigRsUIf09qQQ)
+
+七、真没什么逻辑
+
+1. [为什么 IPv6 难以取代 IPv4](https://mp.weixin.qq.com/s/vCkHYkbzrpn5oo8VEBSKIA)
+
+八、 HHF技术博客
+
+1. [Bilibili Kratos 框架源码分析(1) -- 启动流程](https://mp.weixin.qq.com/s/C-Ms2whwiG4hDnH1h6PSQw)
+
 ## gocn_news_2020-05-12
 - 1. 调试 golang 的 bug 以及性能问题的实践方法    http://team.jiunile.com/blog/2020/05/go-debug-practice.html
 
