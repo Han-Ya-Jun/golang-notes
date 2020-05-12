@@ -1,4 +1,17 @@
 # gocn_news_set_2020
+## gocn_news_2020-05-12
+- 1. 调试 golang 的 bug 以及性能问题的实践方法    http://team.jiunile.com/blog/2020/05/go-debug-practice.html
+
+- 2. 用 Go 替代 Python 在生产环境中进行数据分析   https://blog.csdn.net/shendl/article/details/106044415
+
+- 3. 使用 go race 排查 protobuf Marshal Panic    https://www.cyningsun.com/05-11-2020/proto-marshal-panic.html
+
+- 4. Go 语言中的类型断言是什么？ https://juejin.im/post/5eb8a2b15188256d3c52ddfc
+
+- 5. 酷家乐服务网格与 Serverless 落地情况 https://mp.weixin.qq.com/s/KNuQQkFdKsZL99ukReeLfQ
+
+
+
 ## go语言中文网(每日资讯)_2020-05-11
 一、Go语言中文网
 
