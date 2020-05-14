@@ -1,4 +1,33 @@
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-14
+一、Go语言中文网
+
+1. [基于 GoLand 在 Docker 容器中调试 Go 应用程序](https://mp.weixin.qq.com/s/4-fkIWcr_3LdLFALVk4ZTA)
+2. [缓存系统设计精要 1：多级缓存](https://mp.weixin.qq.com/s/FKYfxVjMTxXYWK5opy600w)
+3. [我的代码没有else之链式调用](https://mp.weixin.qq.com/s/of5t375TavYeroa2vNbaeA)
+4. [Go语言进阶之路（五）：通道、goroutine和GPM](https://mp.weixin.qq.com/s/qnounAate-sSoUi1VgcL0Q)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-13）](https://studygolang.com/topics/11470)
+
+三、容器时代
+
+1. [如何在Google Kubernetes Engine上运行HA MySQL](https://mp.weixin.qq.com/s/woQkOCGxwmkGb2b0-VPBsw)
+
+四、真没什么逻辑
+
+1. [Kubernetes 贡献指南](https://mp.weixin.qq.com/s/y45XCi-SOHb8XrxS90RcJw)
+
+五、Go 101
+
+1. [Go设计上的一个小遗憾](https://mp.weixin.qq.com/s/sBMMJnph5_scmtSnnPvC6A)
+
+六、DevOps技术栈
+
+1. [Prometheus 监控系统：30个常见问题（上）](https://mp.weixin.qq.com/s/tSfXsYyFND0FK58zpXp0bw)
+
 ## go语言中文网(每日资讯)_2020-05-13
 一、Go语言中文网
 
