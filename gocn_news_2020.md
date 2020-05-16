@@ -1,4 +1,32 @@
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-16
+一、Go语言中文网
+
+1. [Go 项目的布局：你是怎么组织你的Go代码的？](https://mp.weixin.qq.com/s/3f6dZcshXXL4EDqdtmJ3gw)
+
+2. [我的代码没有else之代码组件](https://mp.weixin.qq.com/s/QWfQGlKfwDlW2NkMaUCvJA)
+
+3. [为什么 TCP 协议有粘包问题](https://mp.weixin.qq.com/s/WjVpPCaZvZhbWHjcDTLKrA)
+
+4. [Go刷LeetCode系列：二叉树（11）寻找重复的子树](https://mp.weixin.qq.com/s/hcgzB-8MWJsmVbVj-X0tqg)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-15）](https://studygolang.com/topics/11482)
+
+三、容器时代
+
+1. [Kubernetes网络实现](https://mp.weixin.qq.com/s/3QAzBo0_a3EU_wHjj9qSBw)
+
+四、wecatch
+
+1. [Docker最佳实践](https://mp.weixin.qq.com/s/tOV_C-VllRXcAXrEPpUSIg)
+
+五、火丁笔记
+
+1. [万字长文：新生代的开源监控系统 Prometheus 的问题和思考](https://mp.weixin.qq.com/s/YVBV_-pg8Q4i3E5YMyLK9Q)
+
 ## gocn_news_2020-05-15
 - 1.Go 1.14.3 和 Go 1.13.11 发布 https://mp.weixin.qq.com/s/rUaKoU08Xxc9pfXyO1f8Wg
 
