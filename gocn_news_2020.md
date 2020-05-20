@@ -1,4 +1,17 @@
 # gocn_news_set_2020
+## gocn_news_2020-05-20
+- 1.行为驱动开发 (BDD) 控制软件开发的复杂性 https://octo.vmware.com/taming-complexity-software-testing-behavior-driven-development/
+
+- 2.channel 实现 sync 包里的同步锁 https://mp.weixin.qq.com/s/4UlOQDVd8DgvZta6Kg9_MQ
+
+- 3.Go 性能优化实战 http://team.jiunile.com/blog/2020/05/go-performance.html
+
+- 4.我可能并不会使用 golang map https://juejin.im/post/5ec3473be51d454d952bd7f0
+
+- 5.Go 语言计时器的使用详解 https://mp.weixin.qq.com/s/StlVAhJtbvYpalvJZlttJQ
+
+
+
 ## go语言中文网(每日资讯)_2020-05-19
 一、Go语言中文网
 
