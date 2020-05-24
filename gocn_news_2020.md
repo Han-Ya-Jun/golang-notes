@@ -1,4 +1,16 @@
 # gocn_news_set_2020
+## gocn_news_2020-05-24
+- 1.来自七牛的 qlang alpha 版发布 https://github.com/qiniu/qlang
+
+- 2.使用 Bazel 构建 Monorepo 风格的 Go 仓库 https://eng.uber.com/go-monorepo-bazel/
+
+- 3.基于 Docker 的 Go 交叉编译 https://juejin.im/post/5ec9111851882542ed670e03 
+- 4.Go mock 代码自动生成工具 mockery https://github.com/vektra/mockery
+
+- 5.分布式消息系统中的挑战 https://changelog.com/gotime/130
+
+
+
 ## gocn_news_2020-05-23
 - 1.从零开始入门 K8s | 应用配置管理 https://gocn.vip/topics/10419
 
