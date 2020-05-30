@@ -1,4 +1,31 @@
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-30
+一、Go语言中文网
+
+1. [为什么 Go 不提供这些功能：语法糖的代价](https://mp.weixin.qq.com/s/dVkn7Yk4PWs3zOnqfYGogA)
+
+2. [1.6万字长文：Go 协程的实现原理](https://mp.weixin.qq.com/s/nyTF3IgPf1qkBWCJZQuTuA)
+
+3. [Go HTTP 学习（一） Http Server 的实现](https://mp.weixin.qq.com/s/3uDUGxYmoAPmoDPXbufd_Q)
+
+4. [Go 语言 Web 编程系列—— 设置、读取和删除 Cookie](https://mp.weixin.qq.com/s/pRZarVHtRLL_4sIByXJ3pw)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-29）](https://studygolang.com/topics/11592)
+
+三、面向信仰编程
+
+1. [为什么 Linux 默认页大小是 4KB](https://draveness.me//whys-the-design-linux-default-page)
+
+四、容器时代
+
+1. [如何 60 秒内进行 Linux 性能分析](https://mp.weixin.qq.com/s/sxxFtElODg17wX4L7l4oKA)
+
+五、刘超的通俗云计算
+
+1. [从1到2000个微服务，史上最落地的实践云原生25个步骤](https://mp.weixin.qq.com/s/64cJJj14Ro4z0nAzQm4GGg)
+
 ## gocn_news_2020-05-30
 - 1.Go 并发编程里的数据竞争以及解决之道 https://mp.weixin.qq.com/s/PamOn3HGz3VHpIyGb5ZNaw
 
