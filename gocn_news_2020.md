@@ -1,4 +1,17 @@
 # gocn_news_set_2020
+## gocn_news_2020-06-06
+- 1.基于 DDD 的 golang 实现 https://mp.weixin.qq.com/s/eAkPppXIWI-Ba-k2609PCg
+
+- 2.基于 golang+lua 的 Web 日志安全分析系统 https://www.freebuf.com/sectool/238366.html
+
+- 3.Go 并发编程里的数据竞争以及解决之道 https://mp.weixin.qq.com/s/PamOn3HGz3VHpIyGb5ZNaw
+
+- 4.不要轻易使用 Alpine 镜像来构建 Docker 镜像 https://mp.weixin.qq.com/s/iI0PU6r5vpJ7Pl41b7d1aA
+
+- 5.使用 Go 开发的高并发网络扫描、服务探测工具 https://github.com/Adminisme/ServerScan
+
+
+
 ## go语言中文网(每日资讯)_2020-06-05
 一、Go语言中文网
 
