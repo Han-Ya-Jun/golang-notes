@@ -1,4 +1,37 @@
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-09
+一、Go语言中文网
+
+1. [鹅厂 Go 内存池/对象池技术实战爬坑指南](https://mp.weixin.qq.com/s/Cr09j6HQ9NGLN1b2K8jvkQ)
+
+2. [构建一个快速的现代化网络爬虫](https://mp.weixin.qq.com/s/tH22NP79vDaF23bEMDFXHw)
+
+3. [如何设计云原生应用的架构？](https://mp.weixin.qq.com/s/aWQW1-XJfo3zkqoP0eFrDQ)
+
+4. [面试官：换人！他连 TCP 这几个参数都不懂](https://mp.weixin.qq.com/s/Jgo_P1oKRHffurkoek0oVw)
+
+5. [Go 刷 LeetCode 系列：图（1）课程表](https://mp.weixin.qq.com/s/qUpNiI-5aFMIQ3wP1IJJpQ)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-08）](https://studygolang.com/topics/11658)
+
+三、码农桃花源: qcrao
+
+1. [《Linux 性能优化》读书笔记](https://qcrao.com/2020/06/07/linux-performance-reading-notes/)
+
+四、 火丁笔记
+
+1. [记一次Redis连接池问题引发的RST](https://mp.weixin.qq.com/s/-xW74Kg5xziEhp-7EAhUnA)
+
+五、金融级分布式架构 
+
+1. [记一次在 MOSN 对 Dubbo、Dubbo-go-hessian2 的性能优化](https://mp.weixin.qq.com/s/QxdpXJnwlceO6bSa910TIg)
+
+六、真没什么逻辑
+
+1. [为什么数据库不应该使用外键](https://mp.weixin.qq.com/s/kzgGtbUbrsemw4wH2XnsEQ)
+
 ## gocn_news_2020-06-09
 - 1.Go CLIs 程序编写最佳实践 https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/
 
