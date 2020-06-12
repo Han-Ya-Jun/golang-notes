@@ -1,4 +1,16 @@
 # gocn_news_set_2020
+## gocn_news_2020-06-12
+- 1.怎样优化一个 Go 服务以减少 40% 的 CPU 使用率？https://mp.weixin.qq.com/s/pZadyJ3YUYK3Q30w8dTymw
+
+- 2.golang http 句柄泄露  https://www.sgfoot.com/curl/
+
+- 3.golang 单点登录系统（go-sso）https://segmentfault.com/a/1190000022909135 
+- 4.并发题的解题思路以及 Go 语言调度器工作原理  https://mp.weixin.qq.com/s/GhC2WDw3VHP91DrrFVCnag
+
+- 5.Kubernetes 已进入成熟期，而云原生时代则刚刚开始 https://mp.weixin.qq.com/s/I630oo7PLyi4JyKXYbI5Cg
+
+
+
 ## go语言中文网(每日资讯)_2020-06-11
 一、Go语言中文网
 
