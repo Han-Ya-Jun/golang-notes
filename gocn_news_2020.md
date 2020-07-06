@@ -1,4 +1,17 @@
 # gocn_news_set_2020
+## gocn_news_2020-07-06
+- 1.Go Search Extension，快速在地址栏搜索 Go 文档的开源浏览器插件 https://gocn.vip/topics/10652
+
+- 2.Go 内存管理与预占位切片 https://benburkert.com/posts/padded-slices/
+
+- 3.从别人的代码中学习 golang 系列 https://mp.weixin.qq.com/s/CBe0H1nkghscNEmerxfIpw
+
+- 4.使用 govmomi 创建 VMware 虚拟机 https://juejin.im/post/5f01c0095188252e8d0dde68
+
+- 5.新书《Go 语言编程之旅：一起用 Go 做项目》出版啦！ https://juejin.im/post/5f019b00f265da230807d92d
+
+
+
 ## gocn_news_2020-07-05
 - 1.B 站新一代 golang 规则引擎的设计与实现
 https://xie.infoq.cn/article/f0a6ad06b3bfbda60f4330bee
