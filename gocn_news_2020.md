@@ -1,4 +1,14 @@
 # gocn_news_set_2020
+## gopherDaily_2020-07-11
+- 1.使用Go实现微服务系列(10篇) - https://ewanvalentine.io/microservices-in-golang-part-1/
+- 2.播客：Pace.dev生产环境中的Go - https://changelog.com/gotime/136
+- 3.Go的经验教训：有时，我尽可能不使用goroutines - https://utcc.utoronto.ca/~cks/space/blog/programming/GoWhenNotManyGoroutines
+- 4.go-safeweb：用于在Go中编写默认安全HTTP服务器的库的集合 - https://github.com/google/go-safeweb
+- 5.NASA活动：把你的名字送上火星 - https://mars.nasa.gov/participate/send-your-name/future
+- 6.GORM v2版本指南 - http://v2.gorm.io/docs/
+- 7.通过TLS使用DNS - https://fedoramagazine.org/use-dns-over-tls/
+
+
 ## go语言中文网(每日资讯)_2020-07-10
 一、Go语言中文网
 
