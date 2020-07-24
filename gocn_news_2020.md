@@ -1,4 +1,16 @@
 # gocn_news_set_2020
+## gocn_news_2020-07-24
+- 1.Go 的泛型 https://www.capitalone.com/tech/software-engineering/generics-in-go/
+
+- 2.前后端分离的 Web 应用如何在 k8s 上独立部署 https://skarlso.github.io/2020/07/23/kubernetes-deploy-golang-react-apps-separately-part1/
+
+- 3.使用 Go 语言连接 IRC 服务 https://dev.to/mnlwldr/connect-to-an-irc-server-with-golang-fj9 
+- 4.使用 GoSDK 试玩 Azure 的 Data Explorer https://itnext.io/getting-started-with-azure-data-explorer-using-the-go-sdk-807c50bc8105
+
+- 5.Docker registry GC 原理分析  https://mp.weixin.qq.com/s/D8BFeEcbwDiB5PhM824CvQ
+
+
+
 ## go语言中文网(每日资讯)_2020-07-23
 一、Go语言中文网
 
