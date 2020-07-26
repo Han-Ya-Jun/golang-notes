@@ -1,4 +1,15 @@
 # gocn_news_set_2020
+## gopherDaily_2020-07-26
+- 1.为什么选择Go(而不是python, node.js和rust)？一劳永逸地解决辩论 - https://www.bacancytechnology.com/blog/why-choose-golang-over-python-rust-and-nodejs
+- 2.Go Challenges集合(数据结构与算法) - https://tutorialedge.net/challenges/go/
+- 3.使用Go编写中间件的乐趣 - https://medium.com/@matryer/writing-middleware-in-golang-and-how-go-makes-it-so-much-fun-4375c1246e81
+- 4.kubernetes pod安全策略 - https://developer.squareup.com/blog/kubernetes-pod-security-policies/
+- 5.备份k8s中有状态应用的工具 - https://github.com/stashed/stash
+- 6.通过二维码在同一网络下分享文件 - https://github.com/prdpx7/go-fileserver
+- 7.用GitHub Actions做几个“愚蠢”(但有趣)的事情 - https://devopsdirective.com/posts/2020/07/stupid-github-actions/
+- 8.evergreen：mongodb开源的分布式持续集成系统 - https://github.com/evergreen-ci/evergreen
+
+
 ## go语言中文网(每日资讯)_2020-07-25
 一、Go语言中文网
 
