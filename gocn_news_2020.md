@@ -1,4 +1,17 @@
 # gocn_news_set_2020
+## gocn_news_2020-07-29
+- 1.我在 Go 中犯的一些小错误 https://dev.to/hoelzro/a-little-mistake-i-made-in-go-4485
+
+- 2.简单的 Go 命令行热编译工具 https://dev.to/longtime1116/simple-live-reloading-tool-for-writing-cli-applications-in-go-1262
+
+- 3.从零开始入门 K8s| 调度器的调度流程和算法介绍 https://gocn.vip/topics/10743
+
+- 4.在 Go 使用使用依赖注入搭建更好的软件 https://medium.com/effective-development/building-better-software-in-go-with-di-faf8301a9f84
+
+- 5.一款自我进化的微服务框架 https://medium.com/@jfeng45/a-self-evolved-microservice-framework-in-go-d9bf87c10ab0
+
+
+
 ## gopherDaily_2020-07-29
 - 1.Go的“WaitGroup” vs. JavaScript的“PromiseAll” - https://hackernoon.com/a-quick-coding-lesson-on-gos-waitgroup-vs-javascripts-promiseall-ax2q3ufu
 - 2.Go与Kotlin中实现并行请求的对比 - https://aawadia.hashnode.dev/parallel-requests-in-kotlin-vs-golang-ckcwqa37000cm7ss12rp3330a
